@@ -13,7 +13,7 @@ Currently, there is one docset in the repo: [openpublishing-test](openpublishing
 > [!NOTE]
 > The docset is provisioned for both MSDN and Docs.
 > + [Link to MSDN published page](https://ppe.msdn.microsoft.com/en-us/openpublishing/test?branch=master)
-> + [Link to Docs published page](https://docspilot.azurewebsites.net/en-us/openpublishing/test-docs/intro-clr?branch=master)
+> + [Link to Docs published page](https://docspilot.azurewebsites.net/en-us/openpublishing/test/index?branch=master)
 
 ## Documentation
 Please refer to OPS documentation.

@@ -30,5 +30,5 @@
             }
         }
     ],
-    "notification_subscribers": ["yih@microsoft.com"]
+    "notification_subscribers": ["opbuild@microsoft.com"]
 }
