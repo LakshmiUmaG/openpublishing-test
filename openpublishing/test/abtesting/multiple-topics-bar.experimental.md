@@ -1,9 +1,9 @@
 ---
 experiment_id: "foo-bar-baz-demo"
 experimental: true
-pagetitle: "Multiple Topics A/B Testing - Bar - Variant B"
+pagetitle: "Bar: Variant B | Multiple Topics A/B Testing"
 ---
 
-# Multiple Topics A/B Testing - Bar - Variant B ##
+# Bar: Variant B ##
 
 This page intentionally left blank.
