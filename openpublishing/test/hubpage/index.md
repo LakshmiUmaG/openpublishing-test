@@ -28,7 +28,7 @@ layout: HubPage
     </header>
     <ol class="carousel">
       <li class="column column-third">
-        <a href="/EM/Solutions/mdm-design-considerations-guide">
+        <a href="about:blank">
           <img src="./Image/mobile_engagement_icon.png" alt="MDM DCG Icon">
           <div class="content">
             <h4>Mobile Device Management Design Considerations Guide</h4>
@@ -36,7 +36,7 @@ layout: HubPage
         </a>
       </li>
       <li class="column column-third">
-        <a href="/active-directory/active-directory-hybrid-identity-design-considerations-overview" target="_blank">
+        <a href="about:blank" target="_blank">
           <img src="./Image/azure_active_directory_icon.png" alt="Hybrid Identity DCG icon">
           <div class="content">
             <h4>Hybrid Identity Design Considerations Guide</h4>
@@ -44,7 +44,7 @@ layout: HubPage
         </a>
       </li>
       <li class="column column-third">
-        <a href="/EM/Solutions/BYOD-design-considerations-guide">
+        <a href="about:blank">
           <img src="./Image/mobile_devices_icon.png" alt="BYOD DCG icon">
           <div class="content">
             <h4>Bring Your Own Device Design Considerations Guide</h4>
@@ -60,7 +60,7 @@ layout: HubPage
         </a>
       </li>
       <li class="column column-third">
-        <a href="/EM/Solutions/Secure-access-to-company-resources-from-any-location-on-any-device">
+        <a href="about:blank">
           <img src="./Image/intune_byod_icon.png" alt="Intune icon">
           <div class="content">
             <h4>Securing Access to Company Resources from Any Device</h4>
@@ -68,7 +68,7 @@ layout: HubPage
         </a>
       </li>
       <li class="column column-third">
-        <a href="./Solutions/Architecture-guidance-for-protecting-company-email-and-documents">
+        <a href="about:blank">
           <img src="./Image/conditional access_exchange_icon.png" alt="Intune icon">
           <div class="content">
             <h4>Protect Company Email &amp; Documents</h4>
@@ -85,19 +85,19 @@ layout: HubPage
     </header>
     <ol class="row">
       <li class="column column-third">
-        <a href="/active-directory/active-directory-whatis">
+        <a href="about:blank">
           <h4>Azure Active Directory</h4>
           <p>Synchronize on-premises directories and enable single sign-on</p>
         </a>
       </li>
       <li class="column column-third">
-        <a href="/multi-factor-authentication/multi-factor-authentication">
+        <a href="about:blank">
           <h4>Azure Multi-Factor Authentication</h4>
           <p>Safeguard access to your data and apps with an extra level of authentication</p>
         </a>
       </li>
       <li class="column column-third">
-        <a href="/MIM/index">
+        <a href="about:blank">
           <h4>Microsoft Identity Manager</h4>
           <p>Configure identity and access management that is secure, flexible, and cloud ready</p>
         </a>
@@ -112,7 +112,7 @@ layout: HubPage
     </header>
     <ol class="row">
       <li class="column column-third">
-        <a href="/Intune/">
+        <a href="about:blank">
           <h4>Intune</h4>
           <p>Manage and protect corporate apps and data on devices using the MDM and MAM capabilities of Intune</p>
         </a>
@@ -127,13 +127,13 @@ layout: HubPage
     </header>
     <ol class="row">
       <li class="column column-third">
-        <a href="/rights-management/">
+        <a href="about:blank">
           <h4>Azure Rights Management</h4>
           <p>Protect your information from unauthorized access and control how information is used</p>
         </a>
       </li>
       <li class="column column-third">
-        <a href="/ATA/">
+        <a href="about:blank">
           <h4>Advanced Threat Analytics</h4>
           <p>Identify breaches and threats using behavioral analysis and create reports on a simple attack timeline</p>
         </a>
@@ -148,7 +148,7 @@ layout: HubPage
     </header>
     <ol class="row">
       <li class="column column-third">
-        <a href="/remoteapp/remoteapp-whatis">
+        <a href="about:blank">
           <h4>Azure RemoteApp</h4>
           <p>Deploy Windows cloud apps in the cloud and run on any device</p>
         </a>
