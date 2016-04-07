@@ -17,14 +17,14 @@ ms.author: 5f6e9ed0-302d-496f-873c-7a2b94e50410
 # ATA Deployment Guide
 To deploy ATA, follow these steps:
 
-1. Prepare your network and servers according to the guidelines in [ATA Prerequisites](./ATA_Deployment_Guide.md).
+1. Prepare your network and servers according to the guidelines in [ATA Prerequisites](./small.md).
 
-2. Perform pre-installation steps: [Install ATA](./Install_ATA.md)
+2. Perform pre-installation steps: [Install ATA](./large.md)
 
-   - [Configure Port Mirroring](./ATA_Deployment_Guide.md)
+   - [Configure Port Mirroring](./small.md)
 
-   - [Validate Port Mirroring](./ATA_Deployment_Guide.md)
+   - [Validate Port Mirroring](./small.md)
 
-   - Optional: [Configure Event Collection](./ATA_Deployment_Guide.md)
+   - Optional: [Configure Event Collection](./small.md)
 
-3. [Install ATA](./Install_ATA.md)
+3. [Install ATA](./large.md)

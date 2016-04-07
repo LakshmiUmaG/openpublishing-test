@@ -25,16 +25,16 @@ Use a Switch to let the user select one of two options, or even a permutation of
 
 Below is single selector:
 > [!div class="op_single_selector"]
-- [ATA Deployment Guide](./ATA_Deployment_Guide.md)
-- [Install ATA](./Install_ATA.md)
+- [ATA Deployment Guide](./small.md)
+- [Install ATA](./large.md)
 
 Below is multi selector:
 > [!div class="op_multi_selector" title1="Platform" title2="Backend"]
-- [(iOS | .NET)](./ATA_Deployment_Guide.md)
-- [(iOS | JavaScript)](./Install_ATA.md)
+- [(iOS | .NET)](./small.md)
+- [(iOS | JavaScript)](./large.md)
 
 ## Step-by-step
 For step-by-step tutorials, you may optionally include the step-by-step UI component at the bottom of the article.
 > [!div class="step-by-step"]
-[prev](ATA_Deployment_Guide.md)
-[next](Install_ATA.md)
+[prev](small.md)
+[next](large.md)

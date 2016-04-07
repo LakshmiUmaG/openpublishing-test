@@ -36,7 +36,7 @@ To configure ATA, follow these steps:
 
 ## <a name="Preinstallsteps"></a>Pre-installation steps
 
-1. If you installed the ATA public preview version, see [ATA Release Notes](./ATA_Deployment_Guide.md) for help uninstalling the ATA Preview version.
+1. If you installed the ATA public preview version, see [ATA Release Notes](./small.md) for help uninstalling the ATA Preview version.
 
 2. Install KB2934520 on the ATA Center server and on the ATA Gateway servers before beginning installation, otherwise the ATA installation will install this update and will require a restart in the middle of the ATA installation.
 
@@ -60,7 +60,7 @@ Perform the following steps on the ATA Center server.
    |Field <br /> <br />|Description <br /> <br />|Comments <br /> <br />|
    |---------|---------------|------------|
    |Installation Path <br /> <br />|This is the location where the ATA Center will be installed. By default this is  %programfiles%\Microsoft Advanced Threat Analytics\Center <br /> <br />|Leave the default value <br /> <br />|
-   |Database Data Path <br /> <br />|This is the location where the MongoDB database files will be located. By default this is %programfiles%\Microsoft Advanced Threat Analytics\Center\MongoDB\bin\data <br /> <br />|Change the location to a place where you have room to grow based on your sizing. **Note:** <ul><li>In production environments you should use a drive that has enough space based on capacity planning. </li><li>For large deployments the database should be on a separate physical disk. </li> </ul>See [ATA Capacity Planning](./ATA_Deployment_Guide.md) for sizing information. <br />|
+   |Database Data Path <br /> <br />|This is the location where the MongoDB database files will be located. By default this is %programfiles%\Microsoft Advanced Threat Analytics\Center\MongoDB\bin\data <br /> <br />|Change the location to a place where you have room to grow based on your sizing. **Note:** <ul><li>In production environments you should use a drive that has enough space based on capacity planning. </li><li>For large deployments the database should be on a separate physical disk. </li> </ul>See [ATA Capacity Planning](./small.md) for sizing information. <br />|
    |Database Journal Path <br /> <br />|This is the location where the database journal files will be located. By default this is %programfiles%\Microsoft Advanced Threat Analytics\Center\MongoDB\bin\data\journal <br /> <br />|For large deployments, the Database Journal should be on a separate physical disk from the database and the system drive. Change the location to a place where you have room for your Database Journal. <br /> <br />|
    |ATA Center Service IP address: Port <br /> <br />|This is the IP address that the ATA Center service will listen on for communication from the ATA Gateways. <br /> <br />**Default port:** 443 <br /> <br />|Click the down arrow to select the IP address to be used by the ATA Center service. <br /> <br />The IP address and port of the ATA Center service cannot be the same as the IP address and port of the ATA Console. Make sure to change the port of the ATA Console. <br /> <br />|
    |ATA Center Service SSL Certificate <br /> <br />|This is the certificate that will be used by the ATA Center service. <br /> <br />|Click the key icon to select a certificate installed or check self-signed certificate when deploying in a lab environment. <br /> <br />|
@@ -100,7 +100,7 @@ The settings in the domain connectivity settings section apply to all ATA Gatewa
 
 To configure the Domain connectivity settings perform the following on the ATA Center server.
 
-1. Open the ATA Console and log in. For instructions see [Working with the ATA Console](./ATA_Deployment_Guide.md).
+1. Open the ATA Console and log in. For instructions see [Working with the ATA Console](./small.md).
 
 2. The first time you log into the ATA Console after the ATA Center has been installed, you will automatically be taken to the ATA Gateways configuration page. If you need to modify any of the settings afterwards, click the Settings icon and select **Configuration**.
 
@@ -135,7 +135,7 @@ The zip file includes the following:
 - Configuration setting file with the required information to connect to the ATA Center
 
 ## <a name="InstallATAGW"></a>Step 4. Install the ATA Gateway
-Before installing the ATA Gateway, validate that port mirroring is properly configured and that the ATA Gateway can see traffic to and from the domain controllers. See [Validate Port Mirroring](./ATA_Deployment_Guide.md) for more information.
+Before installing the ATA Gateway, validate that port mirroring is properly configured and that the ATA Gateway can see traffic to and from the domain controllers. See [Validate Port Mirroring](./small.md) for more information.
 
 > [!IMPORTANT]
 > Make sure that [KB2919355](http://support.microsoft.com/kb/2919355/) has been installed.  Run the following PowerShell cmdlet to check if the hotfix is installed:
@@ -245,7 +245,7 @@ Short-term lease subnets are subnets in which the IP address assignment changes 
    > [!NOTE]
    > To find the SID for a user, run the following Windows PowerShell cmdlet `Get-ADUser UserName`.
 
-4. Configure exclusions: You can configure IP addresses to be excluded from specific suspicious activities. See [Working with ATA Detection Settings](./ATA_Deployment_Guide.md) for more information.
+4. Configure exclusions: You can configure IP addresses to be excluded from specific suspicious activities. See [Working with ATA Detection Settings](./small.md) for more information.
 
 5. Click **Save**.
 
@@ -259,6 +259,6 @@ Remember that it takes a minimum of three weeks for ATA to build behavioral prof
 
 ## See Also
 [For support, check out our forum!](https://social.technet.microsoft.com/Forums/security/en-US/home?forum=mata)
-[Configure Event Collection](./ATA_Deployment_Guide.md)
-[ATA Prerequisites](./ATA_Deployment_Guide.md)
+[Configure Event Collection](./small.md)
+[ATA Prerequisites](./small.md)
 
