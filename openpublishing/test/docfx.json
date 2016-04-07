@@ -9,8 +9,7 @@
       ],
     "resource": [
         {
-          "files": ["**/images/**"],
-          "exclude": ["**/obj/**"]
+          "files": ["**/**.bmp", "**/**.gif", "**/**.ico", "**/**.jpg", "**/**.jpeg", "**/**.png"]
         }
     ],
     "globalMetadata": {
