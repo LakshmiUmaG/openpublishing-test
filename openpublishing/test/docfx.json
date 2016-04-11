@@ -3,8 +3,14 @@
     "content":
       [
         {
-          "files": ["**/**.md"],
-          "exclude": ["**/obj/**"]
+          "files": [
+            "**/**.md",
+            "**/*.yml"
+          ],
+          "exclude": [
+            "**/obj/**",
+            "_themes/**"
+          ]
         }
       ],
     "resource": [
