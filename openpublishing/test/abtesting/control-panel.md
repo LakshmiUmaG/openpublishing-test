@@ -32,3 +32,5 @@
   head.appendChild(script);
 })();
 </script>
+
+You will see the A/B Testing Control Panel on the left side, this is expected, please have a try.

@@ -35,8 +35,8 @@ For example, writers can have **hello.md** and **hello.experimental.md**, and sp
     var experiment_id = 'global-testing-demo';
     Experiment.IsEnabledAsync(experiment_id).done(function(fEnabled){
         if (fEnabled) {
-			// do something, in case the experiment is ON for this specific session
-		} else {
-			// do something else, in case the experiment is OFF for this specific session
-		}
-	});
+            // do something, in case the experiment is ON for this specific session
+        } else {
+            // do something else, in case the experiment is OFF for this specific session
+        }
+    });
