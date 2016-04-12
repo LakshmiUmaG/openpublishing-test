@@ -12,7 +12,7 @@
 ### [Large](./conceptual/large.md)
 ### [UI Components](./conceptual/ui-components.md)
 ## [Hub Page](./hubpage/index.md)
-## Reference
+## [Reference]((./reference/index.md)
 ### [Microsoft.IdentityModel.Clients.ActiveDirectory](./reference/Microsoft.IdentityModel.Clients.ActiveDirectory.yml)
 ### [Small (System.Action)](./reference/System.Action.yml)
 ### [Large (System.Linq.Expressions.Expression)](./reference/System.Linq.Expressions.Expression.yml)
