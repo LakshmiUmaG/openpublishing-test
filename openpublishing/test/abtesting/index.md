@@ -32,3 +32,5 @@
   head.appendChild(script);
 })();
 </script>
+
+   ![](./ab-testing-flow.png)
