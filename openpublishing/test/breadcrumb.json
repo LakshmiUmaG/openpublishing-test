@@ -1,0 +1,30 @@
+[{
+		"toc_title" : "Documentation",
+		"href" : "/",
+		"level" : 1,
+		"children" : [{
+				"href" : "/openpublishing/test",
+				"homepage" : "openpublishing/test/index",
+				"toc_title" : "openpublishing_test",
+				"level" : 2,
+				"children" : [{
+						"href" : "/openpublishing/test/abtesting/",
+						"homepage" : "/openpublishing/test/abtesting/index",
+						"toc_title" : "abtesting",
+						"level" : 3
+					}, {
+						"href" : "/openpublishing/test/conceptual/",
+						"homepage" : "/openpublishing/test/conceptual/",
+						"toc_title" : "conceptual",
+						"level" : 3
+					}, {
+						"href" : "/openpublishing/test/reference/",
+						"homepage" : "/openpublishing/test/reference/",
+						"toc_title" : "reference",
+						"level" : 3
+					}
+				]
+			}
+		]
+	}
+]
