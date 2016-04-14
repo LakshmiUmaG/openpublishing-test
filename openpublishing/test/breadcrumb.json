@@ -1,0 +1,20 @@
+[{
+		"toc_title" : "Documentation",
+		"href" : "/",
+		"level" : 1,
+		"children" : [{
+				"href" : "/openpublishing/test/",
+				"homepage" : "openpublishing/test/index",
+				"toc_title" : "Openpublishing Test",
+				"level" : 2,
+				"children" : [{
+						"href" : "/openpublishing/test/reference/",
+						"homepage" : "/openpublishing/test/reference/",
+						"toc_title" : "reference",
+						"level" : 3
+					}
+				]
+			}
+		]
+	}
+]

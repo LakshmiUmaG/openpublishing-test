@@ -3,18 +3,25 @@
     "content":
       [
         {
-          "files": ["**/**.md"],
-          "exclude": ["**/obj/**"]
+          "files": [
+            "**/**.md",
+            "**/*.yml"
+          ],
+          "exclude": [
+            "**/obj/**",
+            "_themes/**"
+          ]
         }
       ],
     "resource": [
         {
-          "files": ["**/images/**"],
+          "files": ["**/**.bmp", "**/**.gif", "**/**.ico", "**/**.jpg", "**/**.jpeg", "**/**.png","breadcrumb.json"],
           "exclude": ["**/obj/**"]
         }
     ],
     "globalMetadata": {
-        "ROBOTS": "NOINDEX, NOFOLLOW"
+        "ROBOTS": "NOINDEX, NOFOLLOW",
+        "breadcrumb_path": "/openpublishing/test/breadcrumb.json"
     },
     "externalReference": [
     ],
