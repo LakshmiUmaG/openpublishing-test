@@ -1,4 +1,5 @@
 {
     "experiment_id": "resource-demo",
-    "experimental": true
+    "experimental": true,
+    "author": "reyang"
 }
