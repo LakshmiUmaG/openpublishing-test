@@ -18,7 +18,7 @@
           "files": ["**/**.bmp", "**/**.gif", "**/**.ico", "**/**.jpg", "**/**.jpeg", "**/**.png","breadcrumb.json"],
           "exclude": [
             "**/obj/**",
-            "_themes/DocPacker/**"
+            "_themes/**"
           ]
         }
     ],
