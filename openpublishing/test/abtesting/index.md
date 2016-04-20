@@ -4,6 +4,8 @@
 
 **Global A/B Testing:** A/B testing on a wide scope, for example theme and page layout which applies to all articles in a given site (or specific locale).
 
+   ![](./iceberg.jpg)
+
 ## Content Level A/B Testing
 *Content Level A/B Testing* allows **content owners** to self-service, having variants of contents delivered from the same URL, specifying the split ratio and getting the BI statistics.
 
