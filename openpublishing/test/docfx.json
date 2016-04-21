@@ -16,7 +16,10 @@
     "resource": [
         {
           "files": ["**/**.bmp", "**/**.gif", "**/**.ico", "**/**.jpg", "**/**.jpeg", "**/**.png","breadcrumb.json"],
-          "exclude": ["**/obj/**"]
+          "exclude": [
+            "**/obj/**",
+            "_themes/**"
+          ]
         }
     ],
     "globalMetadata": {
