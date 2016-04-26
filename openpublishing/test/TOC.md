@@ -19,3 +19,5 @@
 ### [Small (System.Action)](./reference/System.Action.yml)
 ### [Large (Expression)](./reference/System.Linq.Expressions.Expression.yml)
 ### [Large (System.String)](./reference/System.String.yml)
+## [Rest API](./restapi/index.md)
+### [Azure AD Graph API Operations on Contacts](./restapi/contacts_swagger2.json)
