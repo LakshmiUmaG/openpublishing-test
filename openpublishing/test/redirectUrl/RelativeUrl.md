@@ -1,6 +1,6 @@
 ---
 title: redirectUrl test - Relative path
-redirect_url: RelativeContent
+redirect_url: RelativePage
 ---
 
 
