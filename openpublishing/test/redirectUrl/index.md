@@ -1,8 +1,11 @@
 ---
-title: redirectUrl test - Absolute path
-redirect_url: http://www.bing.com
+title: redirectUrl test - index
 ---
 
 
-# redirectUrl test - Absolute path
+# This folder is used for absolute & relative redirect_url test.
+AbsoluteUrl - absolute test.
+EmptyRelativeUrl - relative format but with empty value.
+InvalidRelativeUrl - relative format but with invalid vlue.
+RelativeUrl - relative format with path : RelativePage.
  
