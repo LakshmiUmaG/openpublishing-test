@@ -5,24 +5,37 @@
         {
           "files": [
             "**/**.md",
+			"**/*_swagger2.json",
             "**/*.yml"
           ],
           "exclude": [
             "**/obj/**",
-            "_themes/**"
+            "_themes/**",
+            "**/*-operations.md"
           ]
         }
       ],
     "resource": [
         {
           "files": ["**/**.bmp", "**/**.gif", "**/**.ico", "**/**.jpg", "**/**.jpeg", "**/**.png","breadcrumb.json"],
-          "exclude": ["**/obj/**"]
+          "exclude": [
+            "**/obj/**",
+            "_themes/**"
+          ]
         }
     ],
     "globalMetadata": {
         "ROBOTS": "NOINDEX, NOFOLLOW",
-        "breadcrumb_path": "/openpublishing/test/breadcrumb.json"
+        "breadcrumb_path": "/openpublishing/test/breadcrumb.json",
+        "_mockServerUrl": "https://apiexproxy.azurewebsites.net/svc",
+        "_mockServerAuthorization": "Bearer {token:https://graph.windows.net/}"
     },
+    "overwrite":
+    [
+      {
+        "files": ["**/*-operations.md"]
+      }
+    ],
     "externalReference": [
     ],
     "template": "op.html",

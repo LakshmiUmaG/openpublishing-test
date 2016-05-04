@@ -8,6 +8,7 @@
 ### [Multiple Topics (Foo)](./abtesting/multiple-topics-foo.md)
 ### [Multiple Topics (Bar)](./abtesting/multiple-topics-bar.md)
 ### [Multiple Topics (Baz)](./abtesting/multiple-topics-baz.md)
+### [Dali Demo](./abtesting/dali-demo.md) 
 ## [Conceptual](./conceptual/index.md)
 ### [Small](./conceptual/small.md)
 ### [Large](./conceptual/large.md)
@@ -18,3 +19,5 @@
 ### [Small (System.Action)](./reference/System.Action.yml)
 ### [Large (Expression)](./reference/System.Linq.Expressions.Expression.yml)
 ### [Large (System.String)](./reference/System.String.yml)
+## [Rest API](./restapi/index.md)
+### [Azure AD Graph API Operations on Contacts](./restapi/contacts_swagger2.json)
