@@ -5,4 +5,4 @@ pagetitle: "Variant B | Single Topic A/B Testing"
 
 # Variant B ##
 
-This page intentionally left blank.
+   ![](./iceberg.experimental.jpg)

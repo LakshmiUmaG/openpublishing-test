@@ -20,4 +20,4 @@ Currently, there is one docset in the repo: [openpublishing-test](openpublishing
 ## How to contribute
 By default, members of [Microsoft/vsc-eng-team](https://github.com/orgs/Microsoft/teams/vsc-eng-team) team have write permission to the repo. Please contact the owner of the team if you'd like to contribute.
 
-You are encourage to modify the contents in your own branch, please create a branch named after your alias - DO NOT modify others' branches! 
+You are encouraged to modify the contents in your own branch, please create a branch named after your alias - DO NOT modify others' branches! 
