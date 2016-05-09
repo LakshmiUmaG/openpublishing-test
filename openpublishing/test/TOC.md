@@ -8,7 +8,6 @@
 ### [Multiple Topics (Foo)](./abtesting/multiple-topics-foo.md)
 ### [Multiple Topics (Bar)](./abtesting/multiple-topics-bar.md)
 ### [Multiple Topics (Baz)](./abtesting/multiple-topics-baz.md)
-### [All Hands Demo](./abtesting/all-hands-demo.md)
 ## [Conceptual](./conceptual/index.md)
 ### [Small](./conceptual/small.md)
 ### [Large](./conceptual/large.md)
