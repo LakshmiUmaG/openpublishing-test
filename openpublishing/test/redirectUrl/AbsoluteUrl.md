@@ -1,6 +1,6 @@
 ---
 title: redirectUrl test - Absolute path
-redirect_url: http://www.bing.com
+redirect_url: https://docspilot.azurewebsites.net/en-us/openpublishing/test/conceptual/large
 ---
 
 
