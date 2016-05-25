@@ -8,7 +8,7 @@ Feature owners are encouraged to make changes of documents and resources in the 
 For OPS documentation, please refer to [openpublishing-docs](https://ppe.msdn.microsoft.com/en-us/openpublishing/docs?branch=master).
 
 ## Provisioning
-Currently, there is one docset in the repo: [openpublishing-test](openpublishing/test/index.md)
+Currently, there is one docset in the repo: **openpublishing-test**
 
 > [!NOTE]
 > The docset is provisioned for both MSDN and Docs.
