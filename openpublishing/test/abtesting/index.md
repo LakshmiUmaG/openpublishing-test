@@ -46,18 +46,22 @@ For example, writers can have **hello.md** and **hello.experimental.md**, and sp
 
 ### Sample Code (ECMAScript)
 
-    Experiment.IsEnabledAsync('your_cool_feature_name_or_id').done(function(fEnabled){
-        if (fEnabled) {
-            // do something, in case the experiment is ON for this specific session
-        } else {
-            // do something else, in case the experiment is OFF for this specific session
-        }
-    });
+```javascript
+Experiment.IsEnabledAsync('your_cool_feature_name_or_id').done(function(fEnabled){
+    if (fEnabled) {
+        // do something, in case the experiment is ON for this specific session
+    } else {
+        // do something else, in case the experiment is OFF for this specific session
+    }
+});
+```
 
 #### Real World Example
 
 Please try this now! Open the F12 console and run the following code:
 
-    Experiment.IsEnabledAsync('use_super_large_font').done(function(fEnabled){
-        document.body.style['font-size'] = fEnabled ? '300%' : '150%';
-    });
+```javascript
+Experiment.IsEnabledAsync('use_super_large_font').done(function(fEnabled){
+    document.body.style['font-size'] = fEnabled ? '300%' : '150%';
+});
+```
