@@ -1,0 +1,8 @@
+{
+  "locales": ["de-de", "zh-cn"],
+  "files": ["openpublishing/*.md", "openpublishing/**/*.md"],
+  "includeDependencies": true,
+  "autoPush": true,
+  "xliffVersion": "1.2",
+  "dontDeleteFiles": false
+}
