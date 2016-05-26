@@ -3,6 +3,7 @@
 # Open Publishing Test
 ## [Get Started](index.md)
 ## [A/B Testing](./abtesting/index.md)
+### [User's Manual](./abtesting/users-manual-content.md)
 ### [Control Panel!](./abtesting/control-panel.md)
 ### [Single Topic](./abtesting/single-topic.md)
 ### [Multiple Topics (Foo)](./abtesting/multiple-topics-foo.md)
