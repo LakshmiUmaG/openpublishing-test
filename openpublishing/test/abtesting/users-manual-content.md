@@ -1,13 +1,13 @@
 #User's Manual - Content Level A/B Testing
 
-##Prerequisite:
+##Prerequisite
 
 ![](./UM-Prerequisite.png)
 - Please follow the step [How to Join the Microsoft GitHub Organization](http://https://opensourcehub.microsoft.com/articles/how-to-join-microsoft-github-org-self-service) to link your GitHub account with Microsoft organization.
 - Read the CSI instruction to understand the process how to `CREATE` / `EDIT` / `COMMIT` Markdown file to GitHub. These instructions really don't take content creation/revision into consideration.
 - Use working branch before merge into Live environment which is always a **BEST PRACTISE**.
 
-##Step-by-step:
+##Step-by-step
 
 ###Create a new experiment
 
@@ -25,7 +25,7 @@
 		> `experiment:true`
 		>`experiment_id:`,
 
-		`experiment_id:` is the unique id for your experiment. We recommend that your experiment id be of the form &lt;youralias&gt;-&lt;experimentname&gt;-&lt;date&gt;
+		`experiment_id` is the unique id for your experiment. We recommend that your experiment id be of the form &lt;youralias&gt;-&lt;experimentname&gt;-&lt;date&gt;
 
 3. Create Variant B Page:
 	- Create a Variant B page for the topic in the same folder using all of Page A’s original metadata. Add the `experiment_id` field and use the same experiment ID you created for the A variant.
@@ -55,7 +55,7 @@
 	- Preview the result by adding prefix `https://stage.docs.microsoft.com/_chrome/experiment.htm#` to switch between your Page A and B.
 
 2. Setup Metrics:
-	- Expand the experiment from A/B testing management portal.
+	- Expand the experiment from [A/B Configuration portal](https://abtestingportal.azurewebsites.net/#/experiments).
 	- Click **EDIT** from **METRIC CONFIG** tab.
 
 3. Start the experiment:
@@ -76,7 +76,7 @@
 2. Stop the experiment:
 	- Click the **STOP** button to stop the experiment.
 
-3. Delete the experiment from A/B testing management portal:
+3. Delete the experiment from [A/B Configuration portal](https://abtestingportal.azurewebsites.net/#/experiments):
 	- Click **DELETE** button to remove the experiment from the list.
 
 4. Clean up unnecessary Variant version.
