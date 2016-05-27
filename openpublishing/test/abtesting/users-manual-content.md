@@ -37,6 +37,9 @@
 
 5. Preview the result from portal:
 	- Open OP Portal, wait until the build is completed without error message.
+
+	![](./UM-OP-Portal.png)
+
 	- Open stage site and preview the result.
 
 6. Merge your Variant A and Variant B to Live branch
@@ -48,7 +51,13 @@
 1. Create an experiment:
 
 	- Open [A/B Configuration portal](https://abtestingportal.azurewebsites.net/#/experiments), and click **ADD EXPERIMENT** to create a new experiment.
+
+	![](./UM-AB-Portal-Experiments.png)
+
 		- Experiment id fields can be either `document_id` or `experiment_id` in the Variant A page. For now, please enter the `experiment_id` you created for your experiment.
+
+	![](./UM-AB-Portal-Experiment-New.png)
+
 		- Select the percentage of users who will see Variant B. The percentage can be from 0% to 100%, we recommend 50% as a starting point. Enter the percentage *without* a percent sign.
 		- Select the maximum number of users who will see the B variant. Note that at the moment this is not enforced (the experimentation framework *will* keep track of how many users see the B variant, but it will *NOT* yet automatically shut off the experiment when that number is reached). A good number to start with is in the range of 500 – 1000.
 	- Save the experiment. You will be returned to the experimentation portal front page.
@@ -56,13 +65,22 @@
 
 2. Setup Metrics:
 	- Expand the experiment from [A/B Configuration portal](https://abtestingportal.azurewebsites.net/#/experiments).
+
+	![](./UM-AB-Portal-Metrics.png)
+
 	- Click **EDIT** from **METRIC CONFIG** tab.
+
+	![](./UM-AB-Portal-Metrics-Config.png)
 
 3. Start the experiment:
 	- Click the **START** button to start the experiment.
 
+	![](./UM-AB-Portal-Experiments-Action.png)
+
 4. Monitor the metric result:
 	- Click **METRIC RESULT** to show the result. (NOTE, it will takes about 4-6 hrs to show the result because of the latency time from WEDCS)
+
+	![](./UM-AB-Portal-Metrics-Result.png)
 
 ###Clean up A/B testing once it is completed.
 
@@ -73,8 +91,12 @@
 	- Select the Metric, click **METRIC RESULT** tab, and then click **EXPORT EXCEL** to export the result.
 	- Repeat the **EXPORT EXCEL** for all the related metrics.
 
+	![](./UM-AB-Portal-Metrics-Result.png)
+
 2. Stop the experiment:
 	- Click the **STOP** button to stop the experiment.
+
+	![](./UM-AB-Portal-Experiments-Action.png)
 
 3. Delete the experiment from [A/B Configuration portal](https://abtestingportal.azurewebsites.net/#/experiments):
 	- Click **DELETE** button to remove the experiment from the list.
