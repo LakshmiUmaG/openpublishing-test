@@ -4,8 +4,8 @@
 
 ![](./UM-Prerequisite.png)
 - Please follow the step [How to Join the Microsoft GitHub Organization](http://https://opensourcehub.microsoft.com/articles/how-to-join-microsoft-github-org-self-service) to link your GitHub account with Microsoft organization.
-- Read the CSI instruction to understand the process how to `CREATE` / `EDIT` / `COMMIT` Markdown file to GitHub. These instructions really don't take content creation/revision into consideration.
-- Use working branch before merge into Live environment which is always a **BEST PRACTISE**.
+- Read the CSI instruction to understand the process how to **CREATE** / **EDIT** /**COMMIT** Markdown file to GitHub. This manual really don't take content creation/revision into consideration.
+- Use **working** branch before merge into Live environment which is always a **BEST PRACTISE**.
 
 ##Step-by-step
 
@@ -17,7 +17,7 @@
 
 - The A/B test requires two separate markdown files, the A variant, and the B variant. You may already have an A variant as an existing published page.
 
-1. Switch to your working branch:
+1. Switch to your **working** branch:
 	- If you are working locally, switch to your local staging branch. The staging branch is whichever branch you use to commit changes that will be published to [stage endpoint](https://stage.docs.microsoft.com).
 
 2. Edit Variant A Page:
@@ -30,7 +30,7 @@
 3. Create Variant B Page:
 	- Create a Variant B page for the topic in the same folder using all of Page A’s original metadata. Add the `experiment_id` field and use the same experiment ID you created for the A variant.
 	- Use the following file name structure when you save the Variant B page: &lt;sourcefilename&gt;`.experimental.md`. For example:
-		- If Variant A is CSI-demo.md, then Variant B should be CSI-demo.experimental.md
+		- If A Variant is CSI-demo.md, then B Variant should be CSI-demo.experimental.md
 
 4. Add and commit your changes:
  	- If you are working locally, you will have to merge these local changes with the staging branch on GitHub with a pull request. If you are working on GitHub, simply commit the changes. Once the files are committed to the staging branch on GitHub,  it will automatically trigger the OP build for the staging branch.
@@ -40,7 +40,7 @@
 	- Open stage site and preview the result.
 
 6. Merge your Variant A and Variant B to Live branch
-	- Once you’ve confirmed that the A and B variants are available on the staging server, merge your Variant A and Variant B files to the Live branch for publication to the production site.
+	- Once you’ve confirmed that the A and B variants are available on the staging server, merge your Variant A and Variant B files to the **Live** branch for publication to the production site.
 
 
 ####Part II: Create an Experiment on A/B Testing Configuration Portal.
