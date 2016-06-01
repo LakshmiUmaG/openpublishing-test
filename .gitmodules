@@ -1,4 +1,4 @@
-[submodule "DocsTemplate"]
+[submodule "MSDNTemplate"]
 	path = openpublishing/test/_themes
-	url = https://github.com/Microsoft/templates.docs.msft
-	branch = master
+	url = https://github.com/Microsoft/templates.msdn.msft
+	branch = hotfix
