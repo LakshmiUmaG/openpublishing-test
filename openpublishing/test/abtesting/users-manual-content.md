@@ -77,10 +77,22 @@
 
 	![](./UM-AB-Portal-Experiments-Action.png)
 
-4. Monitor the metric result:
-	- Click **METRIC RESULT** to show the result. (NOTE, it will takes about 4-6 hrs to show the result because of the latency time from WEDCS)
+
+###Monitoring and Reports
+1. Monitor the metric counters:
+	- Select the counter from **Metrics Counter**, and click **METRIC RESULT** to show the result. (NOTE, it will takes about 4-6 hrs to show the result because of the latency time from WEDCS)
 
 	![](./UM-AB-Portal-Metrics-Result.png)
+
+2. Offline metric report:
+	- Click **ADD** button on the Metrics Report from left panel to Create a report.
+
+	![](./UM-AB-Portal-Metric-Report-Config.png)
+
+	- Click "Run Report" in the button of the foorm.
+	- Export the report to .cvs file once it is **FINISHED**
+
+	![](./UM-AB-Portal-Metric-Report-Result.png)
 
 ###Clean up A/B testing once it is completed.
 
