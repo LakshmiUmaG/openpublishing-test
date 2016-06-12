@@ -22,10 +22,11 @@
 
 2. Edit Variant A Page:
 	- Edit your source file (Page A) by adding the following metadata::
-		> `experimental:true`
-		>`experiment_id:`,
+		> `experimental: true`
+		> 
+		> `experiment_id: "billg-font-20160229"`
 
-		`experiment_id` is the unique id for your experiment. We recommend that your experiment id be of the form &lt;youralias&gt;-&lt;experimentname&gt;-&lt;date&gt;
+		`experiment_id` is the unique id for your experiment. We recommend that your experiment id be of the form &lt;your\_alias&gt;-&lt;experiment\_name&gt;-&lt;YYYYMMDD&gt;
 
 3. Create Variant B Page:
 	- Create a Variant B page for the topic in the same folder using all of Page A's original metadata. Add the `experiment_id` field and use the same experiment ID you created for the A variant.
@@ -119,7 +120,7 @@
 		- If choose Variant B, copy the content from Variant B to Variant A and delete Variant B.
 
 5. Clean up metadata from Markdown file
-	- Remove `experimental:true` and `experiment_id` from final Markdown file
+	- Remove `experimental: true` and `experiment_id` from final Markdown file
 
 6. Commit changes.
 
