@@ -2,7 +2,7 @@
 
 **Content Level A/B Testing:** A/B testing on specific documents or resources.
 
-**Global A/B Testing:** A/B testing on a wide scope, for example theme and page layout which applies to all articles in a given site (or specific locale).
+**Global Level A/B Testing:** A/B testing on a wide scope, for example theme and page layout which applies to all articles in a given site (or specific locale).
 
    ![](./iceberg.jpg)
 
