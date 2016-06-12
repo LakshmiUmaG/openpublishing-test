@@ -4,8 +4,8 @@
 
 ![](./UM-Prerequisite.png)
 - Please follow the step [How to Join the Microsoft GitHub Organization](http://https://opensourcehub.microsoft.com/articles/how-to-join-microsoft-github-org-self-service) to link your GitHub account with Microsoft organization.
-- Read the CSI instruction to understand the process how to **CREATE** / **EDIT** /**COMMIT** Markdown file to GitHub. This manual really don't take content creation/revision into consideration.
-- Use **working** branch before merge into Live environment which is always a **BEST PRACTISE**.
+- Read the CSI instruction to understand the process how to **CREATE** / **EDIT** / **COMMIT** markdown file to GitHub. This manual really don't take content creation/revision into consideration.
+- Use **working** branch before merge into Live environment which is always a **BEST PRACTICE**.
 
 ##Step-by-step
 
@@ -22,13 +22,13 @@
 
 2. Edit Variant A Page:
 	- Edit your source file (Page A) by adding the following metadata::
-		> `experiment:true`
+		> `experimental:true`
 		>`experiment_id:`,
 
 		`experiment_id` is the unique id for your experiment. We recommend that your experiment id be of the form &lt;youralias&gt;-&lt;experimentname&gt;-&lt;date&gt;
 
 3. Create Variant B Page:
-	- Create a Variant B page for the topic in the same folder using all of Page A’s original metadata. Add the `experiment_id` field and use the same experiment ID you created for the A variant.
+	- Create a Variant B page for the topic in the same folder using all of Page A's original metadata. Add the `experiment_id` field and use the same experiment ID you created for the A variant.
 	- Use the following file name structure when you save the Variant B page: &lt;sourcefilename&gt;`.experimental.md`. For example:
 		- If A Variant is CSI-demo.md, then B Variant should be CSI-demo.experimental.md
 
@@ -43,7 +43,7 @@
 	- Open stage site and preview the result.
 
 6. Merge your Variant A and Variant B to Live branch
-	- Once you’ve confirmed that the A and B variants are available on the staging server, merge your Variant A and Variant B files to the **Live** branch for publication to the production site.
+	- Once you've confirmed that the A and B variants are available on the staging server, merge your Variant A and Variant B files to the **Live** branch for publication to the production site.
 
 
 ####Part II: Create an Experiment on A/B Testing Configuration Portal.
@@ -119,7 +119,7 @@
 		- If choose Variant B, copy the content from Variant B to Variant A and delete Variant B.
 
 5. Clean up metadata from Markdown file
-	- Remove `experiment:true` and `experiment_id` from final Markdown file
+	- Remove `experimental:true` and `experiment_id` from final Markdown file
 
 6. Commit changes.
 
