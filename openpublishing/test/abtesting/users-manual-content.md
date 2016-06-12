@@ -59,7 +59,7 @@
 
 	![](./UM-AB-Portal-Experiment-New.png)
 
-		- Select the percentage of users who will see Variant B. The percentage can be from 0% to 100%, we recommend 50% as a starting point. Enter the percentage *without* a percent sign.
+		- Select the percentage of users who will see Variant B. The percentage can be from 0% to 100%, only integer value is allowed, and we recommend 50% as a starting point. Enter the percentage *without* a percent sign.
 		- Select the maximum number of users who will see the B variant. Note that at the moment this is not enforced (the experimentation framework *will* keep track of how many users see the B variant, but it will *NOT* yet automatically shut off the experiment when that number is reached). A good number to start with is in the range of 500 – 1000.
 	- Save the experiment. You will be returned to the experimentation portal front page.
 	- Preview the result by adding prefix `https://stage.docs.microsoft.com/_chrome/experiment.htm#` to switch between your Page A and B.
