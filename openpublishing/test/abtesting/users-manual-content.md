@@ -4,8 +4,8 @@
 
 ![](./UM-Prerequisite.png)
 - Please follow the step [How to Join the Microsoft GitHub Organization](http://https://opensourcehub.microsoft.com/articles/how-to-join-microsoft-github-org-self-service) to link your GitHub account with Microsoft organization.
-- Read the CSI instruction to understand the process how to **CREATE** / **EDIT** /**COMMIT** Markdown file to GitHub. This manual really don't take content creation/revision into consideration.
-- Use **working** branch before merge into Live environment which is always a **BEST PRACTISE**.
+- Read the CSI instruction to understand the process how to **CREATE** / **EDIT** / **COMMIT** markdown file to GitHub. This manual really don't take content creation/revision into consideration.
+- Use **working** branch before merge into Live environment which is always a **BEST PRACTICE**.
 
 ##Step-by-step
 
@@ -22,13 +22,14 @@
 
 2. Edit Variant A Page:
 	- Edit your source file (Page A) by adding the following metadata::
-		> `experiment:true`
-		>`experiment_id:`,
+		> `experimental: true`
+		> 
+		> `experiment_id: "billg-font-20160229"`
 
-		`experiment_id` is the unique id for your experiment. We recommend that your experiment id be of the form &lt;youralias&gt;-&lt;experimentname&gt;-&lt;date&gt;
+		`experiment_id` is the unique id for your experiment. We recommend that your experiment id be of the form &lt;your\_alias&gt;-&lt;experiment\_name&gt;-&lt;YYYYMMDD&gt;
 
 3. Create Variant B Page:
-	- Create a Variant B page for the topic in the same folder using all of Page A’s original metadata. Add the `experiment_id` field and use the same experiment ID you created for the A variant.
+	- Create a Variant B page for the topic in the same folder using all of Page A's original metadata. Add the `experiment_id` field and use the same experiment ID you created for the A variant.
 	- Use the following file name structure when you save the Variant B page: &lt;sourcefilename&gt;`.experimental.md`. For example:
 		- If A Variant is CSI-demo.md, then B Variant should be CSI-demo.experimental.md
 
@@ -43,7 +44,7 @@
 	- Open stage site and preview the result.
 
 6. Merge your Variant A and Variant B to Live branch
-	- Once you’ve confirmed that the A and B variants are available on the staging server, merge your Variant A and Variant B files to the **Live** branch for publication to the production site.
+	- Once you've confirmed that the A and B variants are available on the staging server, merge your Variant A and Variant B files to the **Live** branch for publication to the production site.
 
 
 ####Part II: Create an Experiment on A/B Testing Configuration Portal.
@@ -58,7 +59,7 @@
 
 	![](./UM-AB-Portal-Experiment-New.png)
 
-		- Select the percentage of users who will see Variant B. The percentage can be from 0% to 100%, we recommend 50% as a starting point. Enter the percentage *without* a percent sign.
+		- Select the percentage of users who will see Variant B. The percentage can be from 0% to 100%, only integer value is allowed, and we recommend 50% as a starting point. Enter the percentage *without* a percent sign.
 		- Select the maximum number of users who will see the B variant. Note that at the moment this is not enforced (the experimentation framework *will* keep track of how many users see the B variant, but it will *NOT* yet automatically shut off the experiment when that number is reached). A good number to start with is in the range of 500 – 1000.
 	- Save the experiment. You will be returned to the experimentation portal front page.
 	- Preview the result by adding prefix `https://stage.docs.microsoft.com/_chrome/experiment.htm#` to switch between your Page A and B.
@@ -77,10 +78,22 @@
 
 	![](./UM-AB-Portal-Experiments-Action.png)
 
-4. Monitor the metric result:
-	- Click **METRIC RESULT** to show the result. (NOTE, it will takes about 4-6 hrs to show the result because of the latency time from WEDCS)
+
+###Monitoring and Reports
+1. Monitor the metric counters:
+	- Select the counter from **Metrics Counter**, and click **METRIC RESULT** to show the result. (NOTE, it will takes about 4-6 hrs to show the result because of the latency time from WEDCS)
 
 	![](./UM-AB-Portal-Metrics-Result.png)
+
+2. Offline metric report:
+	- Click **ADD** button on the Metrics Report from left panel to Create a report.
+
+	![](./UM-AB-Portal-Metric-Report-Config.png)
+
+	- Click "Run Report" in the button of the foorm.
+	- Export the report to .cvs file once it is **FINISHED**
+
+	![](./UM-AB-Portal-Metric-Report-Result.png)
 
 ###Clean up A/B testing once it is completed.
 
@@ -107,7 +120,7 @@
 		- If choose Variant B, copy the content from Variant B to Variant A and delete Variant B.
 
 5. Clean up metadata from Markdown file
-	- Remove `experiment:true` and `experiment_id` from final Markdown file
+	- Remove `experimental: true` and `experiment_id` from final Markdown file
 
 6. Commit changes.
 
