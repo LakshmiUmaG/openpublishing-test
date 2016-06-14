@@ -42,6 +42,20 @@
                 "ManagedReference": "Content",
                 "RestApi": "Content"
             }
+        },
+        {
+            "docset_name": "openpublishing-test-static-msdn",
+            "build_entry_point": "docs",
+            "build_output_subfolder": "openpublishing/test-static-msdn",
+            "build_source_folder": "openpublishing/test",
+            "locale": "en-US",
+            "version": 0,
+            "open_to_public_contributors": false,
+            "type_mapping": {
+                "Conceptual": "Content",
+                "ManagedReference": "Content",
+                "RestApi": "Content"
+            }
         }
     ],
     "notification_subscribers": ["opbuild@microsoft.com"]
