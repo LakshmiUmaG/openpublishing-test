@@ -46,7 +46,7 @@
         {
             "docset_name": "openpublishing-test-static-msdn",
             "build_entry_point": "docs",
-            "build_output_subfolder": "openpublishing/test-docs",
+            "build_output_subfolder": "openpublishing/test-static-msdn",
             "build_source_folder": "openpublishing/test",
             "locale": "en-US",
             "version": 0,
