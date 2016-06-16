@@ -17,6 +17,7 @@ Currently, there is one docset in the repo: **openpublishing-test**
 > + [Link to Docs (Prod)](https://docs.microsoft.com/en-us/openpublishing/test/index?branch=master)
 > + [Link to MSDN dynamic rendering stack](https://ppe.msdn.microsoft.com/en-us/openpublishing/test?branch=master)
 > + [Link to MSDN static rendering stack (Int)](https://opsmsdnint.azurewebsites.net/en-us/openpublishing/test/index?branch=master)
+> + [Link to static MSDN test endpoint] (https://opsmsdnint.azurewebsites.net/en-us/openpublishing/statictest/index?branch=msdn_develop_e2e)
 > + [Link to TechNet dynamic rendering stack](https://ppe.technet.microsoft.com/en-us/openpublishing/test-tn/index?branch=master)
 > + [Link to TechNet static rendering stack](https://opstechnetint.azurewebsites.net/en-us/openpublishing/test-tn/index?branch=master)
 
