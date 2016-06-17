@@ -1,15 +1,15 @@
 ---
 f1_keywords:
-- samplef1keyword1
-- samplef1keyword2
+- vblr6.chm50006
+- chm50006
 dev_langs:
 - csharp
-- fsharp
 target_framework_moniker:
-- Office.Version=v15
-version: 15
+- Office.Version=v16
+version: 16
 locale: en-us
 ---
+
 
 # How To Publish Content to Enable F1 Query
 
@@ -24,13 +24,10 @@ The metadata is set in YAML header of the Markdown file of your content:
 
 ```md
 f1_keywords:
-- samplef1keyword1
-- samplef1keyword2
+- System.Threading.Tasks.Task
+- System::Threading::Tasks::Task
 dev_langs:
 - csharp
-- fsharp
 target_framework_moniker:
-- Office.Version=v15
-version: 15
-locale: en-us
+- N/A
 ```
