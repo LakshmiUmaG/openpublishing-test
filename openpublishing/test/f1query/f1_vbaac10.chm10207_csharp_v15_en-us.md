@@ -1,5 +1,4 @@
 ---
-
 f1_keywords:
 - vbaac10.chm10207
 - chm10207
@@ -7,9 +6,8 @@ dev_langs:
 - csharp
 target_framework_moniker:
 - Office.Version=v15
-locale:
-- zh-cn
-
+version: 15
+locale: en-us
 ---
 
 
