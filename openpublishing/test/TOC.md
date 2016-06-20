@@ -13,6 +13,7 @@
 ### [Small](./conceptual/small.md)
 ### [Large](./conceptual/large.md)
 ### [UI Components](./conceptual/ui-components.md)
+## [F1Query](./f1query/index.md)
 ## [Hub Page](./hubpage/index.md)
 ## [Reference](./reference/index.md)
 ### [ActiveDirectory](./reference/Microsoft.IdentityModel.Clients.ActiveDirectory.yml)
