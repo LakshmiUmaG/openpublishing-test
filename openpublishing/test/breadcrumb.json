@@ -4,7 +4,7 @@
 		"level" : 1,
 		"children" : [{
 				"href" : "/openpublishing/test/",
-				"homepage" : "openpublishing/test/index",
+				"homepage" : "/openpublishing/test/index",
 				"toc_title" : "Openpublishing Test",
 				"level" : 2,
 				"children" : [{
