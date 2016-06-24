@@ -11,6 +11,7 @@
           "exclude": [
             "**/obj/**",
             "_themes/**",
+            "token/**",
             "**/*-operations.md"
           ]
         }
