@@ -3,7 +3,7 @@
 ##Prerequisite
 
 ![](./UM-Prerequisite.png)
-- Please follow the step [How to Join the Microsoft GitHub Organization](http://https://opensourcehub.microsoft.com/articles/how-to-join-microsoft-github-org-self-service) to link your GitHub account with Microsoft organization.
+- Please follow the step [How to Join the Microsoft GitHub Organization](https://opensourcehub.microsoft.com/articles/how-to-join-microsoft-github-org-self-service) to link your GitHub account with Microsoft organization.
 - Read the CSI instruction to understand the process how to **CREATE** / **EDIT** / **COMMIT** markdown file to GitHub. This manual really don't take content creation/revision into consideration.
 - Use **working** branch before merge into Live environment which is always a **BEST PRACTICE**.
 
