@@ -1,62 +1,76 @@
 {
-    "build_entry_point": "",
-    "docsets_to_publish": [
-        {
-            "docset_name": "openpublishing-test-op",
-            "build_entry_point": "op",
-            "build_output_subfolder": "openpublishing/test-op",
-            "build_source_folder": "openpublishing/test",
-            "locale": "en-US",
-            "version": 0,
-            "open_to_public_contributors": false,
-            "type_mapping": {
-                "Conceptual": "Content",
-                "ManagedReference": "Content",
-                "RestApi": "Content"
-            }
-        },
-        {
-            "docset_name": "openpublishing-test-op-technet",
-            "build_entry_point": "op",
-            "build_output_subfolder": "openpublishing/test-op-technet",
-            "build_source_folder": "openpublishing/test",
-            "locale": "en-US",
-            "version": 0,
-            "open_to_public_contributors": false,
-            "type_mapping": {
-                "Conceptual": "Content",
-                "ManagedReference": "Content",
-                "RestApi": "Content"
-            }
-        },
-        {
-            "docset_name": "openpublishing-test-docs",
-            "build_entry_point": "docs",
-            "build_output_subfolder": "openpublishing/test-docs",
-            "build_source_folder": "openpublishing/test",
-            "locale": "en-US",
-            "version": 0,
-            "open_to_public_contributors": false,
-            "type_mapping": {
-                "Conceptual": "Content",
-                "ManagedReference": "Content",
-                "RestApi": "Content"
-            }
-        },
-        {
-            "docset_name": "openpublishing-test-static-msdn",
-            "build_entry_point": "docs",
-            "build_output_subfolder": "openpublishing/test-static-msdn",
-            "build_source_folder": "openpublishing/test",
-            "locale": "en-US",
-            "version": 0,
-            "open_to_public_contributors": false,
-            "type_mapping": {
-                "Conceptual": "Content",
-                "ManagedReference": "Content",
-                "RestApi": "Content"
-            }
-        }
-    ],
-    "notification_subscribers": ["opbuild@microsoft.com"]
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false,
+  "docsets_to_publish": [
+    {
+      "docset_name": "openpublishing-test-docs",
+      "build_source_folder": "openpublishing/test",
+      "build_output_subfolder": "openpublishing/test",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs"
+    },
+    {
+      "docset_name": "openpublishing-test-op",
+      "build_source_folder": "openpublishing/test",
+      "build_output_subfolder": "openpublishing/test",
+      "locale": "en-US",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    },
+    {
+      "docset_name": "openpublishing-test-op-technet",
+      "build_source_folder": "openpublishing/test",
+      "build_output_subfolder": "openpublishing/test",
+      "locale": "en-US",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    },
+    {
+      "docset_name": "openpublishing-test-static-msdn",
+      "build_source_folder": "openpublishing/test",
+      "build_output_subfolder": "openpublishing/test",
+      "locale": "en-US",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    }
+  ],
+  "notification_subscribers": [
+    "opbuild@microsoft.com"
+  ],
+  "branches_to_filter": [
+    "live"
+  ],
+  "skip_source_output_uploading": false,
+  "dependent_repositories": [
+    {
+      "path_to_root": "_themes",
+      "url": "https://github.com/Microsoft/templates.docs.msft",
+      "branch": "master"
+    }
+  ]
 }
