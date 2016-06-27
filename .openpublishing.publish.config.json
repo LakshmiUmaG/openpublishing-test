@@ -20,7 +20,7 @@
       "docset_name": "openpublishing-test-op-technet",
       "build_source_folder": "openpublishing/test",
       "build_output_subfolder": "openpublishing/test-op",
-      "locale": "en-US",
+      "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": false,
       "type_mapping": {
@@ -34,7 +34,7 @@
       "docset_name": "openpublishing-test-op",
       "build_source_folder": "openpublishing/test",
       "build_output_subfolder": "openpublishing/test-op-technet",
-      "locale": "en-US",
+      "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": false,
       "type_mapping": {
@@ -48,7 +48,7 @@
       "docset_name": "openpublishing-test-static-msdn",
       "build_source_folder": "openpublishing/test",
       "build_output_subfolder": "openpublishing/test-static-msdn",
-      "locale": "en-US",
+      "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": false,
       "type_mapping": {
