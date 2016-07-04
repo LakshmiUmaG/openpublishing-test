@@ -77,7 +77,6 @@
              "master": "develop"
          }
      },
-     "dependent_repositories": [
      {
          "path_to_root": "_themes.static",
          "url": "https://github.com/Microsoft/templates.msdn.msft",
