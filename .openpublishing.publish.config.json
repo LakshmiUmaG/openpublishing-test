@@ -84,6 +84,6 @@
          "branch_mapping": {
              "master": "develop"
          }
-     },
+     }
    ]
 }
