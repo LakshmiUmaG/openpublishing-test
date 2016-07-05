@@ -82,7 +82,8 @@
          "url": "https://github.com/Microsoft/templates.msdn.msft",
          "branch": "master",
          "branch_mapping": {
-             "master": "develop"
+             "master": "develop",
+             "jinbo_branchtest": "develop"
          }
      }
    ]
