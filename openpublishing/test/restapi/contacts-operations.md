@@ -5,15 +5,6 @@ ms.TocTitle: Operations on contacts
 ms.ContentId: 477161a7-aebf-4d4b-981d-fcbc148e25c1
 ms.topic: reference (API)
 ms.date: 01/26/2016
-sections:
-  - graph.windows.net/myorganization/Contacts/1.6/get contacts
-  - graph.windows.net/myorganization/Contacts/1.6/get contact by id
-  - graph.windows.net/myorganization/Contacts/1.6/update contact
-  - graph.windows.net/myorganization/Contacts/1.6/delete contact
-  - graph.windows.net/myorganization/Contacts/1.6/get contact manager link
-  - graph.windows.net/myorganization/Contacts/1.6/update contact manager
-  - graph.windows.net/myorganization/Contacts/1.6/get contact direct reports links
-  - graph.windows.net/myorganization/Contacts/1.6/get contact memberOf links
 ---
 
 # Operations on contacts | Graph API reference
@@ -84,6 +75,7 @@ Gets a specified contact. You use the object ID (GUID) to identify the target co
 On success, returns the [Contact] object for the specified contact; otherwise, the response body contains error details. For more information about errors, see [Error Codes and Error Handling].
 
 ****
+
 ---
 uid: graph.windows.net/myorganization/Contacts/1.6/update contact
 ---
@@ -95,6 +87,7 @@ Update a contact's properties. Specify any writable [Contact] property in the re
 On success, no response body is returned; otherwise, the response body contains error details. For more information about errors, see [Error Codes and Error Handling].
 
 ****
+
 ---
 uid: graph.windows.net/myorganization/Contacts/1.6/delete contact
 ---
@@ -135,6 +128,7 @@ Assigns a contact's manager through the **manager** property. Either a user or a
 On success, no response body is returned; otherwise, the response body contains error details. For more information about errors, see [Error Codes and Error Handling].
 
 ****
+
 ---
 uid: graph.windows.net/myorganization/Contacts/1.6/get contact direct reports links
 codeGenerator: true
@@ -148,6 +142,7 @@ On success, returns a collection of links to the [User]'s and [Contact]'s for wh
 **Note**: You can remove the "$links" segment from the URL to return  [DirectoryObject]s for the users and contacts instead of links.
 
 ****
+
 ---
 uid: graph.windows.net/myorganization/Contacts/1.6/get contact memberOf links
 codeGenerator: true
