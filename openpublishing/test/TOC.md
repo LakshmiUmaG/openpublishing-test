@@ -22,3 +22,4 @@
 ### [Large (System.String)](./reference/System.String.yml)
 ## [Rest API](./restapi/index.md)
 ### [Azure AD Graph API Operations on Contacts](./restapi/contacts_swagger2.json)
+## [Swagger1.0](./swagger/build.md)
