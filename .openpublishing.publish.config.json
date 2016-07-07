@@ -62,8 +62,6 @@
   "notification_subscribers": [
     "opbuild@microsoft.com"
   ],
-  "branches_to_filter": [
-    "live"
-  ],
+  "branches_to_filter": [],
   "skip_source_output_uploading": false
 }
