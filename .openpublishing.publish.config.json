@@ -62,15 +62,6 @@
   "notification_subscribers": [
     "opbuild@microsoft.com"
   ],
-  "branches_to_filter": [
-    "live"
-  ],
-  "skip_source_output_uploading": false,
-  "dependent_repositories": [
-    {
-      "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "master"
-    }
-  ]
+  "branches_to_filter": [],
+  "skip_source_output_uploading": false
 }
