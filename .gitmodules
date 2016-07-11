@@ -1,5 +1,4 @@
-
-[submodule "DocsTemplate"]
+[submodule "OpsDocsTemplate"]
 	path = openpublishing/test/_themes
 	url = https://github.com/Microsoft/templates.opsdocs.msft
 	branch = develop
