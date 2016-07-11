@@ -6,8 +6,6 @@ dev_langs:
 - fsharp
 target_framework_moniker:
 - Office.Version=v15
-version: 15
-locale: en-us
 ---
 
 
