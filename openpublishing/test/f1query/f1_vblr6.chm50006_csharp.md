@@ -6,8 +6,6 @@ dev_langs:
 - csharp
 target_framework_moniker:
 - Office.Version=v16
-version: 16
-locale: en-us
 ---
 
 
