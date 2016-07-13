@@ -1,453 +1,191 @@
 ---
 layout: HubPage
 ---
-# Microsoft Enterprise Mobility
-<article id="main">
-    <section id="hero-content" class="graph">
-        <h1>Team Services and TFS Documentation</h1>
-    </section>
-
-    <div id="journeys">
-        <section class="container">
-            <ul class="journeys-list">
-                <li class="journey-step">
-                    <header class="journey-step-header expander row">
-                        <div class="title column-third">
-                            <span class="icon icon-tip"></span>
-                            <p>Set Up &amp; Admin</p>
-                        </div>
-                    </header>
-
-                    <section class="journey-step-elements content">
-                        <ul class="row">
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Get started</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Sign up for Team Services</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="mim.html">
-                                    <h3>Set up TFS</h3>
-
-                                </a>
-                            </li>
-                        </ul>
-                    </section>
-                </li>
-
-                <li class="journey-step">
-                    <header class="journey-step-header expander row">
-                        <div class="title column-third">
-                            <span class="icon icon-tip"></span>
-                            <p>Git</p>
-                        </div>
-                    </header>
-
-                    <section class="journey-step-elements content">
-                        <ul class="row">
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Get started</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Share your code</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="mim.html">
-                                    <h3>Search your code</h3>
-
-                                </a>
-                            </li>
-                        </ul>
-                    </section>
-                </li>
-
-                <li class="journey-step">
-                    <header class="journey-step-header expander row">
-                        <div class="title column-third">
-                            <span class="icon icon-tip"></span>
-                            <p>Agile</p>
-                        </div>
-                    </header>
-
-                    <section class="journey-step-elements content">
-                        <ul class="row">
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Backlog</h3>
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Kanban</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="mim.html">
-                                    <h3>Scrum</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="mim.html">
-                                    <h3>Charts</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="mim.html">
-                                    <h3>Dashboards</h3>
-
-                                </a>
-                            </li>
-                        </ul>
-                    </section>
-                </li>
-
-                <li class="journey-step">
-                    <header class="journey-step-header expander row">
-                        <div class="title column-third">
-                            <span class="icon icon-tip"></span>
-                            <p>Build</p>
-                        </div>
-                    </header>
-
-                    <section class="journey-step-elements content">
-                        <ul class="row">
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>.Net get started</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Java get started</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="mim.html">
-                                    <h3>Azure</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="mim.html">
-                                    <h3>Windows</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="mim.html">
-                                    <h3>Mobile</h3>
-
-                                </a>
-                            </li>
-                        </ul>
-                    </section>
-                </li>
-
-                <li class="journey-step">
-                    <header class="journey-step-header expander row">
-                        <div class="title column-third">
-                            <span class="icon icon-tip"></span>
-                            <p>Test</p>
-                        </div>
-                    </header>
-
-                    <section class="journey-step-elements content">
-                        <ul class="row">
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Manual testing</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Developer test tools</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="mim.html">
-                                    <h3>Performance testing</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="mim.html">
-                                    <h3>Continuous testing</h3>
-
-                                </a>
-                            </li>
-                        </ul>
-                    </section>
-                </li>
-
-                <li class="journey-step">
-                    <header class="journey-step-header expander row">
-                        <div class="title column-third">
-                            <span class="icon icon-tip"></span>
-                            <p>Release</p>
-                        </div>
-                    </header>
-
-                    <section class="journey-step-elements content">
-                        <ul class="row">
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Get started</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Author release definition</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="mim.html">
-                                    <h3>Create a release</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="mim.html">
-                                    <h3>Deploy your apps</h3>
-
-                                </a>
-                            </li>
-                        </ul>
-                    </section>
-                </li>
-
-                <li class="journey-step">
-                    <header class="journey-step-header expander row">
-                        <div class="title column-third">
-                            <span class="icon icon-tip"></span>
-                            <p>Package</p>
-                        </div>
-                    </header>
-
-                    <section class="journey-step-elements content">
-                        <ul class="row">
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Get started with Nuget</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Integrate packages into builds</h3>
-
-                                </a>
-                            </li>
-                        </ul>
-                    </section>
-                </li>
-
-                <li class="journey-step">
-                    <header class="journey-step-header expander row">
-                        <div class="title column-third">
-                            <span class="icon icon-tip"></span>
-                            <p>TFVC</p>
-                        </div>
-                    </header>
-
-                    <section class="journey-step-elements content">
-                        <ul class="row">
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Get started in VS</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Set up TFVC</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="mim.html">
-                                    <h3>Search your code</h3>
-
-                                </a>
-                            </li>
-                        </ul>
-                    </section>
-                </li>
-
-                <li class="journey-step">
-                    <header class="journey-step-header expander row">
-                        <div class="title column-third">
-                            <span class="icon icon-tip"></span>
-                            <p>Java</p>
-                        </div>
-                    </header>
-
-                    <section class="journey-step-elements content">
-                        <ul class="row">
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Getting started</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Eclipse</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="mim.html">
-                                    <h3>IntelliJ</h3>
-
-                                </a>
-                            </li>
-                        </ul>
-                    </section>
-                </li>
-
-                <li class="journey-step">
-                    <header class="journey-step-header expander row">
-                        <div class="title column-third">
-                            <span class="icon icon-tip"></span>
-                            <p>Marketplace</p>
-                        </div>
-                    </header>
-
-                    <section class="journey-step-elements content">
-                        <ul class="row">
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Get extensions</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Buy VS subscriptions</h3>
-
-                                </a>
-                            </li>
-                        </ul>
-                    </section>
-                </li>
-
-                <li class="journey-step">
-                    <header class="journey-step-header expander row">
-                        <div class="title column-third">
-                            <span class="icon icon-tip"></span>
-                            <p>Integrate</p>
-                        </div>
-                    </header>
-
-                    <section class="journey-step-elements content">
-                        <ul class="row">
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Create your first extension</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Get started with the REST APIs</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="mim.html">
-                                    <h3>REST API reference</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="mim.html">
-                                    <h3>Service hooks</h3>
-
-                                </a>
-                            </li>
-                        </ul>
-                    </section>
-                </li>
-
-                <li class="journey-step">
-                    <header class="journey-step-header expander row">
-                        <div class="title column-third">
-                            <span class="icon icon-tip"></span>
-                            <p>Insights</p>
-                        </div>
-                    </header>
-
-                    <section class="journey-step-elements content">
-                        <ul class="row">
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Track ASP.NET apps</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="">
-                                    <h3>Track Java apps</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="mim.html">
-                                    <h3>Manage mobile apps with HockeyApp</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="mim.html">
-                                    <h3>Get HockeyApp plans</h3>
-
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="mim.html">
-                                    <h3>Get HockeyApp extension</h3>
-
-                                </a>
-                            </li>
-                        </ul>
-                    </section>
-                </li>
-            </ul>
-        </section>
-    </div>
-
-    <div class="section-border">
-        <section class="resources container">
-            <h2 class="section-heading"><span class="icon icon-note"></span>Team Services and Team Foundation Server provide end-to-end, integrated support to share code, track work, and ship software.</h2>
-            <div class="resource-list row">
-                <ul>
-                    <li><a href="">DevOps and Agile Tools Overview</a></li>
-                    <li><a href="">Features summary</a></li>
-                    <li><a href="">Technical articles</a></li>
-                </ul>
+# Microsoft Identity Manager
+<div class="hubpage">
+    <div class="row">
+        <div class="col-sm-12 col-md-12">
+            <div class="header">
+                <h1>Team Services and TFS Documentation</h1>
             </div>
-        </section>
+        </div>
     </div>
-</article>
+    <div class="row">
+        <div class="col-sm-12 col-md-4 item">
+            <div class="title">
+                <a href="/docs/setup-admin/get-started">
+                    <span class="icon"></span>
+                    <span class="desc">Set Up & Admin</span>
+                </a>
+            </div>
+            <ul class="sub-title">
+                <li><a href="/docs/setup-admin/get-started">Get started</a></li>
+                <li><a href="/docs/setup-admin/team-services/sign-up-for-visual-studio-team-services">Sign up for Team Services</a></li>
+                <li><a href="/docs/setup-admin/install-tfs/get-started">Set up TFS</a></li>
+            </ul>
+        </div>
+        <div class="col-sm-12 col-md-4 item">
+            <div class="title">
+                <a href="/docs/git/overview">
+                    <span class="icon"></span>
+                    <span class="desc">Git</span>
+                </a>
+            </div>
+            <ul class="sub-title">
+                <li><a href="/docs/git/gitquickstart">Get started</a></li>
+                <li><a href="/docs/git/share-your-code-in-git-vs">Share your code</a></li>
+                <li><a href="/docs/search/overview">Search your code</a></li>
+            </ul>
+        </div>
+        <div class="col-sm-12 col-md-4 item">
+            <div class="title">
+                <a href="/docs/Work/overview">
+                    <span class="icon"></span>
+                    <span class="desc">Agile</span>
+                </a>
+            </div>
+            <ul class="sub-title">
+                <li><a href="/docs/Work/backlogs/create-your-backlog">Backlog</a></li>
+                <li><a href="/docs/Work/kanban/kanban-basics">Kanban</a></li>
+                <li><a href="/docs/Work/scrum/sprint-planning">Scrum</a></li>
+                <li><a href="/docs/Report/charts">Charts</a></li>
+                <li><a href="/docs/Report/dashboards">Dashboards</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12 col-md-4 item">
+            <div class="title">
+                <a href="/docs/build/overview">
+                    <span class="icon"></span>
+                    <span class="desc">Build</span>
+                </a>
+            </div>
+            <ul class="sub-title">
+                <li><a href="/docs/build/get-started/dot-net">.NET get started</a></li>
+                <li><a href="/docs/build/get-started/java-maven">Java get started</a></li>
+                <li><a href="/docs/build/apps/aspnet/aspnet4-to-azure">Azure</a></li>
+                <li><a href="/docs/build/apps/windows/universal">Windows</a></li>
+                <li><a href="/docs/build/apps/mobile/xamarin">Mobile</a></li>
+            </ul>
+        </div>
+        <div class="col-sm-12 col-md-4 item">
+            <div class="title">
+                <a href="/docs/test/overview">
+                    <span class="icon"></span>
+                    <span class="desc">Test</span>
+                </a>
+            </div>
+            <ul class="sub-title">
+                <li><a href="/docs/test/manual-exploratory-testing/getting-started/getting-started-with-manual-testing">Manual testing</a></li>
+                <li><a href="/docs/test/developer-testing/getting-started/getting-started-with-developer-testing">Developer test tools</a></li>
+                <li><a href="/docs/test/performance-testing/getting-started/getting-started-with-performance-testing">Performance testing</a></li>
+                <li><a href="/docs/test/continuous-testing/getting-started/getting-started-with-continuous-testing">Continuous testing</a></li>
+            </ul>
+        </div>
+        <div class="col-sm-12 col-md-4 item">
+            <div class="title">
+                <a href="/docs/release/overview">
+                    <span class="icon"></span>
+                    <span class="desc">Release</span>
+                </a>
+            </div>
+            <ul class="sub-title">
+                <li><a href="/docs/release/getting-started/understand-rm">Get started</a></li>
+                <li><a href="/docs/release/author-release-definition/more-release-definition">Author release definition</a></li>
+                <li><a href="/docs/release/managing-releases/create-release">Create a release</a></li>
+                <li><a href="/docs/release/examples/examples-index">Deploy your apps</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12 col-md-4 item">
+            <div class="title">
+                <a href="/docs/package/overview">
+                    <span class="icon"></span>
+                    <span class="desc">Package</span>
+                </a>
+            </div>
+            <ul class="sub-title">
+                <li><a href="/docs/package/get-started">Get started with NuGet</a></li>
+                <li><a href="/docs/package/get-started/build/overview">Integrate packages into builds</a></li>
+            </ul>
+        </div>
+        <div class="col-sm-12 col-md-4 item">
+            <div class="title">
+                <a href="/docs/tfvc/overview">
+                    <span class="icon"></span>
+                    <span class="desc">TFVC</span>
+                </a>
+            </div>
+            <ul class="sub-title">
+                <li><a href="/docs/tfvc/share-your-code-in-tfvc-vs">Get started in VS</a></li>
+                <li><a href="/docs/tfvc/set-up-team-foundation-version-control-your-dev-machine">Set up TFVC</a></li>
+                <li><a href="/docs/search/overview">Search your code</a></li>
+            </ul>
+        </div>
+        <div class="col-sm-12 col-md-4 item">
+            <div class="title">
+                <a href="http://java.visualstudio.com/">
+                    <span class="icon"></span>
+                    <span class="desc">Java</span>
+                </a>
+            </div>
+            <ul class="sub-title">
+                <li><a href="http://java.visualstudio.com/Docs/gettingstarted/intro">Getting started</a></li>
+                <li><a href="http://java.visualstudio.com/docs/tools/eclipse">Eclipse</a></li>
+                <li><a href="http://java.visualstudio.com/Docs/tools/intelliJ">IntelliJ</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12 col-md-4 item">
+            <div class="title">
+                <a href="/docs/marketplace/overview">
+                    <span class="icon"></span>
+                    <span class="desc">Marketplace</span>
+                </a>
+            </div>
+            <ul class="sub-title">
+                <li><a href="/docs/marketplace/get-vsts-extensions">Get extensions</a></li>
+                <li><a href="/docs/marketplace/buy-vs-subscriptions">Buy VS subscriptions</a></li>
+            </ul>
+        </div>
+        <div class="col-sm-12 col-md-4 item">
+            <div class="title">
+                <a href="/integrate">
+                    <span class="icon"></span>
+                    <span class="desc">Integrate</span>
+                </a>
+            </div>
+            <ul class="sub-title">
+                <li><a href="/docs/integrate/extensions/overview">Create your first extension</a></li>
+                <li><a href="/docs/integrate/get-started/rest/basics">Get started with the REST APIs</a></li>
+                <li><a href="/docs/integrate/api/overview">REST API reference</a></li>
+                <li><a href="/docs/service-hooks/get-started">Service hooks</a></li>
+            </ul>
+        </div>
+        <div class="col-sm-12 col-md-4 item">
+            <div class="title">
+                <a href="https://azure.microsoft.com/documentation/services/application-insights">
+                    <span class="icon"></span>
+                    <span class="desc">Insights</span>
+                </a>
+            </div>
+            <ul class="sub-title">
+                <li><a href="/docs/insights/app-insights-asp-net">Track ASP.NET apps</a></li>
+                <li><a href="/docs/insights/app-insights-java">Track Java apps</a></li>
+                <li><a href="https://support.hockeyapp.net/kb/app-management-2/how-to-create-a-new-app">Manage mobile apps with HockeyApp</a></li>
+                <li><a href="/docs/marketplace/get-hockeyapp">Get HockeyApp plans</a></li>
+                <li><a href="https://marketplace.visualstudio.com/items?itemName=ms.hockeyapp">Get HockeyApp extension</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12 col-md-12">
+            <div class="footer">
+                <p>Team Services and Team Foundation Server provide end-to-end, integrated support to share code, track work, and ship software.</p><p><b><a href="/docs/vsts-tfs-overview">DevOps and Agile Tools Overview</a>  |  <a href="/docs/alm-devops-feature-index">Features summary</a>  |  <a href="https://www.visualstudio.com/articles/overview">Technical articles</a></b></p>
+            </div>
+        </div>
+    </div>
+</div>
