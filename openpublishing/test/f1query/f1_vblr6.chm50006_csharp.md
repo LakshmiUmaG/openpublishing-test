@@ -1,13 +1,11 @@
 ---
 f1_keywords:
-- vbaac10.chm13359
-- chm13359
+- vblr6.chm50006
+- chm50006
 dev_langs:
 - csharp
 target_framework_moniker:
 - Office.Version=v16
-version: 16
-locale: en-us
 ---
 
 

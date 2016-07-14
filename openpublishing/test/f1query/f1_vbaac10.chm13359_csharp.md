@@ -5,9 +5,7 @@ f1_keywords:
 dev_langs:
 - csharp
 target_framework_moniker:
-- Office.Version=v15
-version: 15
-locale: en-us
+- Office.Version=v16
 ---
 
 
