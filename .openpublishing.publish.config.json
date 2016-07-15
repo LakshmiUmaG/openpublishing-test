@@ -17,9 +17,9 @@
       "build_entry_point": "docs"
     },
     {
-      "docset_name": "openpublishing-test-op",
+      "docset_name": "openpublishing-test-op-technet",
       "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test-op-technet",
+      "build_output_subfolder": "openpublishing/test-op",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": false,
@@ -31,9 +31,9 @@
       "build_entry_point": "op"
     },
     {
-      "docset_name": "openpublishing-test-op-technet",
+      "docset_name": "openpublishing-test-op",
       "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test-op",
+      "build_output_subfolder": "openpublishing/test-op-technet",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": false,
@@ -56,21 +56,12 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "docs",
-      "template_folder": "_themes.MSDN.Modern"
+      "build_entry_point": "docs"
     }
   ],
   "notification_subscribers": [
     "opbuild@microsoft.com"
   ],
   "branches_to_filter": [],
-  "skip_source_output_uploading": false,
-  "dependent_repositories": [
-    {
-      "path_to_root": "_themes.MSDN.Modern",
-      "url": "https://github.com/Microsoft/templates.msdn.msft",
-      "branch": "master",
-      "branch_mapping": {}
-    }
-  ]
+  "skip_source_output_uploading": false
 }
