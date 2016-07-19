@@ -1,0 +1,51 @@
+{
+   "method": "GET",
+   "resourceFormat": "/build/queues/{queueId}",
+   "requestUrl": "https://fabrikam.visualstudio.com/DefaultCollection/_apis/build/queues/10?api-version=2.0",
+   "requestHeaders": {
+      "Accept": "application/json;api-version=2.0;res-version=2"
+   },
+   "statusCode": 200,
+   "responseHeaders": {
+      "cache-control": "no-cache",
+      "pragma": "no-cache",
+      "content-type": "application/json; charset=utf-8; api-version=2.0-preview.2",
+      "expires": "-1",
+      "server": "Microsoft-IIS/8.5",
+      "x-tfs-processid": "0ee00e24-eb6e-4341-bb4b-13c87262f337",
+      "strict-transport-security": "max-age=31536000; includeSubDomains",
+      "x-frame-options": "SAMEORIGIN",
+      "access-control-allow-origin": "*",
+      "access-control-max-age": "3600",
+      "access-control-allow-methods": "OPTIONS,GET,POST,PATCH,PUT,DELETE",
+      "access-control-expose-headers": "ActivityId",
+      "access-control-allow-headers": "authorization",
+      "set-cookie": [
+         "Tfs-SessionId=d3b213bf-de2a-4ad9-8347-7d11718542ad; path=/",
+         "Tfs-SessionActive=2015-03-10T16:47:01; path=/"
+      ],
+      "x-vss-userdata": "691ac455-8de9-4916-b08d-994c4e8e26ce:scott.dallamura@outlook.com",
+      "activityid": "d3b213bf-de2a-4ad9-8347-7d11718542ad",
+      "x-tfs-session": "d3b213bf-de2a-4ad9-8347-7d11718542ad",
+      "x-aspnet-version": "4.0.30319",
+      "x-powered-by": "ASP.NET",
+      "p3p": "CP=\"CAO DSP COR ADMa DEV CONo TELo CUR PSA PSD TAI IVDo OUR SAMi BUS DEM NAV STA UNI COM INT PHY ONL FIN PUR LOC CNT\"",
+      "x-content-type-options": "nosniff",
+      "date": "Tue, 10 Mar 2015 16:47:00 GMT",
+      "content-length": "264"
+   },
+   "responseBody": {
+      "_links": {
+         "self": {
+            "href": "https://fabrikam.visualstudio.com/DefaultCollection/_apis/build/Queues/10"
+         }
+      },
+      "pool": {
+         "id": 1
+      },
+      "queueType": "agentPool",
+      "id": 10,
+      "name": "myNewQueue",
+      "url": "https://fabrikam.visualstudio.com/DefaultCollection/_apis/build/Queues/10"
+   }
+}
