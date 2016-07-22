@@ -175,7 +175,7 @@ Perform the following steps on the ATA Gateway server.
 
 5. After the installation completes, click **Launch**  to open your browser and log in to the ATA Console.
 
-### <a name="ConfigATAGW"></a>Step 5. Configure the ATA Gateway settings
+## <a name="ConfigATAGW"></a>Step 5. Configure the ATA Gateway settings
 After the ATA Gateway was installed, perform the following steps to configure the settings for the ATA Gateway.
 
 1. On the ATA Gateway machine, in the ATA Console, click on the **Configuration** and select the **ATA Gateways** page.
@@ -231,7 +231,7 @@ To validate that the ATA Gateway has been successfully deployed, check the follo
 
    ![](./Image/ATA_performance_monitoring_add_counters.png)
 
-### <a name="ATAvpnHoneytokensetting"></a>Step 6. Configure short-term lease subnets and Honeytoken user
+## <a name="ATAvpnHoneytokensetting"></a>Step 6. Configure short-term lease subnets and Honeytoken user
 Short-term lease subnets are subnets in which the IP address assignment changes very rapidly - within seconds or minutes. For example, IP addresses used for your VPNs and Wi-Fi IP addresses. To enter the list of short-term lease subnets used in your organization, follow these steps:
 
 1. From the ATA Console on the ATA Gateway machine, click on the settings icon and select **Configuration**.
