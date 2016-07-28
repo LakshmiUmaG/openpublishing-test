@@ -98,12 +98,6 @@
       "path_to_root": "_themes.VS.Modern",
       "url": "https://github.com/Microsoft/templates.vs.com",
       "branch": "master",
-      "branch_mapping": {}
-    },
-    {
-      "path_to_root": "_themes.VS.Modern",
-      "url": "https://github.com/Microsoft/templates.vs.com",
-      "branch": "develop",
       "branch_mapping": {
         "develop_e2e": "develop",
         "release_e2e": "release",
