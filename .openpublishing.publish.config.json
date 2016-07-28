@@ -89,7 +89,10 @@
       "branch_mapping": {
         "develop_e2e": "develop",
         "release_e2e": "release",
-        "hotfix_e2e": "hotfix"
+        "hotfix_e2e": "hotfix",
+        "docs_develop_e2e": "ops_develop",
+        "docs_release_e2e": "ops_release",
+        "docs_hotfix_e2e": "ops_hotfix"
       }
     },
     {
