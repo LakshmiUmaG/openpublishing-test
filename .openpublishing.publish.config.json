@@ -86,21 +86,19 @@
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "master",
-      "branch_mapping": {
-        "develop_e2e": "develop",
-        "release_e2e": "release",
-        "hotfix_e2e": "hotfix"
-      }
+      "branch_mapping": {}
     },
     {
       "path_to_root": "_themes.MSDN.Modern",
       "url": "https://github.com/Microsoft/templates.msdn.msft",
       "branch": "master",
-      "branch_mapping": {
-        "develop_e2e": "develop",
-        "release_e2e": "release",
-        "hotfix_e2e": "hotfix"
-      }
+      "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_themes.VS.Modern",
+      "url": "https://github.com/Microsoft/templates.vs.com",
+      "branch": "master",
+      "branch_mapping": {}
     },
     {
       "path_to_root": "_themes.VS.Modern",
