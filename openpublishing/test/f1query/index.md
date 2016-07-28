@@ -7,8 +7,6 @@ dev_langs:
 - fsharp
 target_framework_moniker:
 - Office.Version=v15
-version: 15
-locale: en-us
 ---
 
 # How To Publish Content to Enable F1 Query
