@@ -15,6 +15,7 @@
 ### [UI Components](./conceptual/ui-components.md)
 ## [F1Query](./f1query/index.md)
 ## [Hub Page](./hubpage/index.md)
+### [MSDN Hub Page](./hubpage/msdn.md)
 ## [Reference](./reference/index.md)
 ### [ActiveDirectory](./reference/Microsoft.IdentityModel.Clients.ActiveDirectory.yml)
 ### [Small (System.Action)](./reference/System.Action.yml)
