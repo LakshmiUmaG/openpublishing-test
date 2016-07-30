@@ -13,6 +13,7 @@
 ### [Small](./conceptual/small.md)
 ### [Large](./conceptual/large.md)
 ### [UI Components](./conceptual/ui-components.md)
+### [Long In-Page TOC](./conceptual/long-in-page-toc.md)
 ## [F1Query](./f1query/index.md)
 ## [Hub Page](./hubpage/index.md)
 ### [MSDN Hub Page](./hubpage/msdn.md)
