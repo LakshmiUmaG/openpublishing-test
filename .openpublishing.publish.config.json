@@ -89,7 +89,10 @@
       "branch_mapping": {
         "develop_e2e": "develop",
         "release_e2e": "release",
-        "hotfix_e2e": "hotfix"
+        "hotfix_e2e": "hotfix",
+        "docs_develop_e2e": "ops_develop",
+        "docs_release_e2e": "ops_release",
+        "docs_hotfix_e2e": "ops_hotfix"
       }
     },
     {
@@ -97,9 +100,9 @@
       "url": "https://github.com/Microsoft/templates.msdn.msft",
       "branch": "master",
       "branch_mapping": {
-        "develop_e2e": "develop",
-        "release_e2e": "release",
-        "hotfix_e2e": "hotfix"
+        "msdn_develop_e2e": "develop",
+        "msdn_release_e2e": "release",
+        "msdn_hotfix_e2e": "hotfix"
       }
     },
     {
@@ -108,9 +111,9 @@
       "branch": "master",
       "branch_mapping": {
         "master": "develop",
-        "develop_e2e": "develop",
-        "release_e2e": "release",
-        "hotfix_e2e": "hotfix"
+        "vscom_develop_e2e": "develop",
+        "vscom_release_e2e": "release",
+        "vscom_hotfix_e2e": "hotfix"
       }
     }
   ]
