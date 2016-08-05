@@ -98,7 +98,7 @@
     {
       "path_to_root": "_themes.MSDN.Modern",
       "url": "https://github.com/Microsoft/templates.msdn.msft",
-      "branch": "master",
+      "branch": "develop",
       "branch_mapping": {
         "msdn_develop_e2e": "develop",
         "msdn_release_e2e": "release",
@@ -108,7 +108,7 @@
     {
       "path_to_root": "_themes.VS.Modern",
       "url": "https://github.com/Microsoft/templates.vs.com",
-      "branch": "master",
+      "branch": "develop",
       "branch_mapping": {
         "master": "develop",
         "vscom_develop_e2e": "develop",
