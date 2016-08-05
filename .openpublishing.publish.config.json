@@ -92,7 +92,8 @@
         "hotfix_e2e": "hotfix",
         "docs_develop_e2e": "ops_develop",
         "docs_release_e2e": "ops_release",
-        "docs_hotfix_e2e": "ops_hotfix"
+        "docs_hotfix_e2e": "ops_hotfix",
+        "docker_develop_e2e": "docker_develop"
       }
     },
     {
