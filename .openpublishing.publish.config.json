@@ -81,6 +81,7 @@
   ],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
+  "use_dynamic_rendering": true,
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
