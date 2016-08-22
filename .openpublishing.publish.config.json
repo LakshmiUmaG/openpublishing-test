@@ -77,8 +77,8 @@
     },
     {
       "docset_name": "openpublishing-test-starterkit",
-      "build_source_folder": "openpublishing-test-starterkit",
-      "build_output_subfolder": "test",
+      "build_source_folder": "openpublishing/test",
+      "build_output_subfolder": "openpublishing-test-starterkit",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
