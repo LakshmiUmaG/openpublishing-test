@@ -135,7 +135,11 @@
       "path_to_root": "_themes.OPS",
       "url": "https://github.com/Microsoft/templates.starterkit",
       "branch": "master",
-      "branch_mapping": {}
+      "branch_mapping": {
+        "develop_e2e": "develop",
+        "release_e2e": "release",
+        "hotfix_e2e": "hotfix"
+      }
     }
   ]
 }
