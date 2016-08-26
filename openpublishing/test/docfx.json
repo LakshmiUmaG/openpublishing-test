@@ -5,7 +5,7 @@
         {
           "files": [
             "**/**.md",
-			"**/*_swagger2.json",
+            "**/*_swagger2.json",
             "**/*.yml"
           ],
           "exclude": [
@@ -30,6 +30,12 @@
         "breadcrumb_path": "/openpublishing/test/breadcrumb.json",
         "_mockServerUrl": "https://apiexproxy.azurewebsites.net/svc",
         "_mockServerAuthorization": "Bearer {token:https://graph.windows.net/}"
+    },
+    "fileMetadata": {
+        "author": {
+            "reference/**": "dotnet-bot",
+            "restapi/**": "dotnet-bot"
+        }
     },
     "overwrite":
     [
