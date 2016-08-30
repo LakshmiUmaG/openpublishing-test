@@ -20,7 +20,7 @@
     {
       "docset_name": "openpublishing-test-op",
       "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test-op-technet",
+      "build_output_subfolder": "openpublishing/test-op",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": false,
@@ -34,7 +34,7 @@
     {
       "docset_name": "openpublishing-test-op-technet",
       "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test-op",
+      "build_output_subfolder": "openpublishing/test-op-technet",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": false,
@@ -48,7 +48,7 @@
     {
       "docset_name": "openpublishing-test-starterkit",
       "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "test",
+      "build_output_subfolder": "openpublishing/test-starterkit",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
@@ -78,7 +78,7 @@
     {
       "docset_name": "openpublishing-test-static-vscom",
       "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test",
+      "build_output_subfolder": "openpublishing/test-static-vscom",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
@@ -114,7 +114,11 @@
       "path_to_root": "_themes.OPS",
       "url": "https://github.com/Microsoft/templates.starterkit",
       "branch": "master",
-      "branch_mapping": {}
+      "branch_mapping": {
+          "develop_e2e": "develop",		
+          "release_e2e": "release",		
+          "hotfix_e2e": "hotfix"
+      }
     },
     {
       "path_to_root": "_themes.MSDN.Modern",
