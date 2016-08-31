@@ -137,7 +137,6 @@
       "branch": "master",
       "branch_mapping": {
         "develop_e2e": "develop",
-        "vscom_develop_e2e": "develop",
         "release_e2e": "release",
         "hotfix_e2e": "hotfix"
       }
