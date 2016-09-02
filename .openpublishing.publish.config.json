@@ -117,7 +117,8 @@
       "branch_mapping": {
         "develop_e2e": "develop",
         "release_e2e": "release",
-        "hotfix_e2e": "hotfix"
+        "hotfix_e2e": "hotfix",
+        "starterkit_develop_e2e": "develop"
       }
     },
     {
