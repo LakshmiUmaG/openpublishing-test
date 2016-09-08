@@ -89,6 +89,25 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes.VS.Modern"
+    },
+    {
+      "docset_name": "openpublishing-test-reference",
+      "build_source_folder": "openpublishing/test-reference",
+      "build_output_subfolder": "openpublishing/test-reference",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes.OPS",
+      "customized_tasks": {
+        "docset_prebuild": ["scripts/generateYamlFromSourceCode.ps1"]
+      },
+      "customized_template_paths": "RawModelContentTemplate"
     }
   ],
   "notification_subscribers": [
@@ -140,6 +159,11 @@
         "vscom_release_e2e": "release",
         "vscom_hotfix_e2e": "hotfix"
       }
+    },
+    {
+      "path_to_root": "docfx-seed",
+      "url": "https://github.com/docascode/docfx-seed",
+      "branch": "cli"
     }
   ]
 }
