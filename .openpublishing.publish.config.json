@@ -103,7 +103,11 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes.OPS"
+      "template_folder": "_themes.OPS",
+      "customized_tasks": {
+        "docset_prebuild": ["scripts/generateYamlFromSourceCode.ps1"]
+      },
+      "customized_template_paths": "RawModelContentTemplate"
     }
   ],
   "notification_subscribers": [
@@ -155,6 +159,11 @@
         "vscom_release_e2e": "release",
         "vscom_hotfix_e2e": "hotfix"
       }
+    },
+    {
+      "path_to_root": "docfx-seed",
+      "url": "https://github.com/docascode/docfx-seed",
+      "branch": "cli"
     }
   ]
 }
