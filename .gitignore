@@ -5,6 +5,11 @@ obj/
 _site/
 Tools/NuGet/
 .optemp/
+_themes/
+_themes.MSDN.Modern/
+_themes.OPS/
+_themes.VS.Modern/
+docfx-seed/
 
 .openpublishing.build.mdproj
 .openpublishing.buildcore.ps1
