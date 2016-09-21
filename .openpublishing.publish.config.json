@@ -176,9 +176,9 @@
       "url": "https://github.com/Microsoft/templates.technet.msft",
       "branch": "master",
       "branch_mapping": {
-        "msdn_develop_e2e": "develop",
-        "msdn_release_e2e": "release",
-        "msdn_hotfix_e2e": "hotfix"
+        "technet_develop_e2e": "develop",
+        "technet_release_e2e": "release",
+        "technet_hotfix_e2e": "hotfix"
       }
     }
   ]
