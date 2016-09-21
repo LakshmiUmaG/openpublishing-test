@@ -57,7 +57,7 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "docs",
+      "build_entry_point": "op",
       "template_folder": "_themes.OPS"
     },
     {
@@ -102,7 +102,7 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "docs",
+      "build_entry_point": "op",
       "template_folder": "_themes.TechNet.Modern"
     },
     {
@@ -161,16 +161,6 @@
       }
     },
     {
-      "path_to_root": "_themes.TechNet.Modern",
-      "url": "https://github.com/Microsoft/templates.technet.msft",
-      "branch": "master",
-      "branch_mapping": {
-        "technet_develop_e2e": "develop",
-        "technet_release_e2e": "release",
-        "technet_hotfix_e2e": "hotfix"
-      }
-    },
-    {
       "path_to_root": "_themes.VS.Modern",
       "url": "https://github.com/Microsoft/templates.vs.com",
       "branch": "master",
@@ -179,6 +169,16 @@
         "vscom_develop_e2e": "develop",
         "vscom_release_e2e": "release",
         "vscom_hotfix_e2e": "hotfix"
+      }
+    },
+    {
+      "path_to_root": "_themes.TechNet.Modern",
+      "url": "https://github.com/Microsoft/templates.technet.msft",
+      "branch": "master",
+      "branch_mapping": {
+        "technet_develop_e2e": "develop",
+        "technet_release_e2e": "release",
+        "technet_hotfix_e2e": "hotfix"
       }
     }
   ]
