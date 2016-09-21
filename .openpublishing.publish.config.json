@@ -5,17 +5,17 @@
     {
       "docset_name": "openpublishing-test-static-technet",
       "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test-static-technet",
+      "build_output_subfolder": "openpublishing/test",
       "locale": "en-us",
       "version": 0,
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes.TECHNET.Modern"
+      "template_folder": "_themes.TechNet.Modern"
     }
   ],
   "notification_subscribers": [
@@ -25,7 +25,7 @@
   "skip_source_output_uploading": false,
   "dependent_repositories": [
     {
-      "path_to_root": "_themes.TECHNET.Modern",
+      "path_to_root": "_themes.TechNet.Modern",
       "url": "https://github.com/Microsoft/templates.technet.msft",
       "branch": "master",
       "branch_mapping": {
