@@ -107,7 +107,7 @@
     },
     {
       "docset_name": "openpublishing-test-static-technet",
-      "build_source_folder": "openpublishing-test-static-technet",
+      "build_source_folder": "openpublishing/test",
       "build_output_subfolder": "openpublishing/test",
       "locale": "en-us",
       "version": 0,
