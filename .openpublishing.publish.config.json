@@ -46,6 +46,21 @@
       "build_entry_point": "op"
     },
     {
+      "docset_name": "openpublishing-test-reference",
+      "build_source_folder": "openpublishing/test-reference",
+      "build_output_subfolder": "openpublishing/test-reference",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes.OPS"
+    },
+    {
       "docset_name": "openpublishing-test-starterkit",
       "build_source_folder": "openpublishing/test",
       "build_output_subfolder": "openpublishing/test-starterkit",
@@ -91,9 +106,9 @@
       "template_folder": "_themes.VS.Modern"
     },
     {
-      "docset_name": "openpublishing-test-reference",
-      "build_source_folder": "openpublishing/test-reference",
-      "build_output_subfolder": "openpublishing/test-reference",
+      "docset_name": "openpublishing-test-static-technet",
+      "build_source_folder": "openpublishing-test-static-technet",
+      "build_output_subfolder": "openpublishing/test",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
@@ -103,11 +118,7 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes.OPS",
-      "customized_tasks": {
-        "docset_prebuild": ["scripts/generateYamlFromSourceCode.ps1"]
-      },
-      "customized_template_paths": "RawModelContentTemplate"
+      "template_folder": "_themes.TechNet.Modern"
     }
   ],
   "notification_subscribers": [
@@ -161,9 +172,10 @@
       }
     },
     {
-      "path_to_root": "docfx-seed",
-      "url": "https://github.com/docascode/docfx-seed",
-      "branch": "cli"
+      "path_to_root": "_themes.TechNet.Modern",
+      "url": "https://github.com/Microsoft/templates.technet.msft",
+      "branch": "master",
+      "branch_mapping": {}
     }
   ]
 }
