@@ -175,7 +175,11 @@
       "path_to_root": "_themes.TechNet.Modern",
       "url": "https://github.com/Microsoft/templates.technet.msft",
       "branch": "master",
-      "branch_mapping": {}
+      "branch_mapping": {
+        "technet_develop_e2e": "develop",
+        "technet_release_e2e": "release",
+        "technet_hotfix_e2e": "hotfix"
+      }
     }
   ]
 }
