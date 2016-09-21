@@ -91,21 +91,6 @@
       "template_folder": "_themes.MSDN.Modern"
     },
     {
-      "docset_name": "openpublishing-test-static-vscom",
-      "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test-static-vscom",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes.VS.Modern"
-    },
-    {
       "docset_name": "openpublishing-test-static-technet",
       "build_source_folder": "openpublishing/test",
       "build_output_subfolder": "openpublishing/test-static-technet",
@@ -119,6 +104,21 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes.TechNet.Modern"
+    },
+    {
+      "docset_name": "openpublishing-test-static-vscom",
+      "build_source_folder": "openpublishing/test",
+      "build_output_subfolder": "openpublishing/test-static-vscom",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes.VS.Modern"
     }
   ],
   "notification_subscribers": [
@@ -161,6 +161,16 @@
       }
     },
     {
+      "path_to_root": "_themes.TechNet.Modern",
+      "url": "https://github.com/Microsoft/templates.technet.msft",
+      "branch": "master",
+      "branch_mapping": {
+        "technet_develop_e2e": "develop",
+        "technet_release_e2e": "release",
+        "technet_hotfix_e2e": "hotfix"
+      }
+    },
+    {
       "path_to_root": "_themes.VS.Modern",
       "url": "https://github.com/Microsoft/templates.vs.com",
       "branch": "master",
@@ -169,16 +179,6 @@
         "vscom_develop_e2e": "develop",
         "vscom_release_e2e": "release",
         "vscom_hotfix_e2e": "hotfix"
-      }
-    },
-    {
-      "path_to_root": "_themes.TechNet.Modern",
-      "url": "https://github.com/Microsoft/templates.technet.msft",
-      "branch": "master",
-      "branch_mapping": {
-        "technet_develop_e2e": "develop",
-        "technet_release_e2e": "release",
-        "technet_hotfix_e2e": "hotfix"
       }
     }
   ]
