@@ -1,5 +1,9 @@
 # Open Publishing Test Repo
 
+
+> [!NOTE]
+> This branch is for testing accessibility fixes and other production team issues. Contact [JasGro](mailto:jasgro) with questions.
+
 ## Purpose
 This repo is for open publishing e2e test.
 
