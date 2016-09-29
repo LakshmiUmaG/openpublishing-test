@@ -3,6 +3,10 @@
 ## Purpose
 This repo is for open publishing e2e test.
 
+> [!NOTE]
+> This branch is used by the CSI global production team for testing accessibility fixes and other issues.
+> Please contact [JasGro](mailto:jasgro) with any questions.
+
 Feature owners are encouraged to make changes of documents and resources in the repo to test e2e scenarios.
 
 For OPS documentation, please refer to [openpublishing-docs](https://ppe.msdn.microsoft.com/en-us/openpublishing/docs?branch=master).
