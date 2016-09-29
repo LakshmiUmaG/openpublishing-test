@@ -3,6 +3,12 @@
 		"href" : "/",
 		"level" : 1,
 		"children" : [{
+				"href" : "https://github.com/",
+				"homepage" : "https://github.com/",
+				"toc_title" : "Github",
+				"level" : 2,
+			},
+			{
 				"href" : "/openpublishing/test/",
 				"homepage" : "/openpublishing/test/index",
 				"toc_title" : "Openpublishing Test",
