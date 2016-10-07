@@ -38,11 +38,8 @@ Watch the following five-minute demo video to learn how easy it is to get starte
 Before you get started with Intune, you'll need the following:
 
 - A device with a Silverlight-enabled web browser that you can use to access the websites where you'll  create Intune user accounts (the **Office 365 admin center**) and where you manage devices, groups, and policies  (the **Intune administration console**).
-
 -  A second device with a web browser that you'll use  to test how Intune users will enroll and manage their devices using the Company Portal. You'll also test how users find and install apps and request help from administrators. If you don't have a second device, you can use the “privacy mode” setting on the same browser that you use for Intune administration (for example: in Internet Explorer, you can choose **Tools** &gt; **InPrivate Browsing**).
-
 - If you have an existing Microsoft Online Services account, you'll need the  administrator credentials for that account. If you don’t have such an account, or if you want to use this Intune tenant for evaluation purposes only, you don't need these administrator credentials.
-
 - If you'll manage iOS or Windows Phone devices with the Intune evaluation, you'll need certificates (or keys) and accounts to retrieve those certificates (see the following table). Android devices don't need any additional certificates.
 
     |Platform|Certificate Requirements|More information|
