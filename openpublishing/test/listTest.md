@@ -42,6 +42,7 @@ Before you get started with Intune, you'll need the following:
 - If you have an existing Microsoft Online Services account, you'll need the  administrator credentials for that account. If you don’t have such an account, or if you want to use this Intune tenant for evaluation purposes only, you don't need these administrator credentials.
 - If you'll manage iOS or Windows Phone devices with the Intune evaluation, you'll need certificates (or keys) and accounts to retrieve those certificates (see the following table). Android devices don't need any additional certificates.
 
+
     |Platform|Certificate Requirements|More information|
     |------------|----------------------------|--------------------|
     |Windows Phone 8.1 and Windows Phone 8 |No certificate is required for Windows Phone 8.1 users who install the Company Portal app from the Store. A Symantec certificate is required for Windows Phone 8.0 or to use Intune to deploy the Company Portal app to Windows Phone 8.1 devices.|This guidance assumes your users get the Company Portal app from the Store on a Windows Phone 8.1 or later device. For information about Windows Phone 8.0 support, see [Set up Windows Phone management with Microsoft Intune](/Intune/Deploy-Use/set-up-windows-phone-management-with-microsoft-intune).|
