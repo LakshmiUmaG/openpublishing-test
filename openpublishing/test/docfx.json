@@ -5,7 +5,7 @@
         {
           "files": [
             "**/**.md",
-            "**/*_swagger2.json",
+            "restapi/**.json",
             "**/*.yml"
           ],
           "exclude": [
