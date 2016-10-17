@@ -9,6 +9,7 @@ _themes/
 _themes.MSDN.Modern/
 _themes.OPS/
 _themes.VS.Modern/
+_themes.TechNet.Modern/
 docfx-seed/
 
 .openpublishing.build.mdproj
