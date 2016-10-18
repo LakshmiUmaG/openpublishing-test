@@ -33,4 +33,6 @@
 ##### [Provider Operations Metadata](./restapi/azure/authorization/ProviderOperationsMetadata.json)
 ##### [Role Assignments](./restapi/azure/authorization/RoleAssignments.json)
 ##### [Role Definitions](./restapi/azure/authorization/RoleDefinitions.json)
+#### Network Management Client
+##### [Check Dns Name Availability](./restapi/azure/network/CheckDnsNameAvailability.json)
 ### [Legacy Swagger](./swagger/build.md)
