@@ -166,6 +166,14 @@ Below is multi selector:
 - [(iOS | .NET)](./small.md)
 - [(iOS | JavaScript)](./large.md)
 
+### Expandable Tree Control
+Only mounted in starterkit template
+> [!div data-component="TestExpandableTreeControl"]
+
+### Non Expandable Tree Control
+Only mounted in starterkit template
+> [!div data-component="TestNonExpandableTreeControl"]
+
 ### Step-by-step
 For step-by-step tutorials, you may optionally include the step-by-step UI component at the bottom of the article.
 > [!div class="step-by-step"]
