@@ -24,4 +24,15 @@
 ### [Large (System.String)](./reference/System.String.yml)
 ## [Rest API](./restapi/index.md)
 ### [Azure AD Graph API Operations on Contacts](./restapi/contacts_swagger2.json)
+### Azure API
+#### Data Lake Analytics Account Management Client
+##### [Account](./restapi/azure/account/Account.json)
+#### Authorization Management Client
+##### [Classic Administrators](./restapi/azure/authorization/ClassicAdministrators.json)
+##### [Permissions](./restapi/azure/authorization/Permissions.json)
+##### [Provider Operations Metadata](./restapi/azure/authorization/ProviderOperationsMetadata.json)
+##### [Role Assignments](./restapi/azure/authorization/RoleAssignments.json)
+##### [Role Definitions](./restapi/azure/authorization/RoleDefinitions.json)
+#### Network Management Client
+##### [Check Dns Name Availability](./restapi/azure/network/CheckDnsNameAvailability.json)
 ### [Legacy Swagger](./swagger/build.md)
