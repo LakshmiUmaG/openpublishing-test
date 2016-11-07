@@ -186,6 +186,11 @@
         "vscom_release_e2e": "release",
         "vscom_hotfix_e2e": "hotfix"
       }
+    },
+    {
+      "path_to_root": "docfx-seed",
+      "url": "https://github.com/docascode/docfx-seed",
+      "branch": "cli"
     }
   ]
 }
