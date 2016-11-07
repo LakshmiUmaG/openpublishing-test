@@ -118,7 +118,7 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes.VS.Modern"
+      "template_folder": "_themes.VS.UHF"
     },
     {
       "docset_name": "openpublishing-test-static-vscomuhf",
@@ -186,6 +186,12 @@
       }
     },
     {
+      "path_to_root": "_themes.VS.UHF",
+      "url": "https://github.com/Microsoft/templates.vs.com.vscomuhf",
+      "branch": "master",
+      "branch_mapping": {}
+    },
+    {
       "path_to_root": "_themes.VS.Modern",
       "url": "https://github.com/Microsoft/templates.vs.com",
       "branch": "master",
@@ -195,12 +201,6 @@
         "vscom_release_e2e": "release",
         "vscom_hotfix_e2e": "hotfix"
       }
-    },
-    {
-      "path_to_root": "_themes.VS.UHF",
-      "url": "https://github.com/Microsoft/templates.vs.com.vscomuhf",
-      "branch": "master",
-      "branch_mapping": {}
     }
   ]
 }
