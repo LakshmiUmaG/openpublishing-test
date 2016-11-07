@@ -119,21 +119,6 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes.VS.UHF"
-    },
-    {
-      "docset_name": "openpublishing-test-static-vscomuhf",
-      "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes.VS.UHF"
     }
   ],
   "notification_subscribers": [
