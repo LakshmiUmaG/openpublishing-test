@@ -153,8 +153,7 @@
       "branch_mapping": {
         "develop_e2e": "develop",
         "release_e2e": "release",
-        "hotfix_e2e": "hotfix",
-        "starterkitdocker_develop_e2e": "docker_develop"
+        "hotfix_e2e": "hotfix"
       }
     },
     {
@@ -187,11 +186,6 @@
         "vscom_release_e2e": "release",
         "vscom_hotfix_e2e": "hotfix"
       }
-    },
-    {
-      "path_to_root": "docfx-seed",
-      "url": "https://github.com/docascode/docfx-seed",
-      "branch": "cli"
     }
   ]
 }
