@@ -3,124 +3,6 @@
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
-      "docset_name": "openpublishing-test-docs",
-      "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test-docs",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": false,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    },
-    {
-      "docset_name": "openpublishing-test-op",
-      "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test-op",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": false,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "op"
-    },
-    {
-      "docset_name": "openpublishing-test-op-technet",
-      "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test-op-technet",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": false,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "op"
-    },
-    {
-      "docset_name": "openpublishing-test-reference",
-      "build_source_folder": "openpublishing/test-reference",
-      "build_output_subfolder": "openpublishing/test-reference",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "op",
-      "template_folder": "_themes.OPS"
-    },
-    {
-      "docset_name": "openpublishing-test-starterkit",
-      "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test-starterkit",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes.OPS"
-    },
-    {
-      "docset_name": "openpublishing-test-static-msdn",
-      "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test-static-msdn",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": false,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes.MSDN.Modern"
-    },
-    {
-      "docset_name": "openpublishing-test-static-technet",
-      "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test-static-technet",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes.TechNet.Modern"
-    },
-    {
-      "docset_name": "openpublishing-test-static-vscom",
-      "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test-static-vscom",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes.VS.UHF"
-    },
-    {
       "docset_name": "openpublishing-test-static-vscomuhf",
       "build_source_folder": "openpublishing/test",
       "build_output_subfolder": "openpublishing/test",
@@ -143,63 +25,14 @@
   "skip_source_output_uploading": false,
   "dependent_repositories": [
     {
-      "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "master",
-      "branch_mapping": {
-        "develop_e2e": "develop",
-        "release_e2e": "release",
-        "hotfix_e2e": "hotfix",
-        "docs_develop_e2e": "ops_develop",
-        "docs_release_e2e": "ops_release",
-        "docs_hotfix_e2e": "ops_hotfix"
-      }
-    },
-    {
-      "path_to_root": "_themes.OPS",
-      "url": "https://github.com/Microsoft/templates.starterkit",
-      "branch": "master",
-      "branch_mapping": {
-        "develop_e2e": "develop",
-        "release_e2e": "release",
-        "hotfix_e2e": "hotfix"
-      }
-    },
-    {
-      "path_to_root": "_themes.MSDN.Modern",
-      "url": "https://github.com/Microsoft/templates.msdn.msft",
-      "branch": "master",
-      "branch_mapping": {
-        "msdn_develop_e2e": "develop",
-        "msdn_release_e2e": "release",
-        "msdn_hotfix_e2e": "hotfix"
-      }
-    },
-    {
-      "path_to_root": "_themes.TechNet.Modern",
-      "url": "https://github.com/Microsoft/templates.technet.msft",
-      "branch": "master",
-      "branch_mapping": {
-        "technet_develop_e2e": "develop",
-        "technet_release_e2e": "release",
-        "technet_hotfix_e2e": "hotfix"
-      }
-    },
-    {
       "path_to_root": "_themes.VS.UHF",
       "url": "https://github.com/Microsoft/templates.vs.com.vscomuhf",
       "branch": "master",
-      "branch_mapping": {}
-    },
-    {
-      "path_to_root": "_themes.VS.Modern",
-      "url": "https://github.com/Microsoft/templates.vs.com",
-      "branch": "master",
       "branch_mapping": {
         "master": "develop",
-        "vscom_develop_e2e": "develop",
-        "vscom_release_e2e": "release",
-        "vscom_hotfix_e2e": "hotfix"
+        "vscomuhf_develop_e2e": "develop",
+        "vscomuhf_release_e2e": "release",
+        "vscomuhf_hotfix_e2e": "hotfix"
       }
     }
   ]
