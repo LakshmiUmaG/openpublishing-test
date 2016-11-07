@@ -58,13 +58,7 @@
         "RestApi": "Content"
       },
       "build_entry_point": "op",
-      "template_folder": "_themes.OPS",
-      "customized_tasks": {
-        "docset_prebuild": [
-          "scripts/generateYamlFromSourceCode.ps1"
-        ]
-      },
-      "customized_template_paths": "RawModelContentTemplate"
+      "template_folder": "_themes.OPS"
     },
     {
       "docset_name": "openpublishing-test-starterkit",
@@ -125,6 +119,21 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes.VS.Modern"
+    },
+    {
+      "docset_name": "openpublishing-test-static-vscomuhf",
+      "build_source_folder": "openpublishing/test",
+      "build_output_subfolder": "openpublishing/test",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes.VS.UHF"
     }
   ],
   "notification_subscribers": [
@@ -153,8 +162,7 @@
       "branch_mapping": {
         "develop_e2e": "develop",
         "release_e2e": "release",
-        "hotfix_e2e": "hotfix",
-        "starterkitdocker_develop_e2e": "docker_develop"
+        "hotfix_e2e": "hotfix"
       }
     },
     {
@@ -189,9 +197,10 @@
       }
     },
     {
-      "path_to_root": "docfx-seed",
-      "url": "https://github.com/docascode/docfx-seed",
-      "branch": "cli"
+      "path_to_root": "_themes.VS.UHF",
+      "url": "https://github.com/Microsoft/templates.vs.com.vscomuhf",
+      "branch": "master",
+      "branch_mapping": {}
     }
   ]
 }
