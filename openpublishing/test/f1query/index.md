@@ -12,9 +12,9 @@ target_framework_moniker:
 # How To Publish Content to Enable F1 Query
 
 ## Metadata Strategy
-1. **f1_keywords** (_required_, _multivalue_): need to provide one or more F1 keywords for this content, which will be used to match the keywords from F1 query URL.
+1. **f1_keywords** (_optional_, _multivalue_): **This metadata is mandatory for F1 Query.** Need to provide one or more F1 keywords for this content, which will be used to match the keywords from F1 query URL.
 
-2. **dev_langs** (_required_, _multivalue_): the supported develop languages of this content. The F1 query will specify the dev_lang that the develop is currently using in the IDE. 
+2. **dev_langs** (_optional_, _multivalue_): **This metadata is optional for F1 Query.** The supported develop languages of this content. The F1 query will specify the dev_lang that the develop is currently using in the IDE. 
 
 
 ##YAML Header
