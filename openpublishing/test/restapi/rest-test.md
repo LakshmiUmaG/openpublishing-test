@@ -20,7 +20,7 @@ DELETE https://fabrikam.visualstudio.com/DefaultCollection/_apis/projects/98dd5d
 ```
 
 
-
 ```REST
 DELETE https://fabrikam.visualstudio.com/DefaultCollection/_apis/projects/98dd5ded-8110-459b-8241-3d12b2eeaf18?api-version=1.0
 ```
+
