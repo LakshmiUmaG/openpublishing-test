@@ -29,8 +29,6 @@ GET https://{instance}/DefaultCollection/_apis/projects/{project}/teams?api-vers
 | $top       | integer | 100     | Maximum number of teams to return.
 | $skip      | integer | 0       | Number of teams to skip.
 
-[!code-REST [GET__projects__projectId__teams_json](./_data/teams/GET__projects__projectId__teams.json)]
-
 #### Sample Code
 
 >[!div class="tabbedCodeSnippets" cs='C#' cl='.NET Client Library']
@@ -110,7 +108,7 @@ GET https://{instance}/DefaultCollection/_apis/projects/{project}/teams?api-vers
 
 ### A page at a time
 
-[!code-REST [GET__projects__projectId__teams__top-_top___skip-_skip__json](./_data/teams/GET__projects__projectId__teams__top-_top___skip-_skip_.json)]
+
 
 ## Get a team
 <a id="GetTeam"></a>
@@ -127,9 +125,6 @@ GET https://{instance}/DefaultCollection/_apis/projects/{project}/teams/{team}?a
 | team       | string   | Name or ID of the team. 
 | Query
 | api-version | string  | [Version](../../get-started/rest/basics.md#versions) of the API to use.
-
-
-[!code-REST [GET__projects__projectId__teams__teamId__json](./_data/teams/GET__projects__projectId__teams__teamId_.json)]
 
 #### Sample Code
 
@@ -303,8 +298,6 @@ GET https://{instance}/DefaultCollection/_apis/projects/{project}/teams/{team}/m
 >```
 
 ### A page at a time
-
-[!code-REST [GET__projects__projectId__teams__top-_top___skip-_skip__json](./_data/teams/GET__projects__projectId__teams__top-_top___skip-_skip_.json)]
          
 ## Create a team
 <a id="Create"></a>
@@ -333,8 +326,6 @@ Content-Type: application/json
 | Body
 | name         | string | Name of the team.
 | description  | string | Description of the team.
-
-[!code-REST [POST__projects__projectId__teams__json](./_data/teams/POST__projects__projectId__teams.json)]
 
 #### Sample Code
 >[!div class="tabbedCodeSnippets" cs='C#' cl='.NET Client Library']
@@ -550,8 +541,6 @@ DELETE https://{instance}.VisualStudio.com/DefaultCollection/_apis/projects/{pro
 ```httprequest
 DELETE https://fabrikam.VisualStudio.com/DefaultCollection/_apis/projects/fabrikam-fiber/teams/2ddc9d25-b0fe-45ed-97d1-d94c5a562c0b?api-version=2.2
 ```
-
-[!code-REST [DELETE__projects__projectId__teams__newTeamId___json](./_data/teams/DELETE__projects__projectId__teams__newTeamId_.json)]
 
 #### Sample Code
 
