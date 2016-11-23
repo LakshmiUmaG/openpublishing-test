@@ -9,12 +9,6 @@ ms.author: elbatk
 ms.date: 08/04/2016
 ---
 
-# Teams
-
-## Get a list of teams
-<a id="GetTeams"></a>
-Get all teams within the project that the authenticated user has access to.
-
 ```httprequest
 GET https://{instance}/DefaultCollection/_apis/projects/{project}/teams?api-version={version}[&$top={integer}&$skip={integer}]
 ```
@@ -22,10 +16,10 @@ GET https://{instance}/DefaultCollection/_apis/projects/{project}/teams?api-vers
 | Parameter  | Type    | Default | Notes
 |:-----------|:--------|:--------|:----------------------------------------------------------------------------------------------------------------------------
 | URL
-| instance    | string  |         | [VS Team Services account](/integrate/get-started/rest/basics.md#vs-team-services) ({instance}.visualstudio.com) or [TFS server](/integrate/get-started/rest/basics.md#tfs) ({server:port}).
+| instance    | string  |         |test
 | project    | string  |         | Name or ID of the project.
 | Query
-| api-version | string  | [Version](../../get-started/rest/basics.md#versions) of the API to use.
+| api-version | string  | test of the API to use.
 | $top       | integer | 100     | Maximum number of teams to return.
 | $skip      | integer | 0       | Number of teams to skip.
 
@@ -106,10 +100,6 @@ GET https://{instance}/DefaultCollection/_apis/projects/{project}/teams?api-vers
 >
 >```
 
-### A page at a time
-
-
-
 ## Get a team
 <a id="GetTeam"></a>
 
@@ -120,11 +110,11 @@ GET https://{instance}/DefaultCollection/_apis/projects/{project}/teams/{team}?a
 | Parameter  | Type     | Notes
 |:-----------|:---------|:----------------------------------------------------------------------------------------------------------------------------
 | URL
-| instance   | string   | [VS Team Services account](/integrate/get-started/rest/basics.md#vs-team-services) ({instance}.visualstudio.com) or [TFS server](/integrate/get-started/rest/basics.md#tfs) ({server:port}).
+| instance   | string   | test at test.
 | project    | string   | Name or ID of the project.
 | team       | string   | Name or ID of the team. 
 | Query
-| api-version | string  | [Version](../../get-started/rest/basics.md#versions) of the API to use.
+| api-version | string  |test
 
 #### Sample Code
 
@@ -209,15 +199,13 @@ GET https://{instance}/DefaultCollection/_apis/projects/{project}/teams/{team}/m
 | Parameter  | Type     | Default | Notes
 |:-----------|:---------|:--------|:-----------------------------------------------------
 | URL
-| instance   | string   |         | [VS Team Services account](/integrate/get-started/rest/basics.md#vs-team-services) ({instance}.visualstudio.com) or [TFS server](/integrate/get-started/rest/basics.md#tfs) ({server:port}).
+| instance   | string   |         | test or test.
 | project    | string   |         | Name or ID of the project.
 | team       | string   |         | Name or ID of the team. 
 | Query
-| api-version| string   |         | [Version](../../get-started/rest/basics.md#versions) of the API to use.
+| api-version| string   |         |test of the API to use.
 | $top       | integer  | `100`   | Maximum number of teams to return.
 | $skip      | integer  | `0`     | Number of teams to skip.
-
-[!code-REST [GET__projects__projectId__teams__teamId__members__json](./_data/teams/GET__projects__projectId__teams__teamId__members_.json)]
 
 #### Sample Code
 >[!div class="tabbedCodeSnippets" cs='C#' cl='.NET Client Library']
@@ -322,7 +310,7 @@ Content-Type: application/json
 | account      | string | VS Team Services account ({account}.visualstudio.com) or TFS server ({server:port}).
 | project      | string | Name or ID of the project.
 | Query
-| api-version  | string | [Version](../../get-started/rest/basics.md#versions) of the API to use.
+| api-version  | string | test of the API to use.
 | Body
 | name         | string | Name of the team.
 | description  | string | Description of the team.
@@ -430,12 +418,10 @@ Content-Type: application/json
 | project      | string   | Name or ID of the project.
 | team         | string   | Name or ID of the team.
 | Query
-| api-version  | string | [Version](../../get-started/rest/basics.md#versions) of the API to use.
+| api-version  | string | test of the API to use.
 | Body
 | name         | string | New name of the team.
 | description  | string | New description of the team.
-
-[!code-REST [PATCH__projects__projectId__teams__json](./_data/teams/PATCH__projects__projectId__teams.json)]
 
 #### Sample Code
 >[!div class="tabbedCodeSnippets" cs='C#' cl='.NET Client Library']
@@ -535,7 +521,7 @@ DELETE https://{instance}.VisualStudio.com/DefaultCollection/_apis/projects/{pro
 | project    | string | Name or ID of the project.
 | team       | string | Name or ID of the team.
 | Query
-| api-version | string | [Version](../../get-started/rest/basics.md#versions) of the API to use.
+| api-version | string | test of the API to use.
 
 #### Sample request
 ```httprequest
