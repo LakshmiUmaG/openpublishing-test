@@ -185,7 +185,7 @@
         "vscom_develop_e2e": "develop",
         "vscom_release_e2e": "release",
         "vscom_hotfix_e2e": "hotfix",
-        "jinhwa_test_can_delete": "develop"
+        "jinhwa_test_can_delete": "release"
       }
     },
     {
