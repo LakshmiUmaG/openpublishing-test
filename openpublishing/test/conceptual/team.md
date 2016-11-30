@@ -13,6 +13,14 @@ ms.date: 08/04/2016
 GET https://{instance}/DefaultCollection/_apis/projects/{project}/teams?api-version={version}[&$top={integer}&$skip={integer}]
 ```
 
+```
+GET https://{instance}/DefaultCollection/_apis/projects/{project}/teams?api-version={version}[&$top={integer}&$skip={integer}]
+```
+
+```no-highlight
+GET https://{instance}/DefaultCollection/_apis/projects/{project}/teams?api-version={version}[&$top={integer}&$skip={integer}]
+```
+
 | Parameter  | Type    | Default | Notes
 |:-----------|:--------|:--------|:----------------------------------------------------------------------------------------------------------------------------
 | URL
