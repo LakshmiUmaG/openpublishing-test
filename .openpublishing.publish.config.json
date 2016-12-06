@@ -58,13 +58,7 @@
         "RestApi": "Content"
       },
       "build_entry_point": "op",
-      "template_folder": "_themes.OPS",
-      "customized_tasks": {
-        "docset_prebuild": [
-          "scripts/generateYamlFromSourceCode.ps1"
-        ]
-      },
-      "customized_template_paths": "RawModelContentTemplate"
+      "template_folder": "_themes.OPS"
     },
     {
       "docset_name": "openpublishing-test-starterkit",
@@ -132,6 +126,10 @@
   ],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
+  "need_preview_pull_request": true,
+  "enable_incremental_build": true,
+  "enable_push_aggregation": true,
+  "enable_pull_request_aggregation": true,
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
@@ -186,11 +184,7 @@
         "vscom_release_e2e": "release",
         "vscom_hotfix_e2e": "hotfix"
       }
-    },
-    {
-      "path_to_root": "docfx-seed",
-      "url": "https://github.com/docascode/docfx-seed",
-      "branch": "cli"
     }
-  ]
+  ],
+  "need_generate_pdf_url_template": false
 }
