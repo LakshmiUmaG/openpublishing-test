@@ -47,8 +47,6 @@
         ]
       }
     ],
-    "exportRawModel": true,
-    "exportViewModel": true,
     "externalReference": [
     ],
     "template": "op.html",
