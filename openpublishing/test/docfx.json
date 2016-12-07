@@ -41,9 +41,14 @@
     "overwrite":
     [
       {
-        "files": ["**/*-operations.md"]
+        "files": [
+          "**/*-operations.md",
+          "restapi/azure/cognitiveservices/*.md"
+        ]
       }
     ],
+    "exportRawModel": true,
+    "exportViewModel": true,
     "externalReference": [
     ],
     "template": "op.html",
