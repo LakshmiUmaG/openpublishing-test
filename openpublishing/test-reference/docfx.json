@@ -1,4 +1,16 @@
 {
+  "metadata": [
+    {
+      "src": [
+        {
+          "files": [ "**/project.json" ],
+          "exclude": [ "**/bin/**", "**/obj/**" ],
+          "cwd": "../../docfx-seed/src"
+        }
+      ],
+      "dest": "obj/api"
+    }
+  ],
   "build": {
     "content": [
       {
@@ -10,6 +22,11 @@
           "openpublishing/test-reference/**",
           "**/includes/**"
         ]
+      },
+      {
+        "files": "*.yml",
+        "src": "obj/api",
+        "dest": "api"
       }
     ],
     "resource": [
@@ -27,7 +44,9 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+      "author": "dotnet-bot"
+    },
     "fileMetadata": {},
     "template": [],
     "dest": "openpublishing/test-reference"
