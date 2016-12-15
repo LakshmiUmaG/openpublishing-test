@@ -32,20 +32,6 @@
       "build_entry_point": "op"
     },
     {
-      "docset_name": "openpublishing-test-op-technet",
-      "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test-op-technet",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": false,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "op"
-    },
-    {
       "docset_name": "openpublishing-test-reference",
       "build_source_folder": "openpublishing/test-reference",
       "build_output_subfolder": "openpublishing/test-reference",
@@ -80,21 +66,6 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes.OPS"
-    },
-    {
-      "docset_name": "openpublishing-test-static-msdn",
-      "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test-static-msdn",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": false,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes.MSDN.Modern"
     },
     {
       "docset_name": "openpublishing-test-static-technet",
