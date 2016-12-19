@@ -1,6 +1,8 @@
 # Open Publishing Test Repo
 
 ## Purpose
+Test permision
+
 This repo is for open publishing e2e test.
 
 Feature owners are encouraged to make changes of documents and resources in the repo to test e2e scenarios.
