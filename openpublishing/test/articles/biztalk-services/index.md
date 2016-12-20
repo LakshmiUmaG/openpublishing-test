@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use BizTalk services to provide cloud to on-premises and line-of-business application integration for SAP, Oracle EBS, SQL Server, and PeopleSoft.
 ---
 # Biztalk Services Documentation

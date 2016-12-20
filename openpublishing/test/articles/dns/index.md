@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to manage your DNS records using Azure Domain Name System. Documentation shows how to set up and manage DNS zones and records for domain names.
 ---
 # DNS Documentation

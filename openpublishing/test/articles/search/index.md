@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to add robust search capabilities, including activity monitoring, to custom web or mobile applications. API references and other documentation.
 ---
 # Azure Search Documentation

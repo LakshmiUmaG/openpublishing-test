@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to embed Power BI data visualizations and interactive reports into apps. Tutorials, API references, and other documentation.
 ---
 # Power BI Embedded Documentation

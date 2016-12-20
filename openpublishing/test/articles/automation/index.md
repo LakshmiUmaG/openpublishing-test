@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use Automation to automate processes and configuration management in order to save time and increase reliability of regular administrative tasks.
 ---
 # Automation Documentation

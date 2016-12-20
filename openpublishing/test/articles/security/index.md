@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to customize security options in Azure services to meet the requirements of your deployments of services and data in the cloud.
 ---
 # Security Documentation

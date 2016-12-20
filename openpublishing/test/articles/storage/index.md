@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use Azure Storage - Blob, Table, Queue, File, and Virtual Machine Disk storage in the cloud. Tutorials, API references, and other documentation.
 ---
 

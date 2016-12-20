@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use Content Delivery Network (CDN) to deliver content from global data centers to any device. Tutorials, API references, and other documentation.
 ---
 # CDN Documentation

@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use API Apps in Azure App Service to develop, host, and consume APIs in the cloud and on-premises. Tutorials, videos, and other documentation.
 ---
 # App Service - API Apps Documentation

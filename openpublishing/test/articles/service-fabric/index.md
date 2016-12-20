@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use Service Fabric middleware platform to package and deploy microservices for cloud-scale applications. Tutorials, API references, and code samples.
 ---
 #Service Fabric Documentation

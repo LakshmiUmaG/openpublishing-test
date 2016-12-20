@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use Azure StorSimple, an integrated storage solution that manages storage tasks between on-premises devices and Azure cloud storage.
 ---
 #StorSimple Documentation

@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use Active Directory Domain Services to join Azure virtual machines to a domain without using domain controllers and manage them with group policies.
 ---
 # Active Directory Domain Services Documentation

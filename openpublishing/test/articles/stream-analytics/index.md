@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to run IoT analytics in the cloud with fully-managed event processing. Analyze data in real time from applications, sensors, devices, and more.
 ---
 

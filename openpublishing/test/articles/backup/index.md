@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Use Backup documentation to learn how to back up to the cloud. See tutorials and videos for application, Windows server, and Azure virtual machine backup.
 ---
 #Backup Documentation

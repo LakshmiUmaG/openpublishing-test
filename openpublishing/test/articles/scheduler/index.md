@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use Scheduler to schedule and invoke jobs such as recurring application actions and routine maintenance. Tutorials, API references, and more.
 ---
 # Scheduler Documentation

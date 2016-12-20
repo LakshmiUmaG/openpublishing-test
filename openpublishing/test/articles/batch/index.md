@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use Batch to run large-scale parallel and high-performance computing applications efficiently. Tutorials, API references, and other documentation.
 ---
 #Batch Documentation

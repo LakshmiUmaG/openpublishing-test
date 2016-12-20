@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use Azure Stack preview to deliver Azure services from your datacenter. Learn and demonstrate features from a proof of concept environment.
 ---
 #Azure Stack Documentation

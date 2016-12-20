@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use DocumentDB, a schema-free NoSQL document database. Tutorials show how to integrate with apps and use SQL queries on JSON documents.
 ---
 #DocumentDB Documentation

@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 toc_rel: breadcrumb.json
 description: Learn how to create, deploy, and manage Windows or Linux virtual machines. Tutorials, API references, and other documentation.
 ---

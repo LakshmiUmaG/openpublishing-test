@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use IoT Hub to connect, monitor, and control billions of Internet of Things assets. Tutorials, API references, videos and other documentation.
 ---
 #IoT Hub Documentation

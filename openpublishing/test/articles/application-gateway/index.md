@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to deploy a cloud application delivery controller. Documentation shows how to set up application-level routing and load balancing for a web front end.
 ---
 #Application Gateway Documentation

@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use Key Vault to create and maintain keys that access and encrypt your cloud resources, apps, and solutions. Tutorials, API references, and more.
 ---
 # Key Vault Documentation

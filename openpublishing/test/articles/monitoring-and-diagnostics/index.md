@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use monitoring and diagnostics services to track performance, maintain security, and identify trends. API references, best practices, and more.
 ---
 

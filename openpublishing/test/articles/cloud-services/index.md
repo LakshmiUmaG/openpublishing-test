@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Tutorials, API references and other documentation show you how to use Cloud Services to host and run highly available and scalable cloud applications and APIs.
 ---
 # Cloud Services Documentation

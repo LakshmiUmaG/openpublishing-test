@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use Virtual Machine Scale Sets to create auto-scaling Windows or Linux VMs for big compute, big data, and containerized solutions.
 ---
 #Virtual Machine Scale Sets Documentation

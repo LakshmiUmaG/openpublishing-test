@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Documentation, videos, and example models for Machine Learning, a cloud service for data scientists and developers using predictive analytics in applications.
 ---
 #Azure Machine Learning Documentation

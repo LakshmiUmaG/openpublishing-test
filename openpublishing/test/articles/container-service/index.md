@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use Container Service to deploy and manage application containers using DC/OS, Docker Swarm, or Kubernetes. Tutorials, API references, and more.
 ---
 

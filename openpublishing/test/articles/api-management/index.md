@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use API Management to publish APIs securely and at scale. Documentation shows how to create modern API gateways for existing backend services.
 ---
 # API Management Documentation

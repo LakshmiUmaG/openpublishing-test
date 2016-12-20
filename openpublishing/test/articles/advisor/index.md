@@ -1,6 +1,4 @@
----
-layout: LandingPage
----
+
 # Azure Advisor Documentation
 
 Azure Advisor is a personalized cloud consultant that helps you follow best practices to optimize your Azure deployments. It analyzes your resource configuration and usage telemetry. It then recommends solutions to help improve the performance, security, and high availability of your resources while looking for opportunities to reduce your overall Azure spend.

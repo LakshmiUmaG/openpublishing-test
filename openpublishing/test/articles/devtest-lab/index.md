@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to quickly create application test environments using reusable artifacts. Tutorials, videos, and more show you how to create, manage, and secure labs.
 ---
 #Devtest Labs Documentation

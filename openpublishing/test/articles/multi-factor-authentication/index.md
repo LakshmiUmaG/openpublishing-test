@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to deploy multi-factor authentication with a range of verification methods that provide a simple sign-in process. Tutorials, an SDK, and more.
 ---
 # Multi-factor Authentication Documentation

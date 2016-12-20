@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to deploy comprehensive consumer identity management in the cloud. Documentation shows how to protect consumer-facing web and mobile apps.
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to create Windows virtual machines. Documentation helps you plan, deploy, and manage a virtual machine computing environment in the cloud.
 ---
 # Windows Virtual Machines Documentation

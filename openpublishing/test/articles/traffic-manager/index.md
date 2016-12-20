@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to manage incoming traffic for optimal application performance. Documentation shows how to distribute traffic to Azure or external service endpoints.
 ---
 #Traffic Manager Documentation

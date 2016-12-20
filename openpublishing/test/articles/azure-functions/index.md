@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to develop and deploy functions in the language of your choice to run tasks in the background or on a schedule without special infrastructure.
 ---
 #Azure Functions Documentation

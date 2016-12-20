@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use Application Insights an extensible application performance management to detect, triage, and diagnose issues in web apps and services.
 ---
 # Application Insights Documentation

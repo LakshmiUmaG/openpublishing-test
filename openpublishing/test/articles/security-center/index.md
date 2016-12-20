@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to set up security monitoring and policy management for Azure resources. Tutorials, a REST API reference, and other documentation.
 ---
 # Security Center Documentation

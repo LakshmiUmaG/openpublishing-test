@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn Hadoop on HDInsight. Documentation shows you how to use Hadoop, Spark, HBase, R-Server, and more to process, analyze, and gain insights from big data.
 ---
 #Azure HDInsight Documentation

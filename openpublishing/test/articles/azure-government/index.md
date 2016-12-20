@@ -1,6 +1,4 @@
----
-layout: LandingPage
----
+
 #Azure Government Documentation
 
 Microsoft Azure Government delivers a cloud platform built upon the foundational principles of security, privacy and control, compliance, and transparency. Public Sector entities receive a physically isolated instance of Microsoft Azure that employs world-class security and compliance services critical to U.S. government for all systems and applications built on its architecture. 

@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to set up data modeling with Analysis Services in the cloud. Documentation shows you how to create an enterprise BI solution using tabular data.
 ---
 # Analysis Services Documentation

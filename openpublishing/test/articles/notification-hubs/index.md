@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to send push notifications from any backend to any mobile device with Notification Hubs. Tutorials, API references, and other documentation.
 ---
 #Notification Hubs Documentation

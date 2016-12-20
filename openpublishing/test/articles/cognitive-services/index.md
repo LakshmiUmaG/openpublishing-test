@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to add intelligent capabilities to your applications, such as vision, speech, and language analytics. Get quick start guides and API references.
 ---
 #Cognitive Services Documentation

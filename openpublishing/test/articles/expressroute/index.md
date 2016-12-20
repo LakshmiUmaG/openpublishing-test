@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to configure and manage a private ExpressRoute connection to Microsoft cloud services from your on-premises infrastructure or colocation facility.
 ---
 #ExpressRoute Documentation

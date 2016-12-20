@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to set up messaging that connects applications and services across on-premises and cloud environments.  Tutorials, videos, API references, and more.
 ---
 #Service Bus Documentation

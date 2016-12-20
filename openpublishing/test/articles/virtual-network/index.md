@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 +toc_rel: breadcrumb.json
 description: Learn how to use a virtual network in the cloud. Documentation shows how to deploy a VNet, use it to launch resources, and integrate with an on-premises network.
 ---

@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use Resource Manager to deploy and manage solution resources as a group and to create templates for consistent and repeatable resource deployment.
 ---
 #Azure Resource Manager Documentation

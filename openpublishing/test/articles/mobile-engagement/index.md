@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to get insights into mobile app usage and real-time user segmentation, and how to enable contextually-aware push notifications and in-app messaging.
 ---
 # Mobile Engagement Documentation

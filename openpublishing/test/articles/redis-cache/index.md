@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use Azure Redis Cache, a secure data cache and messaging broker that gives applications fast access to data. Tutorials, API references, and more.
 ---
 #Redis Cache Documentation

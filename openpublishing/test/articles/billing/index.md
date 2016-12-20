@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to understand your Azure billing, as well as manage and monitor usage and costs. Tutorials, FAQs, API references, and other documentation.
 ---
 # Azure Billing Documentation

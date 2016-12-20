@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to develop logic apps that automate and simplify business workflows across on-premises and the cloud. Tutorials, templates, and API references.
 ---
 # Logic Apps Documentation

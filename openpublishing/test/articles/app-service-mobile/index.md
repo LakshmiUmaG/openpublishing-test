@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use Mobile Apps in Azure App Service to build and host native iOS, Android, or Windows apps, or cross-platform apps using Xamarin or Cordova.
 ---
 # Mobile Apps Documentation

@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn SQL Database, a database-as-a-service in the cloud. Tutorials, videos, and other documentation show how to set up, connect, and manage a relational database.
 ---
 

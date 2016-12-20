@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to create a virtual machine using the Linux distribution of your choice. Documentation shows different ways to create VM templates.
 ---
 # Linux Virtual Machine Documentation

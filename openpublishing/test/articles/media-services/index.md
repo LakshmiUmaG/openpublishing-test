@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to securely stream on-demand or live broadcast-quality video with Media Services, an extensible cloud platform. Tutorials, API references, and more.
 ---
 # Media Services Documentation

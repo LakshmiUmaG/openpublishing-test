@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to configure virtual private network (VPN) gateways to manage traffic between cloud virtual networks and on-premises, or between cloud VNets.
 ---
 #VPN Gateway Documentation

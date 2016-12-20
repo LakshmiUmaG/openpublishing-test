@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to set up a data catalog where your organization can find, understand, and consume data sources. Tutorials, API reference, and other documentation.
 ---
 #Data Catalog Documentation

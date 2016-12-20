@@ -1,5 +1,4 @@
 ---
-layout: LandingPage
 description: Learn how to use Load Balancer for network performance of apps. Manage traffic for virtual machines and cloud resources, and in cross-premises virtual networks.
 ---
 #Load Balancer Documentation
