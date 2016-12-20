@@ -10,6 +10,7 @@
 ### [Multiple Topics (Bar)](./abtesting/multiple-topics-bar.md)
 ### [Multiple Topics (Baz)](./abtesting/multiple-topics-baz.md)
 ## [Conceptual](./conceptual/index.md)
+### [ImageTest](./conceptual/ImageTest.md)
 ### [Small](./conceptual/small.md)
 ### [Large](./conceptual/large.md)
 ### [UI Components](./conceptual/ui-components.md)
