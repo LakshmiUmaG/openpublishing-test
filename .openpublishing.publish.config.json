@@ -18,9 +18,9 @@
       "template_folder": "_themes"
     },
     {
-      "docset_name": "openpublishing-test-artscan",
-      "build_source_folder": "openpublishing/expressroute",
-      "build_output_subfolder": "openpublishing/expressroute",
+      "docset_name": "openpublishing-test-dns",
+      "build_source_folder": "openpublishing/dns",
+      "build_output_subfolder": "openpublishing/dns",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": false,
@@ -29,7 +29,7 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "docs",
+      "build_entry_point": "docs"
     },
     {
       "docset_name": "openpublishing-test-op",
