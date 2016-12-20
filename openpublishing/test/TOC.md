@@ -38,3 +38,32 @@
 #### Cognitive Services
 ##### [Cognitive Services Accounts](./restapi/azure/cognitiveservices/CognitiveServicesAccounts.json)
 ### [Legacy Swagger](./swagger/build.md)
+
+
+
+#Test
+##index(./dns/index.md)
+### [What is Azure DNS?](./dns/dns-overview.md)
+### [DNS zones and records](./dns/dns-zones-records.md)
+### [Create a DNS zone](./dns/dns-getstarted-create-dnszone-portal.md)
+### [PowerShell](./dns/dns-getstarted-create-dnszone.md)
+### [CLI](./dns/dns-getstarted-create-dnszone-cli.md)
+### [Create DNS records](./dns/dns-getstarted-create-recordset-portal.md)
+### [PowerShell](./dns/dns-getstarted-create-recordset.md)
+### [CLI](./dns/dns-getstarted-create-recordset-cli.md)
+### [Delegate your domain to Azure DNS](./dns/dns-domain-delegation.md)
+### [Create custom DNS records for a web app](./dns/dns-web-sites-custom-domain.md)
+### [PowerShell](./dns/dns-operations-dnszones.md)
+### [CLI](./dns/dns-operations-dnszones-cli.md)
+### [Manage DNS records](./dns/dns-operations-recordsets-portal.md)
+### [PowerShell](./dns/dns-operations-recordsets.md)
+### [CLI](./dns/dns-operations-recordsets-cli.md)
+### [Manage reverse DNS records](./dns/dns-reverse-dns-record-operations-ps.md)
+### [CLI](./dns/dns-reverse-dns-record-operations-cli.md)
+### [PowerShell](./dns/dns-reverse-dns-record-operations-classic-ps.md)
+### [Import and export a DNS zone file](./dns/dns-import-export.md)
+### [Integrate with other Azure services](./dns/dns-for-azure-services.md)
+### [Protect DNS zones and records](./dns/dns-protect-zones-recordsets.md)
+### [Automate DNS operations with the .NET SDK](./dns/dns-sdk.md)
+
+
