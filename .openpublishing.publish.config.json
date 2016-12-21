@@ -81,6 +81,20 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes.VS.Modern"
+    },
+    {
+      "docset_name": "openpublishing-test-op-technet",
+      "build_source_folder": "openpublishing-test-op-technet",
+      "build_output_subfolder": "openpublishing/test",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
     }
   ],
   "notification_subscribers": [
@@ -89,9 +103,6 @@
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
-  "enable_incremental_build": true,
-  "enable_push_aggregation": true,
-  "enable_pull_request_aggregation": true,
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
@@ -117,6 +128,17 @@
       }
     },
     {
+      "path_to_root": "_themes.VS.Modern",
+      "url": "https://github.com/Microsoft/templates.vs.com",
+      "branch": "master",
+      "branch_mapping": {
+        "master": "develop",
+        "vscom_develop_e2e": "develop",
+        "vscom_release_e2e": "release",
+        "vscom_hotfix_e2e": "hotfix"
+      }
+    },
+    {
       "path_to_root": "_themes.MSDN.Modern",
       "url": "https://github.com/Microsoft/templates.msdn.msft",
       "branch": "master",
@@ -137,20 +159,10 @@
       }
     },
     {
-      "path_to_root": "_themes.VS.Modern",
-      "url": "https://github.com/Microsoft/templates.vs.com",
-      "branch": "master",
-      "branch_mapping": {
-        "master": "develop",
-        "vscom_develop_e2e": "develop",
-        "vscom_release_e2e": "release",
-        "vscom_hotfix_e2e": "hotfix"
-      }
-    },
-    {
       "path_to_root": "docfx-seed",
       "url": "https://github.com/docascode/docfx-seed",
-      "branch": "cli"
+      "branch": "cli",
+      "branch_mapping": {}
     }
   ],
   "need_generate_pdf_url_template": false
