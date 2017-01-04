@@ -6,7 +6,7 @@
       "docset_name": "openpublishing-test-docs",
       "build_source_folder": "openpublishing/test",
       "build_output_subfolder": "openpublishing/test-docs",
-      "locale": "en-us",
+      "locale": "de-de",
       "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
