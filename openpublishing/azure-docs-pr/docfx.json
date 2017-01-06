@@ -64,15 +64,14 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/azure/bread/toc.json",
+      "breadcrumb_path": "/openpublishing/test/breadcrumb.json",
       "brand": "azure",
-      "searchScope": ["Azure"],
-      "contributors_to_exclude": ["hexiaokai", "openpublishingbuild", "tysonn", "v-anpasi", "kiwhit", "ShawnJackson", "PRmerger", "DuncanmaMSFT", "Saisang", "Ja-Dunn", "jomolnar", "KatieCumming", "rjagiewich", "v-thepet", "deneha"]
+      "searchScope": ["openpublishing"]
     },
     "fileMetadata": {},
     "template": [
       "docs.html"
     ],
-    "dest": "azure"
+    "dest": "openpublishing/test"
   }
 }
