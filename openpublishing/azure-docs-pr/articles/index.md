@@ -76,61 +76,61 @@ description: Learn how to build and manage powerful applications using Microsoft
                                     <h3>Compute</h3>
                                     <ul>
                                         <li>
-                                            <a href="/azure/virtual-machines/linux/">
+                                            <a href="/openpublishing/test/virtual-machines/linux/">
                                                 <img src="media/index/VirtualMachine.svg" alt="" />
                                                 <p>Linux Virtual Machines</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/virtual-machines/windows/">
+                                            <a href="/openpublishing/test/virtual-machines/windows/">
                                                 <img src="media/index/VirtualMachine.svg" alt="" />
                                                 <p>Windows Virtual Machines</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/virtual-machine-scale-sets/">
+                                            <a href="/openpublishing/test/virtual-machine-scale-sets/">
                                                 <img src="media/index/AvailabilitySetOld.svg" alt="" />
                                                 <p>Virtual Machine Scale Sets</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/app-service/">
+                                            <a href="/openpublishing/test/app-service/">
                                                 <img src="media/index/AppService.svg" alt="" />
                                                 <p>App Service</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/container-service/">
+                                            <a href="/openpublishing/test/container-service/">
                                                 <img src="media/index/ContainerService.svg" alt="" />
                                                 <p>Azure Container Service</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/container-registry/">
+                                            <a href="/openpublishing/test/container-registry/">
                                                 <img src="media/index/container-registry.svg" alt="" />
                                                 <p>Azure Container Registry</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/azure-functions/">
+                                            <a href="/openpublishing/test/azure-functions/">
                                                 <img src="media/index/AzureFunctions.svg" alt="" />
                                                 <p>Functions</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/service-fabric/">
+                                            <a href="/openpublishing/test/service-fabric/">
                                                 <img src="media/index/Fabric.svg" alt="" />
                                                 <p>Service Fabric</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/batch/">
+                                            <a href="/openpublishing/test/batch/">
                                                 <img src="media/index/Batch.svg" alt="" />
                                                 <p>Batch</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/cloud-services/">
+                                            <a href="/openpublishing/test/cloud-services/">
                                                 <img src="media/index/CloudService.svg" alt="" />
                                                 <p>Cloud Services</p>
                                             </a>
@@ -139,37 +139,37 @@ description: Learn how to build and manage powerful applications using Microsoft
                                     <h3>Databases</h3>
                                     <ul>
                                         <li>
-                                            <a href="/azure/sql-database/">
+                                            <a href="/openpublishing/test/sql-database/">
                                                 <img src="media/index/SQLDatabase.svg" alt="" />
                                                 <p>SQL Database</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/sql-data-warehouse/">
+                                            <a href="/openpublishing/test/sql-data-warehouse/">
                                                 <img src="media/index/SQLDataWarehouse.svg" alt="" />
                                                 <p>SQL Data Warehouse</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/sql-server-stretch-database/">
+                                            <a href="/openpublishing/test/sql-server-stretch-database/">
                                                 <img src="media/index/SQLDatabase.svg" alt="" />
                                                 <p>SQL Server Stretch Database</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/documentdb/">
+                                            <a href="/openpublishing/test/documentdb/">
                                                 <img src="media/index/DocumentDB.svg" alt="" />
                                                 <p>DocumentDB</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/redis-cache/">
+                                            <a href="/openpublishing/test/redis-cache/">
                                                 <img src="media/index/RedisCache.svg" alt="" />
                                                 <p>Redis Cache</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/data-factory/">
+                                            <a href="/openpublishing/test/data-factory/">
                                                 <img src="media/index/DataFactory.svg" alt="" />
                                                 <p>Data Factory</p>
                                             </a>
@@ -179,43 +179,43 @@ description: Learn how to build and manage powerful applications using Microsoft
                                     </h3>
                                     <ul>
                                         <li>
-                                            <a href="/azure/security-center">
+                                            <a href="/openpublishing/test/security-center">
                                                 <img src="media/index/SecurityCenter.svg" alt="" />
                                                 <p>Security Center</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/key-vault/">
+                                            <a href="/openpublishing/test/key-vault/">
                                                 <img src="media/index/KeyVault.svg" alt="" />
                                                 <p>Key Vault</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/active-directory/">
+                                            <a href="/openpublishing/test/active-directory/">
                                                 <img src="media/index/ActiveDirectory.svg" alt="" />
                                                 <p>Azure Active Directory</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/active-directory-b2c">
+                                            <a href="/openpublishing/test/active-directory-b2c">
                                                 <img src="media/index/ActiveDirectory.svg" alt="" />
                                                 <p>Azure Active Directory B2C</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/active-directory-domain-services">
+                                            <a href="/openpublishing/test/active-directory-domain-services">
                                                 <img src="media/index/ActiveDirectory.svg" alt="" />
                                                 <p>Azure Active Directory Domain Services</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/multi-factor-authentication/">
+                                            <a href="/openpublishing/test/multi-factor-authentication/">
                                                 <img src="media/index/MultiFactorAuthentication.svg" alt="" />
                                                 <p>Multi-Factor Authentication</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/security/">
+                                            <a href="/openpublishing/test/security/">
                                                 <img src="media/index/SecurityCenter.svg" alt="" />
                                                 <p>Security Information</p>
                                             </a>
@@ -226,49 +226,49 @@ description: Learn how to build and manage powerful applications using Microsoft
                                     <h3>Networking</h3>
                                     <ul>
                                         <li>
-                                            <a href="/azure/virtual-network/">
+                                            <a href="/openpublishing/test/virtual-network/">
                                                 <img src="media/index/VirtualNetwork.svg" alt="" />
                                                 <p>Virtual Network</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/load-balancer/">
+                                            <a href="/openpublishing/test/load-balancer/">
                                                 <img src="media/index/LoadBalancer.svg" alt="" />
                                                 <p>Load Balancer</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/application-gateway/">
+                                            <a href="/openpublishing/test/application-gateway/">
                                                 <img src="media/index/ApplicationGateway.svg" alt="" />
                                                 <p>Application Gateway</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/vpn-gateway/">
+                                            <a href="/openpublishing/test/vpn-gateway/">
                                                 <img src="media/index/VPNGateway.svg" alt="" />
                                                 <p>VPN Gateway</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/dns/">
+                                            <a href="/openpublishing/test/dns/">
                                                 <img src="media/index/DNS.svg" alt="" />
                                                 <p>Azure DNS</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/cdn/">
+                                            <a href="/openpublishing/test/cdn/">
                                                 <img src="media/index/ContentDeliveryNetwork.svg" alt="" />
                                                 <p>CDN</p>
                                             </a>
                                         </li>
                                         <li>
-                                        <a href="/azure/traffic-manager/">
+                                        <a href="/openpublishing/test/traffic-manager/">
                                                 <img src="media/index/TrafficManager.svg" alt="" />
                                                 <p>Traffic Manager</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/expressroute/">
+                                            <a href="/openpublishing/test/expressroute/">
                                                 <img src="media/index/ExpressRoute.svg" alt="" />
                                                 <p>ExpressRoute</p>
                                             </a>
@@ -277,61 +277,61 @@ description: Learn how to build and manage powerful applications using Microsoft
                                     <h3>Intelligence + Analytics</h3>
                                     <ul>
                                         <li>
-                                            <a href="/azure/hdinsight/">
+                                            <a href="/openpublishing/test/hdinsight/">
                                                 <img src="media/index/HDInsight.svg" alt="" />
                                                 <p>HDInsight</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/machine-learning/">
+                                            <a href="/openpublishing/test/machine-learning/">
                                                 <img src="media/index/MachineLearning.svg" alt="" />
                                                 <p>Machine Learning</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/stream-analytics/">
+                                            <a href="/openpublishing/test/stream-analytics/">
                                                 <img src="media/index/StreamAnalytics.svg" alt="" />
                                                 <p>Stream Analytics</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/cognitive-services/">
+                                            <a href="/openpublishing/test/cognitive-services/">
                                                 <img src="media/index/CognitiveServices.svg" alt="" />
                                                 <p>Cognitive Services</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/data-catalog/">
+                                            <a href="/openpublishing/test/data-catalog/">
                                                 <img src="media/index/data-catalog.svg" alt="" />
                                                 <p>Data Catalog</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/data-lake-analytics/">
+                                            <a href="/openpublishing/test/data-lake-analytics/">
                                                 <img src="media/index/DataLakeStore.svg" alt="" />
                                                 <p>Data Lake Analytics</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/data-lake-store/">
+                                            <a href="/openpublishing/test/data-lake-store/">
                                                 <img src="media/index/DataLakeStore.svg" alt="" />
                                                 <p>Data Lake Store</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/data-factory/">
+                                            <a href="/openpublishing/test/data-factory/">
                                                 <img src="media/index/DataFactory.svg" alt="" />
                                                 <p>Data Factory</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/power-bi-embedded/">
+                                            <a href="/openpublishing/test/power-bi-embedded/">
                                                 <img src="media/index/PowerBIEmbedded.svg" alt="" />
                                                 <p>Power BI Embedded</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/analysis-services/">
+                                            <a href="/openpublishing/test/analysis-services/">
                                                 <img src="media/index/AnalysisServices.svg" alt="" />
                                                 <p>Analysis Services</p>
                                             </a>
@@ -352,19 +352,19 @@ description: Learn how to build and manage powerful applications using Microsoft
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/devtest-lab/">
+                                            <a href="/openpublishing/test/devtest-lab/">
                                                 <img src="media/index/DevTestLabs.svg" alt="" />
                                                 <p>Azure DevTest Labs</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/application-insights/">
+                                            <a href="/openpublishing/test/application-insights/">
                                                 <img src="media/index/ApplicationInsights.svg" alt="" />
                                                 <p>Application Insights</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/api-management/">
+                                            <a href="/openpublishing/test/api-management/">
                                                 <img src="media/index/APIManagement.svg" alt="" />
                                                 <p>API Management</p>
                                             </a>
@@ -383,31 +383,31 @@ description: Learn how to build and manage powerful applications using Microsoft
                                     <h3>Storage</h3>
                                     <ul>
                                         <li>
-                                            <a href="/azure/storage/">
+                                            <a href="/openpublishing/test/storage/">
                                                 <img src="media/index/Storage.svg" alt="" />
                                                 <p>Storage</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/data-lake-store/">
+                                            <a href="/openpublishing/test/data-lake-store/">
                                                 <img src="media/index/DataLakeStore.svg" alt="" />
                                                 <p>Data Lake Store</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/storsimple/">
+                                            <a href="/openpublishing/test/storsimple/">
                                                 <img src="media/index/StorSimple.svg" alt="" />
                                                 <p>StorSimple</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/backup/">
+                                            <a href="/openpublishing/test/backup/">
                                                 <img src="media/index/Backup.svg" alt="" />
                                                 <p>Backup</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/site-recovery/">
+                                            <a href="/openpublishing/test/site-recovery/">
                                                 <img src="media/index/SiteRecovery.svg" alt="" />
                                                 <p>Site Recovery</p>
                                             </a>
@@ -422,37 +422,37 @@ description: Learn how to build and manage powerful applications using Microsoft
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/iot-hub/">
+                                            <a href="/openpublishing/test/iot-hub/">
                                                 <img src="media/index/IoTHub.svg" alt="" />
                                                 <p>Azure IoT Hub</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/iot-suite/">
+                                            <a href="/openpublishing/test/iot-suite/">
                                                 <img src="media/index/iot-suite.svg" alt="" />
                                                 <p>Azure IoT Suite</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/event-hubs/">
+                                            <a href="/openpublishing/test/event-hubs/">
                                                 <img src="media/index/EventHubs.svg" alt="" />
                                                 <p>Event Hubs</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/notification-hubs/">
+                                            <a href="/openpublishing/test/notification-hubs/">
                                                 <img src="media/index/NotificationHubs.svg" alt="" />
                                                 <p>Notification Hubs</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/stream-analytics/">
+                                            <a href="/openpublishing/test/stream-analytics/">
                                                 <img src="media/index/StreamAnalytics.svg" alt="" />
                                                 <p>Stream Analytics</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/machine-learning/">
+                                            <a href="/openpublishing/test/machine-learning/">
                                                 <img src="media/index/MachineLearning.svg" alt="" />
                                                 <p>Machine Learning</p>
                                             </a>
@@ -461,61 +461,61 @@ description: Learn how to build and manage powerful applications using Microsoft
                                     <h3>Monitoring + Management</h3>
                                     <ul>
                                         <li>
-                                            <a href="/azure/application-insights/">
+                                            <a href="/openpublishing/test/application-insights/">
                                                 <img src="media/index/ApplicationInsights.svg" alt="" />
                                                 <p>Application Insights</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/log-analytics/">
+                                            <a href="/openpublishing/test/log-analytics/">
                                                 <img src="media/index/OperationsManagementSuite.svg" alt="" />
                                                 <p>Log Analytics</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/automation/">
+                                            <a href="/openpublishing/test/automation/">
                                                 <img src="media/index/Automation.svg" alt="" />
                                                 <p>Automation</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/backup/">
+                                            <a href="/openpublishing/test/backup/">
                                                 <img src="media/index/Backup.svg" alt="" />
                                                 <p>Backup</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/site-recovery/">
+                                            <a href="/openpublishing/test/site-recovery/">
                                                 <img src="media/index/SiteRecovery.svg" alt="" />
                                                 <p>Site Recovery</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/scheduler/">
+                                            <a href="/openpublishing/test/scheduler/">
                                                 <img src="media/index/Scheduler.svg" alt="" />
                                                 <p>Scheduler</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/monitoring-and-diagnostics/">
+                                            <a href="/openpublishing/test/monitoring-and-diagnostics/">
                                                 <img src="media/index/AzureMonitoring.svg" alt="" />
                                                 <p>Azure Monitor</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/billing/">
+                                            <a href="/openpublishing/test/billing/">
                                                 <img src="media/index/billing.svg" alt="" />
                                                 <p>Billing</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/advisor">
+                                            <a href="/openpublishing/test/advisor">
                                                 <img src="media/index/advisor.svg" alt="" />
                                                 <p>Azure Advisor</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/azure-resource-manager/">
+                                            <a href="/openpublishing/test/azure-resource-manager/">
                                                 <img src="media/index/AzureDefaultBlack.svg" alt="" />
                                                 <p>Azure Resource Manager</p>
                                             </a>
@@ -527,61 +527,61 @@ description: Learn how to build and manage powerful applications using Microsoft
                                     </h3>
                                     <ul>
                                         <li>
-                                            <a href="/azure/app-service/">
+                                            <a href="/openpublishing/test/app-service/">
                                                 <img src="media/index/AppService.svg" alt="" />
                                                 <p>App Service</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/app-service-web">
+                                            <a href="/openpublishing/test/app-service-web">
                                                 <img src="media/index/app-service-web.svg" alt="" />
                                                 <p>Web Apps</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/app-service-mobile">
+                                            <a href="/openpublishing/test/app-service-mobile">
                                                 <img src="media/index/app-service-mobile.svg" alt="" />
                                                 <p>Mobile Apps</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/app-service-api">
+                                            <a href="/openpublishing/test/app-service-api">
                                                 <img src="media/index/app-service-api.svg" alt="" />
                                                 <p>API Apps</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/logic-apps/">
+                                            <a href="/openpublishing/test/logic-apps/">
                                                 <img src="media/index/LogicApp.svg" alt="" />
                                                 <p>Logic Apps</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/cdn/">
+                                            <a href="/openpublishing/test/cdn/">
                                                 <img src="media/index/ContentDeliveryNetwork.svg" alt="" />
                                                 <p>CDN</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/media-services/">
+                                            <a href="/openpublishing/test/media-services/">
                                                 <img src="media/index/MediaServices.svg" alt="" />
                                                 <p>Media Services</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/search/">
+                                            <a href="/openpublishing/test/search/">
                                                 <img src="media/index/Search.svg" alt="" />
                                                 <p>Search</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/mobile-engagement/">
+                                            <a href="/openpublishing/test/mobile-engagement/">
                                                 <img src="media/index/MobileEngagement.svg" alt="" />
                                                 <p>Mobile Engagement</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/notification-hubs/">
+                                            <a href="/openpublishing/test/notification-hubs/">
                                                 <img src="media/index/NotificationHubs.svg" alt="" />
                                                 <p>Notification Hubs</p>
                                             </a>
@@ -590,43 +590,43 @@ description: Learn how to build and manage powerful applications using Microsoft
                                     <h3>Enterprise Integration</h3>
                                     <ul>
                                         <li>
-                                            <a href="/azure/logic-apps/">
+                                            <a href="/openpublishing/test/logic-apps/">
                                                 <img src="media/index/LogicApp.svg" alt="" />
                                                 <p>Logic Apps</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/biztalk-services/">
+                                            <a href="/openpublishing/test/biztalk-services/">
                                                 <img src="media/index/BizTalkServices.svg" alt="" />
                                                 <p>Biztalk Services</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/service-bus/">
+                                            <a href="/openpublishing/test/service-bus/">
                                                 <img src="media/index/ServiceBus.svg" alt="" />
                                                 <p>Service Bus</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/api-management/">
+                                            <a href="/openpublishing/test/api-management/">
                                                 <img src="media/index/APIManagement.svg" alt="" />
                                                 <p>API Management</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/storsimple/">
+                                            <a href="/openpublishing/test/storsimple/">
                                                 <img src="media/index/StorSimple.svg" alt="" />
                                                 <p>StorSimple</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/sql-server-stretch-database/">
+                                            <a href="/openpublishing/test/sql-server-stretch-database/">
                                                 <img src="media/index/SQLDatabase.svg" alt="" />
                                                 <p>SQL Server Stretch Database</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/data-factory/">
+                                            <a href="/openpublishing/test/data-factory/">
                                                 <img src="media/index/DataFactory.svg" alt="" />
                                                 <p>Data Factory</p>
                                             </a>
@@ -635,13 +635,13 @@ description: Learn how to build and manage powerful applications using Microsoft
 								    <h3>Other Clouds</h3>
                                     <ul>
                                         <li>
-                                            <a href="/azure/azure-government/">
+                                            <a href="/openpublishing/test/azure-government/">
                                                 <img src="media/index/azure-government.svg" alt="" />
                                                 <p>Azure US Government</p>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/azure/azure-stack/">
+                                            <a href="/openpublishing/test/azure-stack/">
                                                 <img src="media/index/azure-stack.svg" alt="" />
                                                 <p>Azure Stack</p>
                                             </a>
@@ -655,7 +655,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                         <a data-default="true" href="#Compute">Compute</a>
                         <ul id="Compute" class="cardsA">
                             <li>
-                                <a href="/azure/virtual-machines/linux/">
+                                <a href="/openpublishing/test/virtual-machines/linux/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -674,7 +674,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/virtual-machines/windows/">
+                                <a href="/openpublishing/test/virtual-machines/windows/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -693,7 +693,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/virtual-machine-scale-sets/">
+                                <a href="/openpublishing/test/virtual-machine-scale-sets/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -712,7 +712,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/app-service/">
+                                <a href="/openpublishing/test/app-service/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -731,7 +731,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/container-service/">
+                                <a href="/openpublishing/test/container-service/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -750,7 +750,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/container-registry/">
+                                <a href="/openpublishing/test/container-registry/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -769,7 +769,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/azure-functions/">
+                                <a href="/openpublishing/test/azure-functions/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -788,7 +788,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/service-fabric/">
+                                <a href="/openpublishing/test/service-fabric/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -807,7 +807,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/batch/">
+                                <a href="/openpublishing/test/batch/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -826,7 +826,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/cloud-services/">
+                                <a href="/openpublishing/test/cloud-services/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -850,7 +850,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                         <a href="#network">Networking</a>
                         <ul id="network" class="cardsA">
                             <li>
-                                <a href="/azure/virtual-network/">
+                                <a href="/openpublishing/test/virtual-network/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -869,7 +869,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/load-balancer/">
+                                <a href="/openpublishing/test/load-balancer/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -888,7 +888,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/application-gateway/">
+                                <a href="/openpublishing/test/application-gateway/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -908,7 +908,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/vpn-gateway/">
+                                <a href="/openpublishing/test/vpn-gateway/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -927,7 +927,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/dns/">
+                                <a href="/openpublishing/test/dns/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -946,7 +946,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/cdn/">
+                                <a href="/openpublishing/test/cdn/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -966,7 +966,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/traffic-manager/">
+                                <a href="/openpublishing/test/traffic-manager/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -985,7 +985,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/expressroute/">
+                                <a href="/openpublishing/test/expressroute/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1009,7 +1009,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                         <a href="#storage">Storage</a>
                         <ul id="storage" class="cardsA">
                             <li>
-                                <a href="/azure/storage/">
+                                <a href="/openpublishing/test/storage/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1028,7 +1028,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/data-lake-store/">
+                                <a href="/openpublishing/test/data-lake-store/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1047,7 +1047,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/storsimple/">
+                                <a href="/openpublishing/test/storsimple/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1066,7 +1066,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/backup/">
+                                <a href="/openpublishing/test/backup/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1085,7 +1085,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/site-recovery/">
+                                <a href="/openpublishing/test/site-recovery/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1109,7 +1109,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                         <a href="#web">Web + Mobile</a>
                         <ul id="web" class="cardsA">
                             <li>
-                                <a href="/azure/app-service/">
+                                <a href="/openpublishing/test/app-service/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1128,7 +1128,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/app-service-web">
+                                <a href="/openpublishing/test/app-service-web">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1147,7 +1147,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/app-service-mobile">
+                                <a href="/openpublishing/test/app-service-mobile">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1166,7 +1166,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/app-service-api">
+                                <a href="/openpublishing/test/app-service-api">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1185,7 +1185,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/logic-apps/">
+                                <a href="/openpublishing/test/logic-apps/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1204,7 +1204,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/cdn/">
+                                <a href="/openpublishing/test/cdn/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1224,7 +1224,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/media-services/">
+                                <a href="/openpublishing/test/media-services/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1243,7 +1243,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/search/">
+                                <a href="/openpublishing/test/search/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1262,7 +1262,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/mobile-engagement/">
+                                <a href="/openpublishing/test/mobile-engagement/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1281,7 +1281,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/notification-hubs/">
+                                <a href="/openpublishing/test/notification-hubs/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1305,7 +1305,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                         <a href="#databases">Databases</a>
                         <ul id="databases" class="cardsA">
                             <li>
-                                <a href="/azure/sql-database/">
+                                <a href="/openpublishing/test/sql-database/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1324,7 +1324,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/sql-data-warehouse/">
+                                <a href="/openpublishing/test/sql-data-warehouse/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1343,7 +1343,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/sql-server-stretch-database/">
+                                <a href="/openpublishing/test/sql-server-stretch-database/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1362,7 +1362,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/documentdb/">
+                                <a href="/openpublishing/test/documentdb/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1381,7 +1381,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/redis-cache/">
+                                <a href="/openpublishing/test/redis-cache/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1400,7 +1400,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/data-factory/">
+                                <a href="/openpublishing/test/data-factory/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1424,7 +1424,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                         <a href="#analytics">Intelligence + Analytics</a>
                         <ul id="analytics" class="cardsA">
                             <li>
-                                <a href="/azure/hdinsight/">
+                                <a href="/openpublishing/test/hdinsight/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1443,7 +1443,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/machine-learning/">
+                                <a href="/openpublishing/test/machine-learning/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1462,7 +1462,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/stream-analytics/">
+                                <a href="/openpublishing/test/stream-analytics/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1481,7 +1481,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/cognitive-services/">
+                                <a href="/openpublishing/test/cognitive-services/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1500,7 +1500,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/data-catalog/">
+                                <a href="/openpublishing/test/data-catalog/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1519,7 +1519,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/data-lake-analytics/">
+                                <a href="/openpublishing/test/data-lake-analytics/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1538,7 +1538,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/data-lake-store/">
+                                <a href="/openpublishing/test/data-lake-store/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1557,7 +1557,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/data-factory/">
+                                <a href="/openpublishing/test/data-factory/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1576,7 +1576,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/power-bi-embedded/">
+                                <a href="/openpublishing/test/power-bi-embedded/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1595,7 +1595,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/analysis-services/">
+                                <a href="/openpublishing/test/analysis-services/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1657,7 +1657,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/iot-hub/">
+                                <a href="/openpublishing/test/iot-hub/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1676,7 +1676,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/iot-suite/">
+                                <a href="/openpublishing/test/iot-suite/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1695,7 +1695,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/event-hubs/">
+                                <a href="/openpublishing/test/event-hubs/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1714,7 +1714,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/stream-analytics/">
+                                <a href="/openpublishing/test/stream-analytics/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1733,7 +1733,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/machine-learning/">
+                                <a href="/openpublishing/test/machine-learning/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1752,7 +1752,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/notification-hubs/">
+                                <a href="/openpublishing/test/notification-hubs/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1776,7 +1776,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                         <a href="#integration">Enterprise Integration</a>
                         <ul id="integration" class="cardsA">
                             <li>
-                                <a href="/azure/logic-apps/">
+                                <a href="/openpublishing/test/logic-apps/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1795,7 +1795,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/biztalk-services/">
+                                <a href="/openpublishing/test/biztalk-services/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1814,7 +1814,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/service-bus/">
+                                <a href="/openpublishing/test/service-bus/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1833,7 +1833,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/api-management/">
+                                <a href="/openpublishing/test/api-management/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1852,7 +1852,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/storsimple/">
+                                <a href="/openpublishing/test/storsimple/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1871,7 +1871,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/sql-server-stretch-database/">
+                                <a href="/openpublishing/test/sql-server-stretch-database/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1890,7 +1890,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/data-factory/">
+                                <a href="/openpublishing/test/data-factory/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1914,7 +1914,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                         <a href="#security">Security + Identity</a>
                         <ul id="security" class="cardsA">
                             <li>
-                                <a href="/azure/security-center">
+                                <a href="/openpublishing/test/security-center">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1933,7 +1933,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/key-vault/">
+                                <a href="/openpublishing/test/key-vault/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1952,7 +1952,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/active-directory/">
+                                <a href="/openpublishing/test/active-directory/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1971,7 +1971,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/active-directory-b2c">
+                                <a href="/openpublishing/test/active-directory-b2c">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -1990,7 +1990,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/active-directory-domain-services">
+                                <a href="/openpublishing/test/active-directory-domain-services">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -2009,7 +2009,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/multi-factor-authentication/">
+                                <a href="/openpublishing/test/multi-factor-authentication/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -2028,7 +2028,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/security/">
+                                <a href="/openpublishing/test/security/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -2071,7 +2071,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/devtest-lab/">
+                                <a href="/openpublishing/test/devtest-lab/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -2090,7 +2090,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/application-insights/">
+                                <a href="/openpublishing/test/application-insights/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -2109,7 +2109,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/api-management/">
+                                <a href="/openpublishing/test/api-management/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -2152,7 +2152,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                         <a href="#mgmt">Monitoring + Management</a>
                         <ul id="mgmt" class="cardsA">
                             <li>
-                                <a href="/azure/application-insights/">
+                                <a href="/openpublishing/test/application-insights/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -2171,7 +2171,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/log-analytics/">
+                                <a href="/openpublishing/test/log-analytics/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -2190,7 +2190,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/automation/">
+                                <a href="/openpublishing/test/automation/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -2209,7 +2209,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/backup/">
+                                <a href="/openpublishing/test/backup/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -2228,7 +2228,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/site-recovery/">
+                                <a href="/openpublishing/test/site-recovery/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -2247,7 +2247,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/scheduler/">
+                                <a href="/openpublishing/test/scheduler/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -2266,7 +2266,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/monitoring-and-diagnostics/">
+                                <a href="/openpublishing/test/monitoring-and-diagnostics/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -2285,7 +2285,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/billing/">
+                                <a href="/openpublishing/test/billing/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -2304,7 +2304,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/advisor/">
+                                <a href="/openpublishing/test/advisor/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -2323,7 +2323,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/azure-resource-manager/">
+                                <a href="/openpublishing/test/azure-resource-manager/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -2347,7 +2347,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                         <a href="#other">Other Clouds</a>
                         <ul id="other" class="cardsA">
                             <li>
-                                <a href="/azure/azure-government/">
+                                <a href="/openpublishing/test/azure-government/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -2366,7 +2366,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                 </a>
                             </li>
                             <li>
-                                <a href="/azure/azure-stack/">
+                                <a href="/openpublishing/test/azure-stack/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -2500,7 +2500,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                             </div>
                                             <div class="cardText">
                                                 <h3>
-                                                    <a href="https://github.com/Azure/azure-sdk-for-java#download">Get the Java SDK</a>
+                                                    <a href="https://github.com/openpublishing/test/azure-sdk-for-java#download">Get the Java SDK</a>
                                                 </h3>
                                                 <p>
                                                     <a href="https://docs.microsoft.com/java/api/">Get started</a>
@@ -2533,10 +2533,10 @@ description: Learn how to build and manage powerful applications using Microsoft
                                                     <a href="https://rubygems.org/gems/azure">Get the Ruby SDK</a>
                                                 </h3>
                                                 <p>
-                                                    <a href="https://github.com/Azure/azure-sdk-for-ruby/blob/master/README.md">Get started</a>
+                                                    <a href="https://github.com/openpublishing/test/azure-sdk-for-ruby/blob/master/README.md">Get started</a>
                                                 </p>
                                                 <p>
-                                                    <a href="https://github.com/Azure/azure-sdk-for-ruby/blob/master/README.md">API reference</a>
+                                                    <a href="https://github.com/openpublishing/test/azure-sdk-for-ruby/blob/master/README.md">API reference</a>
                                                 </p>
                                                 <p>
                                                     <a href="https://azure.microsoft.com/documentation/samples/?platform=ruby">Get samples</a>
@@ -2591,10 +2591,10 @@ description: Learn how to build and manage powerful applications using Microsoft
                                                 <h3>Azure CLI 2.0 Preview
                                                 </h3>
                                                 <p>
-                                                    <a href="/cli/azure/get-started/">Get Started</a>
+                                                    <a href="/cli/openpublishing/test/get-started/">Get Started</a>
                                                 </p>
                                                 <p>
-                                                    <a href="https://github.com/Azure/azure-cli">Download Azure CLI 2.0</a>
+                                                    <a href="https://github.com/openpublishing/test/azure-cli">Download Azure CLI 2.0</a>
                                                 </p>
                                                 <p>
                                                     <a href="/cli/azure">Reference</a>
@@ -2616,7 +2616,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                             <div class="cardText">
                                                 <h3>PowerShell</h3>
                                                 <p>
-                                                    <a href="/azure/powershell-install-configure">Get Started</a>
+                                                    <a href="/openpublishing/test/powershell-install-configure">Get Started</a>
                                                 </p>
                                                 <p>
                                                     <a href="https://github.com/PowerShell/PowerShell/blob/master/docs/installation/">Download PowerShell</a>
@@ -2642,7 +2642,7 @@ description: Learn how to build and manage powerful applications using Microsoft
                                                 <h3>Azure CLI
                                                 </h3>
                                                 <p>
-                                                    <a href="/azure/xplat-cli-install?toc=%2fazure%2fvirtual-machines%2flinux%2ftoc.json">Get Started</a>
+                                                    <a href="/openpublishing/test/xplat-cli-install?toc=%2fazure%2fvirtual-machines%2flinux%2ftoc.json">Get Started</a>
                                                 </p>
                                                 <p>
                                                     <a href="http://aka.ms/linux-azure-cli">Download Azure CLI for Linux</a>
