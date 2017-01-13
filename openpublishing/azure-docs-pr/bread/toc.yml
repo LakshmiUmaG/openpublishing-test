@@ -16,10 +16,11 @@
         tocHref: /openpublishing/test/azure/active-directory/develop/
         topicHref: openpublishing/test/active-directory/develop/
       - name: Privileged Identity Management
-        tocHref: /openpublishing/test/active-directory/privileged-identity-management/
-        topicHref: /openpublishing/test/active-directory/privileged-identity-management/
+        tocHref: /openpublishing/test/azure/active-directory/privileged-identity-management/
+        topicHref: /openpublishing/test/azure/active-directory/privileged-identity-management/
   - name: Active Directory B2C
-    topicHref: /openpublishing/test/active-directory-b2c/active-directory-b2c-overview
+    tocHref: /openpublishing/test/azure/active-directory-b2c/
+    topicHref: /openpublishing/test/azure/active-directory-b2c/active-directory-b2c-overview
   - name: Active Directory Domain Services
     tocHref: /openpublishing/test/azure/active-directory-domain-services/
     topicHref: /openpublishing/test/azure/active-directory-domain-services/active-directory-ds-overview
