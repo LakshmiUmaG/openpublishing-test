@@ -72,6 +72,6 @@
     "template": [
       "docs.html"
     ],
-    "dest": "openpublishing/test"
+    "dest": "openpublishing/test/azure"
   }
 }

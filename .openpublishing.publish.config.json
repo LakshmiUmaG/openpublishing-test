@@ -18,6 +18,20 @@
       "template_folder": "_themes"
     },
     {
+      "docset_name": "openpublishing-test-docs",
+      "build_source_folder": "openpublishing/test",
+      "build_output_subfolder": "openpublishing/test-docs",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
       "docset_name": "openpublishing-test-op",
       "build_source_folder": "openpublishing/test",
       "build_output_subfolder": "openpublishing/test-op",
@@ -103,8 +117,8 @@
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
-  "enable_incremental_build": false,		
-  "enable_push_aggregation": true,		
+  "enable_incremental_build": false,
+  "enable_push_aggregation": true,
   "enable_pull_request_aggregation": true,
   "dependent_repositories": [
     {
