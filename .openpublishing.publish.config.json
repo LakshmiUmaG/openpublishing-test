@@ -18,7 +18,7 @@
     {
       "docset_name": "openpublishing-test-azure",
       "build_source_folder": "openpublishing/azure-docs-pr",
-      "build_output_subfolder": "openpublishing/test-azure",
+      "build_output_subfolder": "openpublishing/test/azure",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": false,
