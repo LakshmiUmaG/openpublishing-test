@@ -12,7 +12,8 @@
             "**/obj/**",
             "_themes/**",
             "token/**",
-            "**/*-operations.md"
+            "**/*-operations.md",
+            "restapi/azure/**.md"
           ]
         }
       ],
@@ -41,7 +42,10 @@
     "overwrite":
     [
       {
-        "files": ["**/*-operations.md"]
+        "files": [
+          "**/*-operations.md",
+          "restapi/azure/cognitiveservices/*.md"
+        ]
       }
     ],
     "externalReference": [

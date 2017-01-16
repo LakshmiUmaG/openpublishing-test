@@ -35,4 +35,6 @@
 ##### [Role Definitions](./restapi/azure/authorization/RoleDefinitions.json)
 #### Network Management Client
 ##### [Check Dns Name Availability](./restapi/azure/network/CheckDnsNameAvailability.json)
+#### Cognitive Services
+##### [Cognitive Services Accounts](./restapi/azure/cognitiveservices/CognitiveServicesAccounts.json)
 ### [Legacy Swagger](./swagger/build.md)
