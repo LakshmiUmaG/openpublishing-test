@@ -1,6 +1,7 @@
 {
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
+  "need_generate_pdf_url_template": false,
   "branch_target_mapping": {
     "live": [
       "Publish"
@@ -8,7 +9,7 @@
     "master": [
       "Publish"
     ],
-    "test-pdf": [
+    "MergeAzureContent": [
       "Publish",
       "Pdf"
     ]
@@ -194,6 +195,5 @@
       "branch": "cli",
       "branch_mapping": {}
     }
-  ],
-  "need_generate_pdf_url_template": false
+  ]
 }
