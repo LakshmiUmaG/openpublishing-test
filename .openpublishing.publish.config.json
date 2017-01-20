@@ -12,7 +12,23 @@
     "MergeAzureContent": [
       "Publish",
       "Pdf"
-    ]
+    ],
+    "Test_PDF_Setting1": [
+      "Publish",
+      "Pdf"
+    ],
+    "Test_PDF_Setting2": [
+      "Publish",
+      "Pdf"
+    ],
+    "Test_PDF_Setting_None": [
+      "Publish",
+      "Pdf"
+    ],
+    "Test_PDF_Setting1_2": [
+      "Publish",
+      "Pdf"
+    ] 
   },
   "Targets": {
     "Pdf": {
