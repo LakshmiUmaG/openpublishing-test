@@ -14,6 +14,11 @@
       "Pdf"
     ]
   },
+  "Targets": {
+    "Pdf": {
+      "template_folder": "_themes.pdf"
+    }
+  },
   "docsets_to_publish": [
     {
       "docset_name": "openpublishing-test-azure",
@@ -100,6 +105,11 @@
       "url": "https://github.com/docascode/docfx-seed",
       "branch": "cli",
       "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_themes.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+      "branch": "master"
     }
   ]
 }
