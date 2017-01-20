@@ -8,10 +8,6 @@
     ],
     "master": [
       "Publish"
-    ],
-    "MergeAzureContent": [
-      "Publish",
-      "Pdf"
     ]
   },
   "Targets": {
