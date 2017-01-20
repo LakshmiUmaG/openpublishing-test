@@ -2,18 +2,6 @@
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
   "need_generate_pdf_url_template": true,
-  "branch_target_mapping": {
-    "live": [
-      "Publish"
-    ],
-    "master": [
-      "Publish"
-    ],
-    "MergeAzureContent": [
-      "Publish",
-      "Pdf"
-    ]
-  },
   "Targets": {
     "Pdf": {
       "template_folder": "_themes.pdf"
