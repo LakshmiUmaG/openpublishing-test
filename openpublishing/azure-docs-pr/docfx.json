@@ -7,8 +7,11 @@
         ],
         "exclude": [
           "**/obj/**",
-          "openpublishing/test/**",
-          "**/includes/**"
+          "openpublishing/test/azure/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
         ]
       }
     ],
@@ -20,7 +23,7 @@
         ],
         "exclude": [
           "**/obj/**",
-          "openpublishing/test/**",
+          "openpublishing/test/azure/**",
           "**/includes/**"
         ]
       }
@@ -30,6 +33,6 @@
     "globalMetadata": {},
     "fileMetadata": {},
     "template": [],
-    "dest": "openpublishing/test"
+    "dest": "openpublishing/test/azure"
   }
 }
