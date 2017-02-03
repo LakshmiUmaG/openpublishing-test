@@ -129,7 +129,7 @@
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "master",
+      "branch": "prerelease",
       "branch_mapping": {
         "develop_e2e": "develop",
         "release_e2e": "release",
