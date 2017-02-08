@@ -31,7 +31,8 @@
         "breadcrumb_path": "/openpublishing/test/breadcrumb.json",
         "_mockServerUrl": "https://apiexproxy.azurewebsites.net/svc",
         "_mockServerAuthorization": "Bearer {token:https://graph.windows.net/}",
-        "is_e2e_test": true
+        "is_e2e_test": true,
+        "security_group" : "test_security_group"
     },
     "fileMetadata": {
         "author": {
