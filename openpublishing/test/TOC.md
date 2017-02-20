@@ -1,7 +1,8 @@
 # Open Publishing Service (OPS)
-## [Introduction to OPS](https://ppe.msdn.microsoft.com/en-us/openpublishing/docs?branch=master)
+## [Introduction to OPS](https://opsdocs.azurewebsites.net/en-us/opsdocs/?branch=master)
+## [Link to DocFX](https://dotnet.github.io/docfx/)
 # Open Publishing Test
-## [Get Started](index.md)
+## [Get Started](index.md "Getting Started")
 ## [A/B Testing](./abtesting/index.md)
 ### [User's Manual](./abtesting/users-manual-content.md)
 ### [Control Panel!](./abtesting/control-panel.md)
@@ -35,4 +36,6 @@
 ##### [Role Definitions](./restapi/azure/authorization/RoleDefinitions.json)
 #### Network Management Client
 ##### [Check Dns Name Availability](./restapi/azure/network/CheckDnsNameAvailability.json)
+#### Cognitive Services
+##### [Cognitive Services Accounts](./restapi/azure/cognitiveservices/CognitiveServicesAccounts.json)
 ### [Legacy Swagger](./swagger/build.md)
