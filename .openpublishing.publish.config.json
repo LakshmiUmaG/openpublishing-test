@@ -187,5 +187,6 @@
       "branch_mapping": {}
     }
   ],
-  "need_generate_pdf_url_template": false
+  "need_generate_pdf_url_template": false,
+  "log_codes_to_ignore": ["DuplicateUids"]
 }
