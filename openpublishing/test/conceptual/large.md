@@ -36,9 +36,9 @@ To configure ATA, follow these steps:
 
 ## <a name="Preinstallsteps"></a>Pre-installation steps
 
-1. If you installed the ATA public preview version, see [ATA Release Notes](./small.md) for help uninstalling the ATA Preview version.
+0. If you installed the ATA public preview version, see [ATA Release Notes](./small.md) for help uninstalling the ATA Preview version.
 
-2. Install KB2934520 on the ATA Center server and on the ATA Gateway servers before beginning installation, otherwise the ATA installation will install this update and will require a restart in the middle of the ATA installation.
+0. Install KB2934520 on the ATA Center server and on the ATA Gateway servers before beginning installation, otherwise the ATA installation will install this update and will require a restart in the middle of the ATA installation.
 
 ## <a name="InstallATACtr"></a>Step 1. Download and Install the ATA Center
 After you have verified that the server meets the requirements, you can proceed with the installation of the ATA Center.
@@ -100,13 +100,13 @@ The settings in the domain connectivity settings section apply to all ATA Gatewa
 
 To configure the Domain connectivity settings perform the following on the ATA Center server.
 
-1. Open the ATA Console and log in. For instructions see [Working with the ATA Console](./small.md).
+0. Open the ATA Console and log in. For instructions see [Working with the ATA Console](./small.md).
 
-2. The first time you log into the ATA Console after the ATA Center has been installed, you will automatically be taken to the ATA Gateways configuration page. If you need to modify any of the settings afterwards, click the Settings icon and select **Configuration**.
+0. The first time you log into the ATA Console after the ATA Center has been installed, you will automatically be taken to the ATA Gateways configuration page. If you need to modify any of the settings afterwards, click the Settings icon and select **Configuration**.
 
    ![](./Image/ATA_config_icon.JPG)
 
-3. On the **Gateways** page, click on **Domain connectivity settings**, enter the following information and click **Save**.
+0. On the **Gateways** page, click on **Domain connectivity settings**, enter the following information and click **Save**.
 
    |Field <br /> <br />|Comments <br /> <br />|
    |---------|------------|
@@ -120,13 +120,13 @@ After configuring the domain connectivity settings you can download the ATA Gate
 
 To download the ATA Gateway package:
 
-1. On the ATA Gateway machine, open a browser and enter the IP address you configured in the ATA Center for the ATA Console. When the ATA Console opens, click on the settings icon and select **Configuration**.
+0. On the ATA Gateway machine, open a browser and enter the IP address you configured in the ATA Center for the ATA Console. When the ATA Console opens, click on the settings icon and select **Configuration**.
 
    ![](./Image/ATA_config_icon.JPG)
 
-2. In the **ATA Gateways** tab, click **Download ATA Gateway Setup**.
+0. In the **ATA Gateways** tab, click **Download ATA Gateway Setup**.
 
-3. Save the package locally.
+0. Save the package locally.
 
 The zip file includes the following:
 
