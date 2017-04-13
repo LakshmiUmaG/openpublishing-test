@@ -51,6 +51,7 @@
     "externalReference": [
     ],
     "template": "op.html",
-    "dest": "openpublishing/test"
+    "dest": "openpublishing/test",
+    "markdownEngineName": "opdfm-latest"
   }
 }
