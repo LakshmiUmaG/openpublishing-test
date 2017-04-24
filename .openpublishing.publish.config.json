@@ -1,17 +1,13 @@
 {
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
-  "branch_target_mapping": {
-    "live": ["Publish", "Pdf", "Intellisense"],
-    "master": ["Publish", "Pdf", "Intellisense"]
-  },
   "docsets_to_publish": [
     {
       "docset_name": "openpublishing-test-azure",
       "build_source_folder": "openpublishing/azure-docs-pr",
       "build_output_subfolder": "openpublishing/test/azure",
       "locale": "en-us",
-      "version": 0,
+      "monikers": [],
       "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
@@ -20,15 +16,15 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes",
-      "is_dynamic_rendering": false
+      "version": 0
     },
     {
       "docset_name": "openpublishing-test-docs",
       "build_source_folder": "openpublishing/test",
       "build_output_subfolder": "openpublishing/test-docs",
       "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": true,
+      "monikers": [],
+      "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
@@ -36,14 +32,14 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes",
-      "is_dynamic_rendering": false
+      "version": 0
     },
     {
       "docset_name": "openpublishing-test-op",
       "build_source_folder": "openpublishing/test",
       "build_output_subfolder": "openpublishing/test-op",
       "locale": "en-us",
-      "version": 0,
+      "monikers": [],
       "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
@@ -51,29 +47,14 @@
         "RestApi": "Content"
       },
       "build_entry_point": "op",
-      "is_dynamic_rendering": false
-    },
-    {
-      "docset_name": "openpublishing-test-op-technet",
-      "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": false,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "op",
-      "is_dynamic_rendering": false
+      "version": 0
     },
     {
       "docset_name": "openpublishing-test-reference",
       "build_source_folder": "openpublishing/test-reference",
       "build_output_subfolder": "openpublishing/test-reference",
       "locale": "en-us",
-      "version": 0,
+      "monikers": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -82,7 +63,7 @@
       },
       "build_entry_point": "op",
       "template_folder": "_themes.OPS",
-      "is_dynamic_rendering": false,
+      "version": 0,
       "customized_tasks": {
         "docset_prebuild": [
           "scripts/generateYamlFromSourceCode.ps1"
@@ -95,7 +76,7 @@
       "build_source_folder": "openpublishing/test",
       "build_output_subfolder": "openpublishing/test-starterkit",
       "locale": "en-us",
-      "version": 0,
+      "monikers": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -104,14 +85,14 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes.OPS",
-      "is_dynamic_rendering": false
+      "version": 0
     },
     {
       "docset_name": "openpublishing-test-static-vscom",
       "build_source_folder": "openpublishing/test",
       "build_output_subfolder": "openpublishing/test-static-vscom",
       "locale": "en-us",
-      "version": 0,
+      "monikers": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -120,7 +101,38 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes.VS.Modern",
-      "is_dynamic_rendering": false
+      "version": 0
+    },
+    {
+      "docset_name": "openpublishing-test-op-technet",
+      "build_source_folder": "openpublishing/test",
+      "build_output_subfolder": "openpublishing/test",
+      "locale": "en-us",
+      "monikers": [],
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op",
+      "version": 0
+    },
+    {
+      "docset_name": "OPTest",
+      "build_source_folder": "openpublishing/test",
+      "build_output_subfolder": "OPTest",
+      "locale": "en-us",
+      "monikers": [],
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes",
+      "version": 0
     }
   ],
   "notification_subscribers": [
@@ -189,7 +201,46 @@
       "url": "https://github.com/docascode/docfx-seed",
       "branch": "cli",
       "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_themes.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+      "branch": "master",
+      "branch_mapping": {}
     }
   ],
-  "need_generate_pdf_url_template": false
+  "branch_target_mapping": {
+    "live": [
+      "Publish"
+    ],
+    "master": [
+      "Publish"
+    ],
+    "MergeAzureContent": [
+      "Publish",
+      "Pdf"
+    ],
+    "Test_PDF_Setting1": [
+      "Publish",
+      "Pdf"
+    ],
+    "Test_PDF_Setting2": [
+      "Publish",
+      "Pdf"
+    ],
+    "Test_PDF_Setting_None": [
+      "Publish",
+      "Pdf"
+    ],
+    "Test_PDF_Setting1_2": [
+      "Publish",
+      "Pdf"
+    ]
+  },
+  "need_generate_pdf_url_template": false,
+  "Targets": {
+    "Pdf": {
+      "template_folder": "_themes.pdf"
+    }
+  }
 }
