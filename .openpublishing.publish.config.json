@@ -1,5 +1,5 @@
 {
-  "build_entry_point": "docs",
+  "build_entry_point": "op",
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
   "docsets_to_publish": [
@@ -15,8 +15,7 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "docs",
-      "template_folder": "_themes",
+      "build_entry_point": "op",
       "version": 0
     },
     {
@@ -31,8 +30,7 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "docs",
-      "template_folder": "_themes",
+      "build_entry_point": "op",
       "version": 0
     },
     {
@@ -47,8 +45,7 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "docs",
-      "template_folder": "_themes",
+      "build_entry_point": "op",
       "version": 0
     },
     {
@@ -63,8 +60,7 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "docs",
-      "template_folder": "_themes",
+      "build_entry_point": "op",
       "version": 0
     },
     {
@@ -79,8 +75,7 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "docs",
-      "template_folder": "_themes",
+      "build_entry_point": "op",
       "version": 0,
       "customized_tasks": {
         "docset_prebuild": [
@@ -101,8 +96,7 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "docs",
-      "template_folder": "_themes",
+      "build_entry_point": "op",
       "version": 0
     },
     {
@@ -117,8 +111,7 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "docs",
-      "template_folder": "_themes",
+      "build_entry_point": "op",
       "version": 0
     },
     {
@@ -133,8 +126,7 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "docs",
-      "template_folder": "_themes",
+      "build_entry_point": "op",
       "version": 0
     }
   ],
