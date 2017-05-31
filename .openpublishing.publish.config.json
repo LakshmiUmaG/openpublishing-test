@@ -1,4 +1,5 @@
 {
+  "build_entry_point": "docs",
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
   "docsets_to_publish": [
@@ -8,7 +9,7 @@
       "build_output_subfolder": "openpublishing/test/azure",
       "locale": "en-us",
       "monikers": [],
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
@@ -40,13 +41,14 @@
       "build_output_subfolder": "openpublishing/test-op",
       "locale": "en-us",
       "monikers": [],
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "op",
+      "build_entry_point": "docs",
+      "template_folder": "_themes",
       "version": 0
     },
     {
@@ -55,13 +57,14 @@
       "build_output_subfolder": "openpublishing/test",
       "locale": "en-us",
       "monikers": [],
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "op",
+      "build_entry_point": "docs",
+      "template_folder": "_themes",
       "version": 0
     },
     {
@@ -76,8 +79,8 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "op",
-      "template_folder": "_themes.OPS",
+      "build_entry_point": "docs",
+      "template_folder": "_themes",
       "version": 0,
       "customized_tasks": {
         "docset_prebuild": [
@@ -99,7 +102,7 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes.OPS",
+      "template_folder": "_themes",
       "version": 0
     },
     {
@@ -115,7 +118,7 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes.VS.Modern",
+      "template_folder": "_themes",
       "version": 0
     },
     {
@@ -124,7 +127,7 @@
       "build_output_subfolder": "OPTest",
       "locale": "en-us",
       "monikers": [],
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
