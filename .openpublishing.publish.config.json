@@ -30,7 +30,7 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "op",
+      "build_entry_point": "docs",
       "version": 0,
       "template_folder": "_themes"
     },
