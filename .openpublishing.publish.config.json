@@ -15,8 +15,9 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "op",
-      "version": 0
+      "build_entry_point": "docs",
+      "version": 0,
+      "template_folder": "_themes"
     },
     {
       "docset_name": "openpublishing-test-docs",
@@ -97,8 +98,9 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "op",
-      "version": 0
+      "build_entry_point": "docs",
+      "version": 0,
+      "template_folder": "_themes.OPS"
     },
     {
       "docset_name": "openpublishing-test-static-vscom",
@@ -112,8 +114,9 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "op",
-      "version": 0
+      "build_entry_point": "docs",
+      "version": 0,
+      "template_folder": "_themes.VS.Modern"
     },
     {
       "docset_name": "OPTest",
