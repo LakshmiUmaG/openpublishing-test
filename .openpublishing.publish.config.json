@@ -31,7 +31,8 @@
         "RestApi": "Content"
       },
       "build_entry_point": "op",
-      "version": 0
+      "version": 0,
+      "template_folder": "_themes"
     },
     {
       "docset_name": "openpublishing-test-op",
