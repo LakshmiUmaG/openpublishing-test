@@ -19,5 +19,3 @@
     name: AuthenticationParameters
   - uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus
     name: AuthenticationStatus
-  - uid: Microsoft.IdentityModel.Clients.ActiveDirectory-1
-    name: Microsoft.IdentityModel.Clients.ActiveDirectory-1
