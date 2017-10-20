@@ -67,7 +67,7 @@ items:
   assemblies:
   - Microsoft.IdentityModel.Clients.ActiveDirectory
   namespace: Microsoft.IdentityModel.Clients.ActiveDirectory
-  summary: "\r\nError code returned as a property in AdalException\r\n"
+  summary: "\r\nError code returned as a property in AdalException \r\n"
   example: []
   syntax:
     content: public class AdalError
