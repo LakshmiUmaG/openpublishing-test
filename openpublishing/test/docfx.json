@@ -5,15 +5,12 @@
         {
           "files": [
             "**/**.md",
-            "restapi/**.json",
             "**/*.yml"
           ],
           "exclude": [
             "**/obj/**",
             "_themes/**",
-            "token/**",
-            "**/*-operations.md",
-            "restapi/azure/**.md"
+            "token/**"
           ]
         }
       ],
@@ -33,21 +30,6 @@
         "_mockServerAuthorization": "Bearer {token:https://graph.windows.net/}",
         "is_e2e_test": true
     },
-    "fileMetadata": {
-        "author": {
-            "reference/**": "dotnet-bot",
-            "restapi/**": "dotnet-bot"
-        }
-    },
-    "overwrite":
-    [
-      {
-        "files": [
-          "**/*-operations.md",
-          "restapi/azure/cognitiveservices/*.md"
-        ]
-      }
-    ],
     "externalReference": [
     ],
     "template": "op.html",
