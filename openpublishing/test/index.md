@@ -25,3 +25,6 @@ Currently, there is one docset in the repo: **openpublishing-test**
 By default, members of [Microsoft/vsc-eng-team](https://github.com/orgs/Microsoft/teams/vsc-eng-team) team have write permission to the repo. Please contact the owner of the team if you'd like to contribute.
 
 You are encouraged to modify the contents in your own branch, please create a branch named after your alias - DO NOT modify others' branches! 
+
+> [!NOTE]
+> Many ASP.NET controls do not have a visual representation at run time. The control is always visible in <span class="label">Code</span> view. If you do not see a representation of the control in <span class="label">Design</span> view, on the <span class="label">View</span> menu, point to <span class="label">Visual Aids</span> and then click <span class="label">ASP.NET Non Visual Controls</span>.
