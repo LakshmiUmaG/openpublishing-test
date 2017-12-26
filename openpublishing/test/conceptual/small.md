@@ -5,7 +5,6 @@ pagetitle: ATA Deployment Guide
 search: na
 ms.custom: 
   - ATA
-ms.date: na
 ms.prod: identity-ata
 ms.technology: 
   - security
