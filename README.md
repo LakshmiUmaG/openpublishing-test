@@ -1,3 +1,12 @@
+---
+topic: sample
+urlFragment: iotcore-defaultapp
+languages: 
+  - csharp
+products:
+  - windows
+description: The current IoT Core Default App, a fully featured sample app.
+---
 # Open Publishing Test Repo
 
 ## Purpose
