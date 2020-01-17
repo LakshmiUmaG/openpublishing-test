@@ -5,7 +5,7 @@
     {
       "docset_name": "openpublishing-test-azure",
       "build_source_folder": "openpublishing/azure-docs-pr",
-      "build_output_subfolder": "openpublishing/test/azure",
+      "build_output_subfolder": "openpublishing/azure",
       "locale": "en-us",
       "monikers": [],
       "open_to_public_contributors": false,
