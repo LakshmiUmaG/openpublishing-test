@@ -65,6 +65,23 @@
       "version": 0
     },
     {
+      "docset_name": "openpublishing-test-reference",
+      "build_source_folder": "openpublishing/test-reference",
+      "build_output_subfolder": "openpublishing/test-reference",
+      "locale": "en-us",
+      "monikers": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op",
+      "template_folder": "_themes.OPS",
+      "version": 0,
+      "customized_template_paths": "RawModelContentTemplate"
+    },
+    {
       "docset_name": "openpublishing-test-starterkit",
       "build_source_folder": "openpublishing/test",
       "build_output_subfolder": "openpublishing/test-starterkit",
