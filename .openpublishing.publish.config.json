@@ -5,7 +5,7 @@
     {
       "docset_name": "openpublishing-test-azure",
       "build_source_folder": "openpublishing/azure-docs-pr",
-      "build_output_subfolder": "openpublishing/test/azure",
+      "build_output_subfolder": "openpublishing/test-azure",
       "locale": "en-us",
       "monikers": [],
       "open_to_public_contributors": false,
@@ -79,11 +79,6 @@
       "build_entry_point": "op",
       "template_folder": "_themes.OPS",
       "version": 0,
-      "customized_tasks": {
-        "docset_prebuild": [
-          "scripts/generateYamlFromSourceCode.ps1"
-        ]
-      },
       "customized_template_paths": "RawModelContentTemplate"
     },
     {
