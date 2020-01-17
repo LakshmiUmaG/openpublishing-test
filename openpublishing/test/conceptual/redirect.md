@@ -6,4 +6,4 @@ search: na
 - monikers:
     - sql-server-2017
 ---
-#Test Canonical Redirect
+#Test Canonical Redirect test
