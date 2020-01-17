@@ -15,6 +15,17 @@
             "**/*-operations.md",
             "restapi/azure/**.md"
           ]
+        },
+        {
+          "files": [
+            "**/*.yml",
+            "**/*.md"
+          ],
+          "src": "redirectUrl/CanonicalUrl",
+          "version": "moniker-redirect-01",
+          "exclude": [
+            "**/includes/**"
+          ]
         }
       ],
     "resource": [
