@@ -1,9 +1,9 @@
 ---
-title: redirectUrl test - Relative path
+title: redirectUrl test - Root-relative URL without Locale
 redirect_url: /openpublishing/test/redirecturl/RelativePage
 ---
 
 
-# redirectUrl test - Relative path
+# redirectUrl test - Root-relative URL without Locale
 
  
