@@ -79,11 +79,6 @@
       "build_entry_point": "op",
       "template_folder": "_themes.OPS",
       "version": 0,
-      "customized_tasks": {
-        "docset_prebuild": [
-          "scripts/generateYamlFromSourceCode.ps1"
-        ]
-      },
       "customized_template_paths": "RawModelContentTemplate"
     },
     {
