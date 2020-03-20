@@ -12,5 +12,5 @@ echo "Executing $docfxExe metadata $docfxConfigFile"
 & "$docfxExe" metadata "$docfxConfigFile"
 if ($LASTEXITCODE -ne 0)
 {
-    Logging -message "Error generating metadata from source code to yaml in docset $ParameterDictionary.docset.docsetInfo.docset_name"
+    Logging -message "Error generating metadata from source code to yaml in docset $ParameterDictionary.docset.docsetInfo.docset_name" -source $source
 }

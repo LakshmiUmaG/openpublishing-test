@@ -1,6 +1,6 @@
 ---
 topic: sample
-urlFragment: iotcore-defaultapp-loop
+urlFragment: iotcore-defaultapp
 languages: 
   - csharp
 products:

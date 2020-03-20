@@ -1,3 +1,4 @@
+### YamlMime:ManagedReference
 items:
 - uid: Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus
   id: AuthenticationStatus
