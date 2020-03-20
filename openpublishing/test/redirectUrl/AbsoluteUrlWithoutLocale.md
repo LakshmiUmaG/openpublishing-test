@@ -1,6 +1,6 @@
 ---
 title: redirectUrl test - Absolute URL without Locale
-redirect_url: https://localhost/openpublishing/test/conceptual/large
+redirect_url: https://ppe.docs.microsoft.com/openpublishing/test/conceptual/large
 ---
 
 
