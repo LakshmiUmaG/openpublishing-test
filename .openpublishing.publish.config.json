@@ -60,6 +60,20 @@
       "template_folder": "_themes"
     },
     {
+      "docset_name": "openpublishing-test-locale-docset-redirection",
+      "build_source_folder": "openpublishing/test-docset-redirection",
+      "build_output_subfolder": "openpublishing-test-locale-docset-redirection",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
       "docset_name": "openpublishing-test-op",
       "build_source_folder": "openpublishing/test",
       "build_output_subfolder": "openpublishing/test-op",
