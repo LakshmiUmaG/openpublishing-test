@@ -5,7 +5,6 @@ pagetitle: ATA Deployment Guide
 search: na
 ms.custom: 
   - ATA
-ms.date: na
 ms.prod: identity-ata
 ms.technology: 
   - security
@@ -15,7 +14,7 @@ ms.assetid: f9ab356c-4c1c-444c-b221-2451aaebc58b
 ms.author: 5f6e9ed0-302d-496f-873c-7a2b94e50410
 ---
 # ATA Deployment Guide
-To deploy ATA, follow these steps:
+To deploy ATA, follow these steps: test blob
 
 1. Prepare your network and servers according to the guidelines in [ATA Prerequisites](./small.md).
 
